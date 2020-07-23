@@ -1,0 +1,95 @@
+Konkani and Hindi: `apertium-kok-hin`
+===============================================================================
+
+This is an Apertium language pair for translating between Konkani and
+Hindi. What you can use this language package for:
+
+* Translating between Konkani and Hindi
+* Morphological analysis of Konkani and Hindi
+* Part-of-speech tagging of Konkani and Hindi
+
+For information on the latter two points, see subheading "For more
+information" below.
+
+Requirements
+-------------------------------------------------------------------------------
+
+You will need the following software installed:
+
+* lttoolbox (>= 3.5.1)
+* apertium (>= 3.6.1)
+* vislcg3 (>= 1.3.1)
+* apertium-kok
+* apertium-hin
+
+If this does not make any sense, we recommend you look at: www.apertium.org.
+
+Compiling
+-------------------------------------------------------------------------------
+
+Given the requirements being installed, you should be able to just run:
+
+```console
+$ ./configure
+$ make
+# make install
+```
+
+You can use `./autogen.sh` instead of `./configure` in case you're compiling
+from source. If you installed any prerequisite language packages using a
+`--prefix` with `./configure`, make sure to use the same `--prefix` when running
+`./configure` here.
+
+Testing
+-------------------------------------------------------------------------------
+
+If you are in the source directory after running make, the following
+commands should work:
+
+```console
+$ echo "TODO test sentence 1" | apertium -d . kok-hin
+TODO test translated sentence 1
+
+$ echo "TODO test sentence 2" | apertium -d . hin-kok
+TODO test translated sentence 2
+```
+
+After installing somewhere in `$PATH`, you should be able to do e.g.
+
+```console
+$ echo "TODO test sentence 1" | apertium kok-hin
+TODO test translated sentence 1
+```
+
+Files and data
+-------------------------------------------------------------------------------
+
+* [`apertium-kok-hin.kok-hin.dix`](apertium-kok-hin.kok-hin.dix) - Bilingual dictionary
+* [`apertium-kok-hin.kok-hin.t1x`](apertium-kok-hin.kok-hin.t1x) - Chunking rules for translating into Hindi
+* [`apertium-kok-hin.hin-kok.t1x`](apertium-kok-hin.hin-kok.t1x) - Chunking rules for translating into Konkani
+* [`apertium-kok-hin.kok-hin.t2x`](apertium-kok-hin.kok-hin.t2x) - Interchunk rules for translating into Hindi
+* [`apertium-kok-hin.hin-kok.t2x`](apertium-kok-hin.hin-kok.t2x) - Interchunk rules for translating into Konkani
+* [`apertium-kok-hin.kok-hin.t3x`](apertium-kok-hin.kok-hin.t3x) - Postchunk rules for translating into Hindi
+* [`apertium-kok-hin.hin-kok.t3x`](apertium-kok-hin.hin-kok.t3x) - Postchunk rules for translating into Konkani
+* [`apertium-kok-hin.kok-hin.lrx`](apertium-kok-hin.kok-hin.lrx) - Lexical selection rules for translating into Hindi
+* [`apertium-kok-hin.hin-kok.lrx`](apertium-kok-hin.hin-kok.lrx) - Lexical selection rules for translating into Konkani
+* [`apertium-kok-hin.kok-hin.arx`](apertium-kok-hin.kok-hin.arx) - Anaphora resolution rules for translating into Hindi
+* [`apertium-kok-hin.hin-kok.arx`](apertium-kok-hin.hin-kok.arx) - Anaphora resolution rules for translating into Konkani
+* [`modes.xml`](modes.xml) - Translation modes
+
+For more information
+-------------------------------------------------------------------------------
+
+* http://wiki.apertium.org/wiki/Installation
+* http://wiki.apertium.org/wiki/apertium-kok-hin
+* http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
+
+Help and support
+-------------------------------------------------------------------------------
+
+If you need help using this language pair or data, you can contact:
+
+* Mailing list: apertium-stuff@lists.sourceforge.net
+* IRC: `#apertium` on irc.freenode.net (irc://irc.freenode.net/#apertium)
+
+See also the file [`AUTHORS`](AUTHORS), included in this distribution.

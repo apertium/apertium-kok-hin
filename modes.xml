@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+
+  <!-- kok → hin -->
+
+  <mode name="kok-hin" install="yes" gendebug="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kok-hin.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="kok-hin.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="kok-hin.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kok-hin.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="kok-hin.autolex.bin"/>
+      </program>
+      <program name="apertium-anaphora">
+        <file name="apertium-kok-hin.kok-hin.arx"/>
+      </program>
+
+      <program name="apertium-transfer -b">
+        <file name="apertium-kok-hin.kok-hin.t1x"/>
+        <file name="kok-hin.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-kok-hin.kok-hin.t2x"/>
+        <file name="kok-hin.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-kok-hin.kok-hin.t3x"/>
+        <file name="kok-hin.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="kok-hin.autogen.bin"/>
+      </program>
+
+      <program name="lt-proc -p">
+        <file name="kok-hin.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <!-- hin → kok -->
+
+  <mode name="hin-kok" install="yes" gendebug="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="hin-kok.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="hin-kok.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="hin-kok.prob"/>
+      </program>
+
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="hin-kok.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="hin-kok.autolex.bin"/>
+      </program>
+      <program name="apertium-anaphora">
+        <file name="apertium-hin-kok.hin-kok.arx"/>
+      </program>
+
+      <program name="apertium-transfer -b">
+        <file name="apertium-kok-hin.hin-kok.t1x"/>
+        <file name="hin-kok.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-kok-hin.hin-kok.t2x"/>
+        <file name="hin-kok.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-kok-hin.hin-kok.t3x"/>
+        <file name="hin-kok.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="hin-kok.autogen.bin"/>
+      </program>
+
+      <program name="lt-proc -p">
+        <file name="hin-kok.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+</modes>
+
