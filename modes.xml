@@ -64,7 +64,7 @@
         <file name="hin-kok.autolex.bin"/>
       </program>
       <program name="apertium-anaphora">
-        <file name="apertium-hin-kok.hin-kok.arx"/>
+        <file name="apertium-kok-hin.hin-kok.arx"/>
       </program>
 
       <program name="apertium-transfer -b">
