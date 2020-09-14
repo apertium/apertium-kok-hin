@@ -43,9 +43,6 @@
         <file name="kok-hin.autogen.bin"/>
       </program>
 
-      <program name="lt-proc -p">
-        <file name="kok-hin.autopgen.bin"/>
-      </program>
     </pipeline>
   </mode>
 
@@ -90,10 +87,6 @@
       </program>
       <program name="lt-proc $1">
         <file name="hin-kok.autogen.bin"/>
-      </program>
-
-      <program name="lt-proc -p">
-        <file name="hin-kok.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
