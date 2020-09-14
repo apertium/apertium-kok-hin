@@ -1,103 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
    <!-- Define the alphabet below. -->
-  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
+  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZॊऀँंःऄअआइईउऊऋऌऍऎएऐऑऒओऔकखगघङचछजझञटठडढणतथदधनऩपफबभमयरऱलळऴवशषसहऺऻ़ऽािीुूृॄॅॆेैॉॊोौ्ॎॏॐ॒॑॓॔ॕॖॗक़ख़ग़ज़ड़ढ़फ़य़ॠॡॢॣॱॲॳॴॵॶॷॸॹॺॻॼॽॾ</alphabet>
 
   <sdefs>
     <!-- Define symbol definitions within <sdef> here. -->
-    <sdef n="n"               c="Noun"/>
-    <sdef n="np"              c="Proper noun"/>
-    <sdef n="vblex"           c="Verb, lexical"/>
-    <sdef n="vbmod"           c="Modal verb"/>
-    <sdef n="vaux"            c="Auxiliary verb"/>
-    <sdef n="vbser"           c="'To be' verb"/>
-    <sdef n="vbhaver"         c="'To have' verb"/>
-    <sdef n="cnjsub"          c="Subordinating conjunction"/>
-    <sdef n="cnjcoo"          c="Co-ordinating conjunction"/>
-    <sdef n="cnjadv"          c="Adverbial conjunction"/>
-    <sdef n="pr"              c="Preposition"/>
-    <sdef n="adv"             c="Adverb"/>
-    <sdef n="ij"              c="Interjection"/>
-    <sdef n="adj"             c="Adjective"/>
-    <sdef n="prn"             c="Pronoun"/>
+    <sdef n="adj"     c="Adjective"/>
+    <sdef n="vblex"       c="Verb"/>
+    <sdef n="adv"     c="Adverb"/>
+    <sdef n="n"     c="Noun"/>
+    <!--<sdef n="np"     c="Proper Noun"/>-->
+    <sdef n="ninf"     c="Noninflecting"/>
+    <sdef n="post"     c="Postposition"/>
+    <sdef n="prn"     c="Pronoun"/>
+    <!--<sdef n="cnj"     c="Conjunction"/>-->
+    <sdef n="cnjcoo"     c="Conjunction Coordinate"/>
+    <sdef n="cnjsub"     c="Conjunction Subordinate"/>
+    <sdef n="cnjquot"     c="Conjunction Quotative"/>
+    <sdef n="abbr"     c="Abbreviation"/>
+    <sdef n="percent"     c="Percentage"/>
+    <sdef n="cm"         c="Comma Punctuation"/>
+    <sdef n="sent"       c="Sentencemarker"/>
+    <sdef n="lpar"       c="Left Parenthesis"/>
+    <sdef n="rpar"       c="Right Parenthesis"/>
+    <sdef n="quot"      c="Quote"/>
+    <sdef n="lquot"      c="Left Quote"/>
+    <sdef n="rquot"      c="Right Quote"/>
+    <sdef n="guio"       c="Hyphen"/>
 
-    <sdef n="attr"            c="Attributive"/>
-    <sdef n="top"             c="Toponym"/>
-    <sdef n="ant"             c="Anthroponym"/>
-    <sdef n="cog"             c="Cognomen"/>
-    <sdef n="org"             c="Organisation"/>
-    <sdef n="al"              c="Altres / misc proper nouns"/>
+    <sdef n="f"       c="Feminine"/>     
+    <sdef n="m"       c="Masculine"/>
+    <sdef n="nt"       c="Neuter"/>
+    <sdef n="p1"       c="First Person"/>
+    <sdef n="p2"       c="Second Person"/>
+    <sdef n="p3"       c="Third Person"/>
+    <sdef n="num"     c="Numeral"/>
+    <sdef n="temp"     c="Temperature"/>
 
-    <sdef n="pers"            c="Personal pronoun"/>
-    <sdef n="ref"             c="Reflexive pronoun"/>
-    <sdef n="res"             c="Reciprocal pronoun"/>
+    <sdef n="pres"       c="Present"/>
+    <sdef n="past"       c="Past"/>
+    <sdef n="fut"       c="Future"/>
+    <sdef n="perf"       c="Perfective participle"/>
 
-    <sdef n="det"             c="Determiner"/>
-    <sdef n="pos"             c="Possessive"/>
+    <sdef n="imperf"       c="Imperfective"/>
+    <sdef n="ind"       c="Indefinite"/>
+    <sdef n="idct"       c="Indicative"/>
+    <sdef n="def"       c="Definitive"/>
+    <sdef n="pret"       c="Preterite"/>
 
-    <sdef n="p1"              c="1st person"/>
-    <sdef n="p2"              c="2nd person"/>
-    <sdef n="p3"              c="3rd person"/>
+    <sdef n="subjdr"       c="Subjective Demands And Recommendation"/>
+    <sdef n="subjcn"       c="Subjective Contigent"/>
+    <sdef n="subjop"       c="Subjective Optative"/>
+    <sdef n="subjxor"       c="Subjective Exhortative"/>
+    <sdef n="subjinv"       c="Subjective Invocative"/>
+    <sdef n="subjper"       c="Subjective Permissive"/>
+    <sdef n="subjvol"       c="Subjective Volitional"/>
+    <sdef n="subjprop"       c="Subjective Proposal"/>
+    <sdef n="subjdes"       c="Subjective Desiderative"/>
+    <sdef n="cnisit"       c="Conditional Situational"/>
+    <sdef n="vbneg"       c="Verb Negative"/>
+    <sdef n="subjai"       c="Subjective Abilities And Inabilitatives"/>
+    <sdef n="impimp"       c="Imperative Imperative"/>
+    <sdef n="impxor"       c="Imperative Exhortative"/>
 
-    <sdef n="nt"              c="Neuter"/>
-    <sdef n="ut"              c="Utrum"/>
-    <sdef n="f"               c="Feminine"/>
-    <sdef n="m"               c="Masculine"/>
-    <sdef n="un"              c="No gender"/>
+    <sdef n="sg"      c="Singular"/>     
+    <sdef n="pl"      c="Plural"/>
+    <sdef n="cmsg"      c="Case Marker Singular"/>     
+    <sdef n="cmpl"      c="Case Marker Plural"/>
 
-    <sdef n="sg"              c="Singular"/>
-    <sdef n="du"              c="Dual"/>
-    <sdef n="pl"              c="Plural"/>
-    <sdef n="sp"              c="Singular / plural"/>
+    <sdef n="dc"      c="Direct Case"/>     
+    <sdef n="oc"      c="Oblique Case"/>
+    <sdef n="nom"      c="Nominative"/>
 
-    <sdef n="ind"             c="Indefinite"/>
-    <sdef n="def"             c="Definite"/>
+    <sdef n="ecl"      c="Emperical Clitic"/>
+    <sdef n="cl"      c="Clitic"/>
 
-    <sdef n="nom"             c="Nominative"/>
-    <sdef n="acc"             c="Accusative"/>
-    <sdef n="gen"             c="Genitive"/>
+    <sdef n="pers"     c="Personal"/>
+    <sdef n="erg"     c="Ergative"/>
+    <sdef n="tv"     c="transitive"/> 
 
-    <sdef n="dem"             c="Demonstrative"/>
-    <sdef n="itg"             c="Question word / interrogative"/>
-    <sdef n="qnt"             c="Quantifier"/>
-    <sdef n="neg"             c="Negative"/>
-    <sdef n="emph"            c="Emphatic"/>
-
-    <sdef n="inf"             c="Infinitive"/>
-    <sdef n="pres"            c="Present"/>
-    <sdef n="imp"             c="Imperative"/>
-    <sdef n="pret"            c="Preterite"/>
-    <sdef n="pp"              c="Perfect participle"/>
-    <sdef n="pprs"            c="Present participle"/>
-    <sdef n="pasv"            c="Passive"/>
-    <sdef n="actv"            c="Active voice"/>
-
-    <sdef n="sint"            c="Synthetic (of adjectives)"/>
-    <sdef n="pst"             c="Positive"/>
-    <sdef n="comp"            c="Comparative"/>
-    <sdef n="sup"             c="Superlative"/>
-
-    <sdef n="ord"             c="Ordinal"/>
-    <sdef n="acr"             c="Acronym"/>
-    <sdef n="unc"             c="Uncountable"/>
-
-    <sdef n="num"             c="Numeral"/>
-    <sdef n="sent"            c="Sentence end"/>
-    <sdef n="cm"              c="Comma"/>
-    <sdef n="apos"            c="Apostrophe"/>
-    <sdef n="guio"            c="Dash"/>
-    <sdef n="lpar"            c="Left parenthesis"/>
-    <sdef n="rpar"            c="Right parenthesis"/>
-    <sdef n="lquot"           c="Left quote"/>
-    <sdef n="rquot"           c="Right quote"/>
-
-    <sdef n="compound-only-L" c="May only be the left-side of a compound"/>
-    <sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
   </sdefs>
 
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
-      <e><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
+      <!--<e><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
+      
+      <e><p><l>kʼicheʼ<s n="adj"/></l><r>quiché<s n="adj"/></r></p><par n="mf_ND"/></e>
+      <e><p><l>tzij<s n="adj"/></l><r>verdadero<s n="adj"/></r></p><par n="GD_ND"/></e>-->
+
+      <e><p><l>आमी<s n="prn"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="erg"/></r></p></e>
+      <e><p><l>के<s n="vblex"/><s n="pl"/><s n="m"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/></l><r>कर<s n="vblex"/><s n="tv"/><s n="perf"/><s n="m"/><s n="sg"/></r></p></e>
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
