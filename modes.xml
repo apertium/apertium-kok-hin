@@ -13,9 +13,9 @@
       <program name="cg-proc -w">
         <file name="kok-hin.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <--<program name="apertium-tagger -g $2">
         <file name="kok-hin.prob"/>
-      </program>
+      </program>-->
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
         <file name="kok-hin.autobil.bin"/>
