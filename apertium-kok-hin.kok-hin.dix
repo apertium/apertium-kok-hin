@@ -83,16 +83,30 @@
 
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
-      <!--<e><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
-      
+      <!--
       <e><p><l>kʼicheʼ<s n="adj"/></l><r>quiché<s n="adj"/></r></p><par n="mf_ND"/></e>
       <e><p><l>tzij<s n="adj"/></l><r>verdadero<s n="adj"/></r></p><par n="GD_ND"/></e>-->
 
+      <!--Noun-->
+      
+      
+      <!--Pronoun-->
       <e><p><l>आमी<s n="prn"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="erg"/></r></p></e>
+      
+      <!--Verb-->
       <e><p><l>के<s n="vblex"/><s n="pl"/><s n="m"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/></l><r>कर<s n="vblex"/><s n="tv"/><s n="perf"/><s n="m"/><s n="sg"/></r></p></e>
+      
+      <!--Adverb-->
+      
+      
+      <!--Adjective-->
+      
+      
+      <!--Conjunction-->
+      
 
-      <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
-      <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
+      <e><re>[.\?;:!…¿¶।]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+      <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
    </section>
 </dictionary>
 
