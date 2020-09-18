@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary type="separable">
+  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZॊऀँंःऄअआइईउऊऋऌऍऎएऐऑऒओऔकखगघङचछजझञटठडढणतथदधनऩपफबभमयरऱलळऴवशषसहऺऻ़ऽािीुूृॄॅॆेैॉॊोौ्ॎॏॐ॒॑॓॔ॕॖॗक़ख़ग़ज़ड़ढ़फ़य़ॠॡॢॣॱॲॳॴॵॶॷॸॹॺॻॼॽॾ</alphabet>
+  
+  <sdefs>
+  <sdef n="n"/>
+  <sdef n="adj"/>
+  <sdef n="vblex"/>
+  <sdef n="tv"/>
+  <sdef n="impf"/>
+  <sdef n="m"/>
+  <sdef n="pl"/>
+  <sdef n="vbser"/>
+  <sdef n="pres"/>
+  <sdef n="nom"/>
+  </sdefs>
+
+  <pardefs>
+  <pardef n="n">
+    <e><i><w/><s n="n"/><t/><j/></i></e>
+  </pardef>
+  <pardef n="adj">
+    <e><i><w/><s n="adj"/><t/><j/></i></e>
+  </pardef>
+  <pardef n="vblex">
+    <e><i><w/><s n="vblex"/><t/><j/></i></e>
+  </pardef>
+  </pardefs>
+  
+  <section id="main" type="standard">
+
+  <!--Nouns-->
+  
+  <!--Verbs-->
+  <e lm="देखते है" c="पळयता">
+  <p><l>देखते<s n="vblex"/><s n="tv"/><s n="impf"/><s n="m"/><s n="pl"/><j/>है<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/></l>
+  <r>देखते<b/>है<s n="vblex"/></r></p><i><t/><j/></i>
+  </e>
+
+  <!--Adjectives-->
+
+  </section>
+</dictionary>
