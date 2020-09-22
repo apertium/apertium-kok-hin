@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary type="separable">
+  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZॊऀँंःऄअआइईउऊऋऌऍऎएऐऑऒओऔकखगघङचछजझञटठडढणतथदधनऩपफबभमयरऱलळऴवशषसहऺऻ़ऽािीुूृॄॅॆेैॉॊोौ्ॎॏॐ॒॑॓॔ॕॖॗक़ख़ग़ज़ड़ढ़फ़य़ॠॡॢॣॱॲॳॴॵॶॷॸॹॺॻॼॽॾ</alphabet>
+  
+  <sdefs>
+  <sdef n="n"/>
+  <sdef n="adj"/>
+  <sdef n="vblex"/>
+  <sdef n="sg"/>
+  <sdef n="dc"/>
+  <sdef n="nom"/>
+  <sdef n="subjop"/>
+  </sdefs>
+
+  <pardefs>
+  <pardef n="n">
+    <e><i><w/><s n="n"/><t/><j/></i></e>
+  </pardef>
+  <pardef n="adj">
+    <e><i><w/><s n="adj"/><t/><j/></i></e>
+  </pardef>
+  <pardef n="vblex">
+    <e><i><w/><s n="vblex"/><t/><j/></i></e>
+  </pardef>
+  </pardefs>
+  
+  <section id="main" type="standard">
+
+  <!--Nouns-->
+  <e lm="देव बरें करुं" c="धन्यवाद">
+  <p><l>देव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>बरें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>कर<s n="vblex"/><s n="subjop"><j/></l>
+  <r>देव<b/>बरें<b/>करुं<s n="n"/></r></p>
+  </e>
+
+  <!--Verbs-->
+
+  <!--Adjectives-->
+
+  </section>
+</dictionary>

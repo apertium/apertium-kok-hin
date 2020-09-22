@@ -93,6 +93,7 @@
 
       <!--Noun-->
       <e><p><l>देव<s n="n"/></l><r>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="m"/><s n="pl"/><s n="frm"/><s n="gen"/></r></p></e>
+      <e><p><l>देव<b/>बरें<b/>करुं<s n="n"/></l><r>धन्यवाद<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       
       <!--Pronoun-->
       <e><p><l>आमी<s n="prn"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="erg"/></r></p></e>
