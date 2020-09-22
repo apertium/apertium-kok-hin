@@ -33,8 +33,8 @@
   
   <!--Verbs-->
   <e lm="देखते है" c="पळयता">
-  <p><l>देखते<s n="vblex"/><s n="tv"/><s n="impf"/><s n="m"/><s n="pl"/><j/>है<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/></l>
-  <r>देखते<b/>है<s n="vblex"/></r></p><i><t/><j/></i>
+  <p><l>देखते<s n="vblex"/><s n="tv"/><s n="impf"/><s n="m"/><s n="pl"/><j/>है<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
+  <r>देखते<b/>है<s n="vblex"/></r></p>
   </e>
 
   <!--Adjectives-->
