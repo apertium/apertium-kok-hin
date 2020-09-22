@@ -21,6 +21,8 @@ TARGETS_COMMON =		\
 	$(PREFIX1).t3x.bin	\
 	$(PREFIX1).revautoseq.bin	\
 	$(PREFIX2).revautoseq.bin	\
+	$(PREFIX1).autoseq.bin	\
+	$(PREFIX2).autoseq.bin	\
 	$(PREFIX2).automorf.bin	\
 	$(PREFIX2).prob		\
 	$(PREFIX2).rlx.bin	\
@@ -150,6 +152,12 @@ $(PREFIX2).t3x.bin: $(BASENAME).$(PREFIX2).t3x
 ###############################################################################
 ## Separable
 ###############################################################################
+$(PREFIX1).autoseq.bin: $(BASENAME).$(PREFIX2).lsx
+	lsx-comp lr $< $@
+
+$(PREFIX2).autoseq.bin: $(BASENAME).$(PREFIX1).lsx
+	lsx-comp lr $< $@
+
 $(PREFIX1).revautoseq.bin: $(BASENAME).$(PREFIX2).lsx
 	lsx-comp rl $< $@
 
