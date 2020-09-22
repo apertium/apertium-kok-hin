@@ -36,6 +36,9 @@
         <file name="apertium-kok-hin.kok-hin.t3x"/>
         <file name="kok-hin.t3x.bin"/>
       </program>
+      <program name="lsx-proc" debug-suff="revautoseq">
+        <file name="kok-hin.revautoseq.bin"/>
+      </program>
       <program name="lt-proc $1">
         <file name="kok-hin.autogen.bin"/>
       </program>
