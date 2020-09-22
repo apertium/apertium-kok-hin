@@ -28,7 +28,7 @@
 
   <!--Nouns-->
   <e lm="देव बरें करुं" c="धन्यवाद">
-  <p><l>देव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>बरें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>कर<s n="vblex"/><s n="subjop"><j/></l>
+  <p><l>देव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>बरें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>कर<s n="vblex"/><s n="subjop"/><j/></l>
   <r>देव<b/>बरें<b/>करुं<s n="n"/></r></p>
   </e>
 
