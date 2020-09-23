@@ -7,12 +7,19 @@
   <sdef n="adj"/>
   <sdef n="vblex"/>
   <sdef n="tv"/>
+  <sdef n="iv"/>
   <sdef n="impf"/>
+  <sdef n="perf"/>
   <sdef n="m"/>
+  <sdef n="f"/>
+  <sdef n="mf"/>
+  <sdef n="sg"/>
   <sdef n="pl"/>
   <sdef n="vbser"/>
   <sdef n="pres"/>
   <sdef n="nom"/>
+  <sdef n="cnjcoo"/>
+  <sdef n="p1"/>
   </sdefs>
 
   <pardefs>
@@ -25,6 +32,9 @@
   <pardef n="vblex">
     <e><i><w/><s n="vblex"/><t/><j/></i></e>
   </pardef>
+  <pardef n="cnjcoo">
+    <e><i><w/><s n="cnjcoo"/><t/><j/></i></e>
+  </pardef>
   </pardefs>
   
   <section id="main" type="standard">
@@ -35,6 +45,12 @@
   <e lm="देखते है" c="पळयता">
   <p><l>देख<s n="vblex"/><s n="tv"/><s n="impf"/><s n="m"/><s n="pl"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
   <r>देखते<b/>है<s n="vblex"/></r></p>
+  </e>
+
+  <!--Conjunctions-->
+  <e lm="बनाई जाती हैं" c="करतात">
+  <p><l>बना<s n="vblex"/><s n="tv"/><s n="perf"/><s n="f"/><s n="sg"/><j/>जा<s n="vblex"/><s n="iv"/><s n="impf"/><s n="f"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="pl"/><j/></l>
+  <r>बनाई<b/>जाती<b/>हैं<s n="cnjcoo"/></r></p>
   </e>
 
   <!--Adjectives-->

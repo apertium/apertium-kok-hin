@@ -74,14 +74,21 @@
 
     <sdef n="ecl"      c="Emperical Clitic"/>
     <sdef n="cl"      c="Clitic"/>
-
+    
+    <!-- exclusively from 'hin.dix' -->
     <sdef n="pers"     c="Personal"/>
     <sdef n="erg"     c="Ergative"/>
-    <sdef n="tv"     c="transitive"/> 
+    <sdef n="tv"     c="transitive"/>
+    <sdef n="iv"     c="intransitive"/>
     <sdef n="gen"     c="Genitive"/>
     <sdef n="frm"	  c="Formal"/>
-    <sdef n="impf"    c=" Imperfective participle"/> 
+    <sdef n="impf"    c="Imperfective participle"/> 
     <sdef n="vbser"   c="Verb 'to be'"/>   
+    <sdef n="mf"      c=""/>
+    <sdef n="dem"     c="Demonstrative"/>
+    <sdef n="prox"     c="Proximate"/>
+    <sdef n="obl"     c="Oblique"/>
+
 
   </sdefs>
 
@@ -94,23 +101,28 @@
       <!--Noun-->
       <e><p><l>देव<s n="n"/></l><r>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="m"/><s n="pl"/><s n="frm"/><s n="gen"/></r></p></e>
       <e><p><l>देव<b/>बरें<b/>करुं<s n="n"/></l><r>धन्यवाद<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
-      
+      <e><p><l>दीस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>दिन<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>आठ<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>आठ<s n="num"/></r></p></e>
+      <e><p><l>पंगड<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>टीम<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+
       <!--Pronoun-->
       <e><p><l>आमी<s n="prn"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="erg"/></r></p></e>
       
       <!--Verb-->
       <e><p><l>के<s n="vblex"/><s n="pl"/><s n="m"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/></l><r>कर<s n="vblex"/><s n="tv"/><s n="perf"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>पळय<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/></l><r>देखते<b/>है<s n="vblex"/></r></p></e>
-      
+      <e><p><l>दिव<s n="vblex"/><s n="sg"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="fut"/><s n="ind"/><s n="subjcn"/></l><r>हो<s n="vbser"/><s n="pres"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
 
       <!--Adverb-->
-      
+      <e><p><l>तरेन<s n="adv"/></l><r>प्रकार<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       
       <!--Adjective-->
+      <e><p><l>बरो<s n="adj"/><s n="sg"/><s n="dc"/><s n="m"/></l><r>शुभ<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       
-      
+
       <!--Conjunction-->
-      
+      <e><p><l>करतात<s n="cnjcoo"/></l><r>बनाई<b/>जाती<b/>हैं<s n="cnjcoo"/></r></p></e>
+      <e><p><l>अशे<s n="cnjsub"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="prox"/><s n="obl"/></r></p></e>
 
       <e><re>[.\?;:!…¿¶।]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
