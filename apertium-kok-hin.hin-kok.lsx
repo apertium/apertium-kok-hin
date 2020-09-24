@@ -22,20 +22,13 @@
   <sdef n="p3"/>
   </sdefs>
 
+  <!--
   <pardefs>
-  <pardef n="n">
-    <e><i><w/><s n="n"/><t/><j/></i></e>
-  </pardef>
-  <pardef n="adj">
-    <e><i><w/><s n="adj"/><t/><j/></i></e>
-  </pardef>
   <pardef n="vblex">
     <e><i><w/><s n="vblex"/><t/><j/></i></e>
   </pardef>
-  <pardef n="cnjcoo">
-    <e><i><w/><s n="cnjcoo"/><t/><j/></i></e>
-  </pardef>
   </pardefs>
+  -->
   
   <section id="main" type="standard">
 
@@ -46,11 +39,15 @@
   <p><l>देख<s n="vblex"/><s n="tv"/><s n="impf"/><s n="m"/><s n="pl"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
   <r>देखते<b/>है<s n="vblex"/></r></p>
   </e>
+  <e lm="काम करते है" c="काम करता">
+  <p><l>काम कर<s n="vblex"/><s n="tv"/><s n="impf"/><s n="m"/><s n="pl"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
+  <r>काम करते<b/>है<s n="vblex"/></r></p>
+  </e>
 
   <!--Conjunctions-->
   <e lm="बनाई जाती हैं" c="करतात">
   <p><l>बना<s n="vblex"/><s n="tv"/><s n="perf"/><s n="f"/><s n="sg"/><j/>जा<s n="vblex"/><s n="iv"/><s n="impf"/><s n="f"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p3"/><s n="mf"/><s n="pl"/><j/></l>
-  <r>बनाई<b/>जाती<b/>हैं<s n="cnjcoo"/></r></p>
+  <r>बनाई<b/>जाती<b/>हैं<s n="vblex"/></r></p>
   </e>
 
   <!--Adjectives-->

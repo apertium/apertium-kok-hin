@@ -18,12 +18,6 @@
   <pardef n="n">
     <e><i><w/><s n="n"/><t/><j/></i></e>
   </pardef>
-  <pardef n="adj">
-    <e><i><w/><s n="adj"/><t/><j/></i></e>
-  </pardef>
-  <pardef n="vblex">
-    <e><i><w/><s n="vblex"/><t/><j/></i></e>
-  </pardef>
   </pardefs>
 -->
   
@@ -33,6 +27,10 @@
   <e lm="देव बरें करुं" c="धन्यवाद">
   <p><l>देव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>बरें<s n="adv"/><j/>कर<s n="vblex"/><s n="subjop"/><j/></l>
   <r>देव<b/>बरें<b/>करुं<s n="n"/></r></p>
+  </e>
+  <e lm="काम करता" c="काम करते है">
+  <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>करता<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/></l>
+  <r>काम<b/>करता<s n="n"/></r></p>
   </e>
 
   <!--Verbs-->
