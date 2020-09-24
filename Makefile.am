@@ -47,8 +47,9 @@ TARGETS_COMMON =		\
 .deps/$(LANG1).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.bin .deps/.d
 	cp $< $@
 
-$(PREFIX1).automorf.bin: .deps/$(LANG1).automorf.bin $(PREFIX1).autobil.bin
-	lt-trim $^ $@
+# Removed trimming
+$(PREFIX1).automorf.bin: .deps/$(LANG1).automorf.bin
+	cp $< $@
 
 # -------------------
 # Konkani generation:
@@ -65,8 +66,9 @@ $(PREFIX2).autogen.bin: $(AP_SRC1)/$(LANG1).autogen.bin
 .deps/$(LANG2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.bin .deps/.d
 	cp $< $@
 
-$(PREFIX2).automorf.bin: .deps/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
-	lt-trim $^ $@
+# Removed trimming
+$(PREFIX2).automorf.bin: .deps/$(LANG2).automorf.bin
+	cp $< $@
 
 # -------------------
 # Hindi generation:
