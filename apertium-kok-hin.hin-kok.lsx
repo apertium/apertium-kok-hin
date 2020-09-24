@@ -19,7 +19,7 @@
   <sdef n="pres"/>
   <sdef n="nom"/>
   <sdef n="cnjcoo"/>
-  <sdef n="p1"/>
+  <sdef n="p3"/>
   </sdefs>
 
   <pardefs>
@@ -49,7 +49,7 @@
 
   <!--Conjunctions-->
   <e lm="बनाई जाती हैं" c="करतात">
-  <p><l>बना<s n="vblex"/><s n="tv"/><s n="perf"/><s n="f"/><s n="sg"/><j/>जा<s n="vblex"/><s n="iv"/><s n="impf"/><s n="f"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="pl"/><j/></l>
+  <p><l>बना<s n="vblex"/><s n="tv"/><s n="perf"/><s n="f"/><s n="sg"/><j/>जा<s n="vblex"/><s n="iv"/><s n="impf"/><s n="f"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p3"/><s n="mf"/><s n="pl"/><j/></l>
   <r>बनाई<b/>जाती<b/>हैं<s n="cnjcoo"/></r></p>
   </e>
 

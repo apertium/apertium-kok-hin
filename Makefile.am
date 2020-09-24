@@ -154,10 +154,10 @@ $(PREFIX2).t3x.bin: $(BASENAME).$(PREFIX2).t3x
 ###############################################################################
 ## Separable
 ###############################################################################
-$(PREFIX1).autoseq.bin: $(BASENAME).$(PREFIX2).lsx
+$(PREFIX1).autoseq.bin: $(BASENAME).$(PREFIX1).lsx
 	lsx-comp lr $< $@
 
-$(PREFIX2).autoseq.bin: $(BASENAME).$(PREFIX1).lsx
+$(PREFIX2).autoseq.bin: $(BASENAME).$(PREFIX2).lsx
 	lsx-comp lr $< $@
 
 $(PREFIX1).revautoseq.bin: $(BASENAME).$(PREFIX2).lsx
