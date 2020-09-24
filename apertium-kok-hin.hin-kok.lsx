@@ -43,12 +43,12 @@
   <p><l>काम कर<s n="vblex"/><s n="tv"/><s n="impf"/><s n="m"/><s n="pl"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
   <r>काम करते<b/>है<s n="vblex"/></r></p>
   </e>
-
-  <!--Conjunctions-->
   <e lm="बनाई जाती हैं" c="करतात">
   <p><l>बना<s n="vblex"/><s n="tv"/><s n="perf"/><s n="f"/><s n="sg"/><j/>जा<s n="vblex"/><s n="iv"/><s n="impf"/><s n="f"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p3"/><s n="mf"/><s n="pl"/><j/></l>
   <r>बनाई<b/>जाती<b/>हैं<s n="vblex"/></r></p>
   </e>
+  
+  <!--Conjunctions-->
 
   <!--Adjectives-->
 
