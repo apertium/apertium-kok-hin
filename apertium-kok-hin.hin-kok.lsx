@@ -20,7 +20,9 @@
   <sdef n="pres"/>
   <sdef n="nom"/>
   <sdef n="cnjcoo"/>
+  <sdef n="p1"/>
   <sdef n="p3"/>
+  <sdef n="stem"/>
   </sdefs>
 
   <!--
