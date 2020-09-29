@@ -131,7 +131,7 @@
       <e><p><l>कर<s n="vblex"/><s n="pl"/><s n="f"/><s n="nt"/><s n="p3"/><s n="subjvol"/></l><r>करना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>वस<s n="vblex"/></l><r>चले जाओ<s n="vblex"/><s n="iv"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p><l>काम करता<s n="vblex"/></l><r>काम करते है<s n="vblex"/></r></p></e>
-      <e><p><l>काम करता<s n="vblex"/></l><r>काम कर रहा हूं<s n="vblex"/></r></p></e>
+      <e><p><l>काम करता<s n="vblex"/><s n="p1"/></l><r>काम कर रहा हूं<s n="vblex"/></r></p></e>
       <e><p><l>यो<s n="vblex"/></l><r>आ<s n="vblex"/><s n="iv"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
 
       <!--Adverb-->
