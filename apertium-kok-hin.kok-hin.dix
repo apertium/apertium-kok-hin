@@ -80,6 +80,7 @@
     <sdef n="erg"     c="Ergative"/>
     <sdef n="tv"     c="transitive"/>
     <sdef n="iv"     c="intransitive"/>
+    <sdef n="prs"    c="Subjunctive"/>
     <sdef n="gen"     c="Genitive"/>
     <sdef n="frm"	  c="Formal"/>
     <sdef n="impf"    c="Imperfective participle"/> 
@@ -93,6 +94,7 @@
     <sdef n="sp"      c=""/>
     <sdef n="imp"    c="Imperative"/>
     <sdef n="stem"  c="stem"/>
+    <sdef n="det"  c="Determiner"/>
 
   </sdefs>
 
@@ -110,11 +112,12 @@
       <e><p><l>जोर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बुखार<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>बरो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>शुभ<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
       <e><p><l>जाय<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e><p><l>काम करता<s n="n"/></l><r>काम करते है<s n="vblex"/></r></p></e>
+      <e><p><l>घर<s n="n"/><s n="sg"/><s n="oc"/><s n="cmsg"/></l><r>घर<s n="adv"/></r></p></e>
 
       <!--Pronoun-->
       <e><p><l>आमी<s n="prn"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="erg"/></r></p></e>
       <e><p><l>तुवें<s n="prn"/></l><r>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="frm"/><s n="erg"/></r></p></e>
+      <e><p><l>हांव<s n="prn"/></l><r>मैं<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>हांवे<s n="prn"/></l><r>मैं<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="erg"/></r></p></e>
       <e><p><l>तुका<s n="prn"/></l><r>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="frm"/><s n="dat"/></r></p></e>
       <e><p><l>म्हाका<s n="prn"/></l><r>मैं<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="dat"/></r></p></e>
@@ -126,13 +129,20 @@
       <e><p><l>दिव<s n="vblex"/><s n="sg"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="fut"/><s n="ind"/><s n="subjcn"/></l><r>हो<s n="vbser"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><p><l>आस<s n="vblex"/></l><r>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>कर<s n="vblex"/><s n="pl"/><s n="f"/><s n="nt"/><s n="p3"/><s n="subjvol"/></l><r>करना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>वस<s n="vblex"/></l><r>चले जाओ<s n="vblex"/><s n="iv"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>काम करता<s n="vblex"/></l><r>काम करते है<s n="vblex"/></r></p></e>
+      <e><p><l>काम करता<s n="vblex"/></l><r>काम कर रहा हूं<s n="vblex"/></r></p></e>
+      <e><p><l>यो<s n="vblex"/></l><r>आ<s n="vblex"/><s n="iv"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
 
       <!--Adverb-->
+      <e><p><l>आयज<s n="adv"/></l><r>आज<s n="adv"/></r></p></e>
+      <e><p><l>हांगा<s n="adv"/></l><r>यहां<s n="adv"/></r></p></e>
       <e><p><l>तरेन<s n="adv"/></l><r>प्रकार<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>खंय<s n="adv"/></l><r>कह<s n="vblex"/><s n="tv"/><s n="perf"/><s n="m"/><s n="sg"/></r></p></e>
       
       <!--Adjective-->      
       <e><p><l>आठ<s n="adj"/></l><r>आठ<s n="num"/></r></p></e>
+      <e><p><l>कशे<s n="adj"/><s n="sg"/><s n="dc"/><s n="m"/></l><r>कैस<s n="det"/><s n="ind"/><s n="pl"/><s n="m"/></r></p></e>
 
       <!--Conjunction-->
       <e><p><l>करतात<s n="cnjcoo"/></l><r>बनाई<b/>जाती<b/>हैं<s n="vblex"/></r></p></e>
