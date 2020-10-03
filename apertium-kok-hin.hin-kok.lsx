@@ -46,7 +46,7 @@
   <p><l>काम कर<s n="vblex"/><s n="tv"/><s n="impf"/><s n="m"/><s n="pl"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
   <r>काम करते<b/>है<s n="vblex"/></r></p>
   </e>
-  <e lm="काम कर रहा हूं" c="काम करता">
+  <e lm="काम कर रहा हूं" c="काम करतां">
   <p><l>काम कर<s n="vblex"/><s n="tv"/><s n="stem"/><j/>रह<s n="vaux"/><s n="perf"/><s n="m"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/><j/></l>
   <r>काम कर<b/>रहा<b/>हूं<s n="vblex"/></r></p>
   </e>
