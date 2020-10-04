@@ -33,9 +33,9 @@
   <section id="main" type="standard">
 
   <!--Nouns-->
-  <e lm="देव बरें करुं" c="धन्यवाद">
-  <p><l>देव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>बरें<s n="adv"/><j/>कर<s n="vblex"/><s n="subjop"/><j/></l>
-  <r>देव<b/>बरें<b/>करुं<s n="n"/></r></p>
+  <e lm="देव बरें करूं" c="धन्यवाद">
+  <p><l>देव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>बरें<s n="adv"/><j/>कर<s n="vblex"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="fut"/><s n="ind"/><s n="subjai"/><s n="impimp"/><j/></l>
+  <r>देव<b/>बरें<b/>करूं<s n="n"/></r></p>
   </e>
 
   <!--Verbs-->

@@ -52,9 +52,13 @@
   </e>
   <e lm="बनाई जाती हैं" c="करतात">
   <p><l>बना<s n="vblex"/><s n="tv"/><s n="perf"/><s n="f"/><s n="sg"/><j/>जा<s n="vblex"/><s n="iv"/><s n="impf"/><s n="f"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p3"/><s n="mf"/><s n="pl"/><j/></l>
-  <r>बनाई<b/>जाती<b/>हैं<s n="vblex"/></r></p>
+  <r>बनाई<b/>जाती<b/>हैं<s n="vblex"/><s n="pl"/></r></p>
   </e>
-  
+  <e lm="सकता हूं" c="शकतां">
+  <p><l>सक<s n="vaux"/><s n="impf"/><s n="m"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/><j/></l>
+  <r>सकता<b/>हूं<s n="vaux"/><s n="sg"/><s n="mf"/><s n="p1"/></r></p>
+  </e>
+
   <!--Conjunctions-->
 
   <!--Adjectives-->
