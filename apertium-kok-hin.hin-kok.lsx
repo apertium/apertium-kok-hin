@@ -36,7 +36,11 @@
   <section id="main" type="standard">
 
   <!--Nouns-->
-  
+  <e lm="कौन है" c="कोण">
+  <p><l>क्या<s n="prn"/><s n="itg"/><s n="sg"/><s n="nn"/><s n="pom"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
+  <r>कौन<b/>है<s n="n"/><s n="sg"/></r></p>
+  </e>
+
   <!--Verbs-->
   <e lm="देखते है" c="पळयता">
   <p><l>देख<s n="vblex"/><s n="tv"/><s n="impf"/><s n="m"/><s n="pl"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
