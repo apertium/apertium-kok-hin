@@ -130,6 +130,11 @@
       <e><p><l>शींव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>शेर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>मुंगूस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>नेवला<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>पाडो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बैल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>साळ<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>साही<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>पेटो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पिल्ला<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>बोकड<s n="n"/><s n="sg"/><s n="oc"/><s n="cmsg"/></l><r>बकरी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>चानी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गिलहरी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>वाग<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बाघ<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
 
       <!--Pronoun-->
       <e><p><l>आमी<s n="prn"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="erg"/></r></p></e>
