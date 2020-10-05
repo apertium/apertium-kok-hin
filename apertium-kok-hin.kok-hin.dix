@@ -89,6 +89,7 @@
     <sdef n="mf"      c=""/>
     <sdef n="dem"     c="Demonstrative"/>
     <sdef n="prox"     c="Proximate"/>
+    <sdef n="dist"     c="Distant"/> 
     <sdef n="obl"     c="Oblique"/>
     <sdef n="dat"     c="Dative"/>
     <sdef n="mfn"/>
