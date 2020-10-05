@@ -112,7 +112,8 @@
       <e><p><l>पंगड<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>टीम<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>जोर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बुखार<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>घर<s n="n"/><s n="sg"/><s n="oc"/><s n="cmsg"/></l><r>घर<s n="adv"/></r></p></e>
-      <e><p><l>कोण<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कौन<b/>है<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>कोण<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कौन<b/>है<s n="n"/><s n="sg"/><s n="pl"/></r></p></e>
+      <e><p><l>कितें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>क्या<b/>है<s n="n"/><s n="sg"/><s n="pl"/></r></p></e>
 
       <e><p><l>माजर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बिल्ली<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>करें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>ऊँट<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -138,6 +139,9 @@
       <e><p><l>म्हाका<s n="prn"/></l><r>मैं<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="dat"/></r></p></e>
       <e><p><l>तूं<s n="prn"/></l><r>तू<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>तुमी<s n="prn"/></l><r>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="frm"/><s n="nom"/></r></p></e>
+      <e><p><l>तो<s n="prn"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="dist"/><s n="nom"/></r></p></e>
+      <e><p><l>ती<s n="prn"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="dist"/><s n="nom"/></r></p></e>
+      <e><p><l>तें<s n="prn"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="prox"/><s n="nom"/></r></p></e>
 
       <!--Verb-->
       <e><p><l>के<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/></l><r>कर<s n="vblex"/><s n="tv"/><s n="perf"/><s n="m"/><s n="sg"/></r></p></e>

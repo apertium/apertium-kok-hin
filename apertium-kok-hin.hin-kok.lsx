@@ -23,6 +23,10 @@
   <sdef n="p1"/>
   <sdef n="p3"/>
   <sdef n="stem"/>
+  <sdef n="aa"/>
+  <sdef n="nn"/>
+  <sdef n="prn"/>
+  <sdef n="itg"/>
   </sdefs>
 
   <!--
@@ -37,8 +41,12 @@
 
   <!--Nouns-->
   <e lm="कौन है" c="कोण">
-  <p><l>क्या<s n="prn"/><s n="itg"/><s n="sg"/><s n="nn"/><s n="pom"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
-  <r>कौन<b/>है<s n="n"/><s n="sg"/></r></p>
+  <p><l>क्या<s n="prn"/><s n="itg"/><s n="sg"/><s n="nn"/><s n="nom"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
+  <r>कौन<b/>है<s n="n"/><s n="sg"/><s n="pl"/></r></p>
+  </e>
+  <e lm="क्या है" c="कोण">
+  <p><l>क्या<s n="prn"/><s n="itg"/><s n="sg"/><s n="aa"/><s n="nom"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
+  <r>क्या<b/>है<s n="n"/><s n="sg"/><s n="pl"/></r></p>
   </e>
 
   <!--Verbs-->
