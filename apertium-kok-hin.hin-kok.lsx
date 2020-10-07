@@ -18,9 +18,11 @@
   <sdef n="vbser"/>
   <sdef n="vaux"/>
   <sdef n="pres"/>
+  <sdef n="pers"/>
   <sdef n="nom"/>
   <sdef n="cnjcoo"/>
   <sdef n="p1"/>
+  <sdef n="p2"/>
   <sdef n="p3"/>
   <sdef n="stem"/>
   <sdef n="aa"/>
@@ -44,7 +46,7 @@
   <p><l>क्या<s n="prn"/><s n="itg"/><s n="sg"/><s n="nn"/><s n="nom"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
   <r>कौन<b/>है<s n="n"/><s n="sg"/><s n="pl"/></r></p>
   </e>
-  <e lm="क्या है" c="कोण">
+  <e lm="क्या है" c="कितें">
   <p><l>क्या<s n="prn"/><s n="itg"/><s n="sg"/><s n="aa"/><s n="nom"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
   <r>क्या<b/>है<s n="n"/><s n="sg"/><s n="pl"/></r></p>
   </e>
@@ -70,10 +72,24 @@
   <p><l>सक<s n="vaux"/><s n="impf"/><s n="m"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/><j/></l>
   <r>सकता<b/>हूं<s n="vaux"/><s n="sg"/><s n="mf"/><s n="p1"/></r></p>
   </e>
+  <e lm="रहता है" c="रावता">
+  <p><l>रह<s n="vaux"/><s n="impf"/><s n="m"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
+  <r>रहता<b/>है<s n="vaux"/><s n="m"/></r></p>
+  </e>
+  <e lm="रहती है" c="रावता">
+  <p><l>रह<s n="vaux"/><s n="impf"/><s n="f"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
+  <r>रहती<b/>है<s n="vaux"/><s n="f"/></r></p>
+  </e>
 
   <!--Conjunctions-->
 
   <!--Adjectives-->
+
+  <!--Postposition-->
+  <e lm="में रहता हूं" c="रावतां">
+  <p><l>में<s n="post"/><j/>रह<s n="vaux"/><s n="impf"/><s n="m"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="pl"/><s n="mf"/><s n="sg"/><j/></l>
+  <r>में<b/>रहता<b/>हूं<s n="post"/><s n="vaux"/></r></p>
+  </e>
 
   </section>
 </dictionary>

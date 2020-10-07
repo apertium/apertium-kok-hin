@@ -165,12 +165,17 @@
       <e><p><l>उलोव<s n="vblex"/><s n="sg"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="past"/><s n="fut"/><s n="subjai"/><s n="impimp"/></l><r>बोल<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>बरोव<s n="vblex"/><s n="sg"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="past"/><s n="fut"/><s n="subjai"/><s n="impimp"/></l><r>लिख<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>चाख<s n="vblex"/><s n="sg"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="past"/><s n="fut"/><s n="subjai"/><s n="impimp"/></l><r>स्वाद<b/>ले<s n="vblex"/><s n="tv"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>राव<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/></l><r>रहता<b/>है<s n="vaux"/><s n="m"/></r></p></e>
+      <e><p><l>राव<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/></l><r>रहती<b/>है<s n="vaux"/><s n="f"/></r></p></e>
+      <e><p><l>राव<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="pres"/><s n="imperf"/><s n="idct"/></l><r>में<b/>रहता<b/>हूं<s n="post"/><s n="vaux"/></r></p></e>
+      <e><p><l>आसा<s n="vblex"/></l><r>हो<s n="vblex"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
 
       <!--Adverb-->
       <e><p><l>आयज<s n="adv"/></l><r>आज<s n="adv"/></r></p></e>
       <e><p><l>हांगा<s n="adv"/><s n="p1"/></l><r>यहां<s n="adv"/></r></p></e>
       <e><p><l>तरेन<s n="adv"/></l><r>प्रकार<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>खंय<s n="adv"/></l><r>कह<s n="vblex"/><s n="tv"/><s n="perf"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>थंय<s n="adv"/></l><r>वहाँ<s n="adv"/></r></p></e>
       
       <!--Adjective-->      
       <e><p><l>कशे<s n="adj"/><s n="sg"/><s n="dc"/><s n="m"/></l><r>कैस<s n="det"/><s n="ind"/><s n="pl"/><s n="m"/></r></p></e>
@@ -179,6 +184,8 @@
       <!--Conjunction-->
       <e><p><l>करतात<s n="vblex"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/></l><r>बनाई<b/>जाती<b/>हैं<s n="vblex"/><s n="pl"/></r></p></e>
       <e><p><l>अशे<s n="cnjsub"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="prox"/><s n="obl"/></r></p></e>
+
+      <!--Postposition-->
 
       <!--Numerals-->
       <e><p><l>आठ<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>आठ<s n="num"/></r></p></e>
