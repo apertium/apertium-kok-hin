@@ -141,6 +141,19 @@
       <e><p><l>बोकड<s n="n"/><s n="sg"/><s n="oc"/><s n="cmsg"/></l><r>बकरी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>चानी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गिलहरी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>वाग<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बाघ<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      
+      <e><p><l>कोंबो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>मुरगा<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>बकें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>सारस<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>कावळो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कौआ<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>कोगूळ<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कोयल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>बदक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बतख<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>बदक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बतख<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>कोंबी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>मुरगी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>कीर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>तोता<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>मोर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>मोर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>पारवो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कबूतर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>हांस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हंस<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>गीद<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गिद्ध<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
 
       <!--Pronoun-->
       <e><p><l>आमी<s n="prn"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="erg"/></r></p></e>
