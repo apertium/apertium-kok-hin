@@ -50,6 +50,14 @@
   <p><l>क्या<s n="prn"/><s n="itg"/><s n="sg"/><s n="aa"/><s n="nom"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
   <r>क्या<b/>है<s n="n"/><s n="sg"/><s n="pl"/></r></p>
   </e>
+  <e lm="काजू फल" c="काज">
+  <p><l>काजू<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>फल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
+  <r>काजू<b/>फल<s n="n"/><s n="sg"/><s n="nom"/></r></p>
+  </e>
+  <e lm="काजू बी" c="काजू">
+  <p><l>काजू<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>फल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
+  <r>काजू<b/>बी<s n="n"/><s n="sg"/><s n="nom"/></r></p>
+  </e>
 
   <!--Verbs-->
   <e lm="देखते है" c="पळयता">

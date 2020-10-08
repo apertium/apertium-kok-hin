@@ -155,6 +155,17 @@
       <e><p><l>हांस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हंस<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>गीद<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गिद्ध<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
 
+      <e><p><l>बदाम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बादाम<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>सफरचंद<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>सेब<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>केळें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>केला<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>वांयगें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बैंगन<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>गाजर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गाजर<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>काज<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>काजू<b/>फल<s n="n"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>काजू<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>काजू<b/>बी<s n="n"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>फुलकोबी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>फूलगोभी<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>तवशें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>ककड़ी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>मोगें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>खीरा<s n="n"/><s n="m"/>><s n="sg"/><s n="nom"/></r></p></e>
+
       <!--Pronoun-->
       <e><p><l>आमी<s n="prn"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="erg"/></r></p></e>
       <e><p><l>तुवें<s n="prn"/></l><r>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="frm"/><s n="erg"/></r></p></e>
@@ -222,6 +233,7 @@
       <e><p><l>सात<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>सात<s n="num"/></r></p></e>
       <e><p><l>आठ<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>आठ<s n="num"/></r></p></e>
       <e><p><l>णव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>नौ<s n="num"/></r></p></e>
+      <e><p><l>धा<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>दस<s n="num"/></r></p></e>
       <e><p><l>शंबर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>सौ<s n="num"/></r></p></e>
       <e><p><l>हजार<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हजार<s n="num"/></r></p></e>
 
