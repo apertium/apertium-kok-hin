@@ -197,7 +197,20 @@
       <!--Postposition-->
 
       <!--Numerals-->
-      <e><p><l>आठ<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>आठ<s n="num"/></r></p></e>
+      <e><p><l>शुन्य<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>शून्य<s n="num"/></r></p></e>
+	   <e><p><l>शुन्य<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>सिफर<s n="num"/></r></p></e>
+      <e><p><l>एक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>एक<s n="num"/></r></p></e>
+      <e><p><l>दोन<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>दो<s n="num"/></r></p></e>
+      <e><p><l>तीन<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>तीन<s n="num"/></r></p></e>
+      <e><p><l>चार<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>चार<s n="num"/></r></p></e>
+      <e><p><l>पांच<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पांच<s n="num"/></r></p></e>
+      <e><p><l>स<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>छः<s n="num"/></r></p></e>
+      <e><p><l>स<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>छह<s n="num"/></r></p></e>
+      <e><p><l>सात<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>सात<s n="num"/></r></p></e>
+      <e><p><l>आठ<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>आठ<s n="num"/></r></p></e>
+      <e><p><l>णव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>नौ<s n="num"/></r></p></e>
+      <e><p><l>शंबर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>सौ<s n="num"/></r></p></e>
+      <e><p><l>हजार<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हजार<s n="num"/></r></p></e>
 
       <e><re>[.\?;:!…¿¶।]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
