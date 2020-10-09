@@ -119,7 +119,6 @@
       <e><p><l>कितें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>क्या<b/>है<s n="n"/><s n="sg"/><s n="pl"/></r></p></e>
       <e><p><l>भारत<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>भारत<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
       <e><p><l>देश<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>देश<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>आंबो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>आम<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
       <e><p><l>घडयाळ<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>घड़ी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
 
       <e><p><l>माजर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बिल्ली<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -164,7 +163,20 @@
       <e><p><l>काजू<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>काजू<b/>बी<s n="n"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>फुलकोबी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>फूलगोभी<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>तवशें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>ककड़ी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>मोगें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>खीरा<s n="n"/><s n="m"/>><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>मोगें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>खीरा<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>खाजूर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>खजूर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>पेर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>अमरूद<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>पणस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कटहल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>मोगरें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>चमेली<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>भेंड<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>भिंडी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>आंबो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>आम<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>अळमें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कुकुरमुत्ता<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>जांबळ<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>जामुन<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ऊस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गन्ना<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>सूर्यफूल<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>सूरजमुखी<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>कणगी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>शकरकंद<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>चींच<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>इमली<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>काळींग<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>तरबूज<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
 
       <!--Pronoun-->
       <e><p><l>आमी<s n="prn"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="erg"/></r></p></e>
