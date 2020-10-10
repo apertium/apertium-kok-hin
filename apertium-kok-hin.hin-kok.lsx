@@ -29,6 +29,8 @@
   <sdef n="nn"/>
   <sdef n="prn"/>
   <sdef n="itg"/>
+  <sdef n="post"/>
+  <sdef n="obl"/>
   </sdefs>
 
   <!--
@@ -58,6 +60,12 @@
   <p><l>काजू<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>फल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
   <r>काजू<b/>बी<s n="n"/><s n="sg"/><s n="nom"/></r></p>
   </e>
+  <e lm="घर पर" c="कोण">
+  <p><l>घर<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/><j/>पर<s n="post"/><j/></l>
+  <r>घर<b/>पर<s n="n"/><s n="sg"/><s n="post"/></r></p>
+  </e>
+
+  <!--Pronoun-->
 
   <!--Verbs-->
   <e lm="देखते है" c="पळयता">
