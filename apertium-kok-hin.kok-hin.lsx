@@ -8,9 +8,11 @@
   <sdef n="adv"/>
   <sdef n="vblex"/>
   <sdef n="sg"/>
+  <sdef n="pl"/>
   <sdef n="dc"/>
   <sdef n="nom"/>
   <sdef n="subjop"/>
+  <sdef n="subjai"/>  
   <sdef n="f"/>
   <sdef n="m"/>
   <sdef n="nt"/>
@@ -19,7 +21,10 @@
   <sdef n="p3"/>
   <sdef n="pres"/>
   <sdef n="imperf"/>
+  <sdef n="impimp"/>
   <sdef n="idct"/>
+  <sdef n="fut"/>
+  <sdef n="ind"/>
   </sdefs>
 
 <!--
