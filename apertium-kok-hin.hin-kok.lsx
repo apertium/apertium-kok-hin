@@ -53,16 +53,12 @@
   <r>क्या<b/>है<s n="n"/><s n="sg"/><s n="pl"/></r></p>
   </e>
   <e lm="काजू फल" c="काज">
-  <p><l>काजू<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>फल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
+  <p><l>काजू<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>फल<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
   <r>काजू<b/>फल<s n="n"/><s n="sg"/><s n="nom"/></r></p>
   </e>
   <e lm="काजू बी" c="काजू">
-  <p><l>काजू<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>फल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
+  <p><l>काजू<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>बी<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
   <r>काजू<b/>बी<s n="n"/><s n="sg"/><s n="nom"/></r></p>
-  </e>
-  <e lm="घर पर" c="कोण">
-  <p><l>घर<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/><j/>पर<s n="post"/><j/></l>
-  <r>घर<b/>पर<s n="n"/><s n="sg"/><s n="post"/></r></p>
   </e>
 
   <!--Pronoun-->

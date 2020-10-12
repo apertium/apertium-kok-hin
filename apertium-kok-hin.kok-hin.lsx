@@ -8,23 +8,19 @@
   <sdef n="adv"/>
   <sdef n="vblex"/>
   <sdef n="sg"/>
-  <sdef n="pl"/>
   <sdef n="dc"/>
   <sdef n="nom"/>
   <sdef n="subjop"/>
-  <sdef n="subjai"/>  
   <sdef n="f"/>
   <sdef n="m"/>
   <sdef n="nt"/>
+  <sdef n="pl"/>
   <sdef n="p1"/>
   <sdef n="p2"/>
   <sdef n="p3"/>
   <sdef n="pres"/>
   <sdef n="imperf"/>
-  <sdef n="impimp"/>
   <sdef n="idct"/>
-  <sdef n="fut"/>
-  <sdef n="ind"/>
   </sdefs>
 
 <!--
@@ -45,11 +41,11 @@
 
   <!--Verbs-->
   <e lm="काम करता" c="काम करते है">
-  <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>करता<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><j/></l>
+  <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>करता<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/></l>
   <r>काम<b/>करता<s n="vblex"/></r></p>
   </e>
   <e lm="काम करतां" c="काम कर रहा हूं">
-  <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>करता<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="pres"/><s n="imperf"/><s n="idct"/><j/></l>
+  <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>करता<s n="n"/><s n="pl"/><s n="oc"/><s n="cmpl"/><j/></l>
   <r>काम<b/>करतां<s n="vblex"/><s n="p1"/></r></p>
   </e>
 

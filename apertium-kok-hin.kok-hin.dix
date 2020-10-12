@@ -151,7 +151,7 @@
       <e><p><l>कीर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>तोता<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>मोर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>मोर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>पारवो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कबूतर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>हांस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हंस<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>हांस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हंस<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
       <e><p><l>गीद<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गिद्ध<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
 
       <e><p><l>बदाम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बादाम<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -169,7 +169,7 @@
       <e><p><l>पणस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कटहल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>मोगरें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>चमेली<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>भेंड<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>भिंडी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>आंबो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>आम<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>आंबो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>आम<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
       <e><p><l>अळमें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कुकुरमुत्ता<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>जांबळ<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>जामुन<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ऊस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गन्ना<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
