@@ -44,14 +44,6 @@
   <section id="main" type="standard">
 
   <!--Nouns-->
-  <e lm="कौन है" c="कोण">
-  <p><l>क्या<s n="prn"/><s n="itg"/><s n="sg"/><s n="nn"/><s n="nom"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
-  <r>कौन<b/>है<s n="n"/><s n="sg"/><s n="pl"/></r></p>
-  </e>
-  <e lm="क्या है" c="कितें">
-  <p><l>क्या<s n="prn"/><s n="itg"/><s n="sg"/><s n="aa"/><s n="nom"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
-  <r>क्या<b/>है<s n="n"/><s n="sg"/><s n="pl"/></r></p>
-  </e>
   <e lm="काजू फल" c="काज">
   <p><l>काजू<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>फल<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
   <r>काजू<b/>फल<s n="n"/><s n="sg"/><s n="nom"/></r></p>
@@ -61,7 +53,15 @@
   <r>काजू<b/>बी<s n="n"/><s n="sg"/><s n="nom"/></r></p>
   </e>
 
-  <!--Pronoun-->
+  <!--Pronouns-->
+  <e lm="कौन है" c="कोण">
+  <p><l>क्या<s n="prn"/><s n="itg"/><s n="sg"/><s n="nn"/><s n="nom"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
+  <r>कौन<b/>है<s n="prn"/><s n="sg"/><s n="pl"/></r></p>
+  </e>
+  <e lm="क्या है" c="कितें">
+  <p><l>क्या<s n="prn"/><s n="itg"/><s n="sg"/><s n="aa"/><s n="nom"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
+  <r>क्या<b/>है<s n="prn"/><s n="sg"/><s n="pl"/></r></p>
+  </e>
 
   <!--Verbs-->
   <e lm="देखते है" c="पळयता">
@@ -97,7 +97,7 @@
 
   <!--Adjectives-->
 
-  <!--Postposition-->
+  <!--Postpositions-->
   <e lm="में रहता हूं" c="रावतां">
   <p><l>में<s n="post"/><j/>रह<s n="vaux"/><s n="impf"/><s n="m"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="pl"/><s n="mf"/><s n="sg"/><j/></l>
   <r>में<b/>रहता<b/>हूं<s n="post"/><s n="vaux"/></r></p>
