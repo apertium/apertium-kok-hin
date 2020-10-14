@@ -52,6 +52,10 @@
   <p><l>काजू<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>बी<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
   <r>काजू<b/>बी<s n="n"/><s n="sg"/><s n="nom"/></r></p>
   </e>
+  <e lm="जंगली सूअर" c="रानदुकर">
+  <p><l>जंगली<s n="adj"/><s n="mfn"/><s n="sp"/><j/>सूअर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
+  <r>जंगली<b/>सूअर<s n="n"/><s n="sg"/><s n="nom"/></r></p>
+  </e>
 
   <!--Pronouns-->
   <e lm="कौन है" c="कोण">
