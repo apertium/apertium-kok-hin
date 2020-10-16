@@ -188,6 +188,20 @@
       <e><p><l>चींच<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>इमली<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>काळींग<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>तरबूज<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
 
+      <e><p><l>शेकडो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>शताब्दी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>दिस<s n="vblex"/></l><r>दिन<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>दसक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>दशक<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>सांज<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>शाम<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>आयतार<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>रविवार<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ब्रेस्तार<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बृहस्पतिवार<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>वेळ<s n="adj"/></l><r>समय<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>आज<s n="adv"/></l><r>आज<s n="adv"/></r></p></e>
+      <e><p><l>फाल्यां<s n="adv"/></l><r>कल<s n="adv"/></r></p></e>
+      <e><p><l>मंगळार<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>मंगलवार<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>वर्स<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>वर्ष<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>वर्स<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>साल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>काल<s n="adv"/></l><r>कल<s n="adv"/></r></p></e>
+
       <!--Pronouns-->
       <e><p><l>आमी<s n="prn"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="erg"/></r></p></e>
       <e><p><l>तुवें<s n="prn"/></l><r>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="frm"/><s n="erg"/></r></p></e>
