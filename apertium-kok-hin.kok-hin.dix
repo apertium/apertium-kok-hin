@@ -137,8 +137,7 @@
       <e><p><l>पेटो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पिल्ला<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>बोकड<s n="n"/><s n="sg"/><s n="oc"/><s n="cmsg"/></l><r>बकरी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>चानी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गिलहरी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>वाग<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बाघ<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
-      
+      <e><p><l>वाग<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बाघ<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>      
       <e><p><l>गाढव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गधा<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>अस्वल<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>भालू<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>सुणें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कुतिया<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -161,6 +160,8 @@
       <e><p><l>पारवो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कबूतर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>हांस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हंस<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
       <e><p><l>गीद<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गिद्ध<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>कवडो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कपोत<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>किरकिरो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>नीलकंठ<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
 
       <e><p><l>बदाम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बादाम<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>सफरचंद<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>सेब<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -225,6 +226,11 @@
       <e><p><l>आसा<s n="adj"/></l><r>हो<s n="vblex"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>खा<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="pl"/><s n="pres"/><s n="imperf"/><s n="idct"/></l><r>खा<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/></r></p></e>
       <e><p><l>करतात<s n="cnjcoo"/></l><r>बनाई<b/>जाती<b/>हैं<s n="vblex"/><s n="pl"/></r></p></e>
+      <e><p><l>वच<s n="vblex"/><s n="sg"/></l><r>जा रहा<b/>हूँ<s n="vaux"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>वच<s n="vblex"/><s n="sg"/></l><r>जा रही<b/>हूँ<s n="vaux"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>वच<s n="vblex"/><s n="pl"/></l><r>जा रहे<b/>हैं<s n="vaux"/><s n="mf"/></r></p></e>
+      <e><p><l>वच<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/></l><r>जा<s n="vblex"/><s n="iv"/><s n="perf"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>वच<s n="vblex"/><s n="sg"/><s n="f"/><s n="p1"/><s n="past"/><s n="pret"/><s n="idct"/></l><r>जा<s n="vblex"/><s n="iv"/><s n="perf"/><s n="m"/><s n="pl"/></r></p></e>
 
       <!--Adverbs-->
       <e><p><l>आयज<s n="adv"/></l><r>आज<s n="adv"/></r></p></e>

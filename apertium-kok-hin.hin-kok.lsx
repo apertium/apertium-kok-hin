@@ -31,6 +31,9 @@
   <sdef n="itg"/>
   <sdef n="post"/>
   <sdef n="obl"/>
+  <sdef n="prs"/>
+  <sdef n="mfn"/>
+  <sdef n="sp"/>
   </sdefs>
 
   <!--
@@ -95,6 +98,18 @@
   <e lm="रहती है" c="रावता">
   <p><l>रह<s n="vaux"/><s n="impf"/><s n="f"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
   <r>रहती<b/>है<s n="vaux"/><s n="f"/></r></p>
+  </e>
+  <e lm="जा रहा हूँ" c="वतां">
+  <p><l>जा रह<s n="vaux"/><s n="perf"/><s n="m"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/><j/></l>
+  <r>जा रहा<b/>हूँ<s n="vaux"/><s n="m"/><s n="sg"/></r></p>
+  </e>
+  <e lm="जा रही हूँ" c="वतां">
+  <p><l>जा रह<s n="vaux"/><s n="perf"/><s n="f"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/><j/></l>
+  <r>जा रही<b/>हूँ<s n="vaux"/><s n="f"/><s n="sg"/></r></p>
+  </e>
+  <e lm="जा रहे हैं" c="वतां">
+  <p><l>जा रह<s n="vaux"/><s n="prs"/><s n="p2"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p3"/><s n="mf"/><s n="pl"/><j/></l>
+  <r>जा रहे<b/>हैं<s n="vaux"/><s n="mf"/></r></p>
   </e>
 
   <!--Conjunctions-->
