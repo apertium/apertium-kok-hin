@@ -56,6 +56,10 @@
   </e>
   <e lm="काम करतां" c="काम कर रहा हूं">
   <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>करता<s n="n"/><s n="pl"/><s n="oc"/><s n="cmpl"/><j/></l>
+  <r>काम<b/>करतां<s n="vblex"/></r></p>
+  </e>
+  <e lm="काम करतां" c="काम कर रहा हूं">
+  <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>कर<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="pres"/><s n="imperf"/><s n="idct"/><j/></l>
   <r>काम<b/>करतां<s n="vblex"/><s n="p1"/></r></p>
   </e>
 

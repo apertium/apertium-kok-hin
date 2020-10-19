@@ -249,6 +249,8 @@
       <e><p><l>कर<s n="vblex"/><s n="pl"/><s n="f"/><s n="nt"/><s n="p3"/><s n="subjvol"/></l><r>करना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>वच<s n="vblex"/></l><r>चले<b/>जाओ<s n="vblex"/><s n="iv"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p><l>काम<b/>करता<s n="vblex"/></l><r>काम करते<b/>है<s n="vblex"/></r></p></e>
+      <e><p><l>काम<b/>करता<s n="vblex"/><s n="p2"/><s n="p3"/></l><r>काम करते<b/>है<s n="vblex"/></r></p></e>
+      <e><p><l>काम<b/>करतां<s n="vblex"/></l><r>काम कर<b/>रहा<b/>हूं<s n="vblex"/></r></p></e>
       <e><p><l>काम<b/>करतां<s n="vblex"/><s n="p1"/></l><r>काम कर<b/>रहा<b/>हूं<s n="vblex"/></r></p></e>
       <e><p><l>यो<s n="vblex"/></l><r>आ<s n="vblex"/><s n="iv"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p><l>जाय<s n="vblex"/></l><r>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
@@ -260,7 +262,7 @@
       <e><p><l>चाख<s n="vblex"/><s n="sg"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="past"/><s n="fut"/><s n="subjai"/><s n="impimp"/></l><r>स्वाद<b/>ले<s n="vblex"/><s n="tv"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
       <e><p><l>राव<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/></l><r>रहता<b/>है<s n="vaux"/><s n="m"/></r></p></e>
       <e><p><l>राव<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/></l><r>रहती<b/>है<s n="vaux"/><s n="f"/></r></p></e>
-      <e><p><l>राव<s n="vblex"/><s ns="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="pres"/><s n="imperf"/><s n="idct"/></l><r>में<b/>रहता<b/>हूं<s n="post"/><s n="vaux"/></r></p></e>
+      <e><p><l>राव<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="pres"/><s n="imperf"/><s n="idct"/></l><r>में<b/>रहता<b/>हूं<s n="post"/><s n="vaux"/></r></p></e>
       <e><p><l>आसा<s n="adj"/></l><r>हो<s n="vblex"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>आसा<s n="vblex"/></l><r>हो<s n="vblex"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>खा<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="pl"/><s n="pres"/><s n="imperf"/><s n="idct"/></l><r>खा<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/></r></p></e>
