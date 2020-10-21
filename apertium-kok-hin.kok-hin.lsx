@@ -63,6 +63,16 @@
   <r>काम<b/>करतां<s n="vblex"/><s n="p1"/></r></p>
   </e>
 
+  <!--Adverbs-->
+  <e lm="खंय आसा" c="कहाँ है">
+  <p><l>खंय<s n="adv"/>आसा<s n="vblex"/><j/></l>
+  <r>खंय<b/>आसा<s n="adv"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="थंय आसा" c="वहाँ है">
+  <p><l>थंय<s n="adv"/><j/>आसा<s n="vblex"/><j/></l>
+  <r>थंय<b/>आसा<s n="adv"/><s n="vblex"/></r></p>
+  </e>
+
   <!--Adjectives-->
 
   </section>

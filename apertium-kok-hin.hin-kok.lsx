@@ -5,6 +5,7 @@
   <sdefs>
   <sdef n="n"/>
   <sdef n="adj"/>
+  <sdef n="adv"/>
   <sdef n="vblex"/>
   <sdef n="tv"/>
   <sdef n="iv"/>
@@ -110,6 +111,20 @@
   <e lm="जा रहे हैं" c="वतां">
   <p><l>जा रह<s n="vaux"/><s n="prs"/><s n="p2"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p3"/><s n="mf"/><s n="pl"/><j/></l>
   <r>जा रहे<b/>हैं<s n="vaux"/><s n="mf"/></r></p>
+  </e>
+  <e lm="खा रहा हूं" c="खातां">
+  <p><l>खा<s n="vblex"/><s n="tv"/><s n="stem"/><j/>रह<s n="vaux"/><s n="perf"/><s n="m"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/><j/></l>
+  <r>खा<b/>रहा<b/>हूं<s n="vblex"/><s n="vaux"/><s n="vbser"/></r></p>
+  </e>
+
+  <!--Adverbs-->
+  <e lm="कहाँ है" c="खंय आसा">
+  <p><l>कहाँ<s n="adv"/><s n="itg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
+  <r>कहाँ<b/>है<s n="adv"/><s n="vbser"/></r></p>
+  </e>
+  <e lm="वहाँ है" c="थंय आसा">
+  <p><l>वहाँ<s n="adv"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
+  <r>वहाँ<b/>है<s n="adv"/><s n="vbser"/></r></p>
   </e>
 
   <!--Conjunctions-->
