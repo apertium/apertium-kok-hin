@@ -116,6 +116,10 @@
   <p><l>खा<s n="vblex"/><s n="tv"/><s n="stem"/><j/>रह<s n="vaux"/><s n="perf"/><s n="m"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/><j/></l>
   <r>खा<b/>रहा<b/>हूं<s n="vblex"/><s n="vaux"/><s n="vbser"/></r></p>
   </e>
+  <e lm="काट दिया गया" c="कापलें">
+  <p><l>काट दे<s n="vblex"/><s n="tv"/><s n="perf"/><s n="m"/><s n="sg"/><j/>जा<s n="vblex"/><s n="iv"/><s n="perf"/><s n="m"/><s n="sg"/><j/></l>
+  <r>काट दिया<b/>गया<s n="vblex"/></r></p>
+  </e>
 
   <!--Adverbs-->
   <e lm="कहाँ है" c="खंय आसा">
