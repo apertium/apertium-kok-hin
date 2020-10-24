@@ -103,11 +103,15 @@
 
   </sdefs>
 
+  <pardefs>
+     <pardef n="1__n">
+       <e><p><l><s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+       <e><p><l><s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+     </pardef> 
+  </pardefs>
+
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
-      <!--
-      <e><p><l>kʼicheʼ<s n="adj"/></l><r>quiché<s n="adj"/></r></p><par n="mf_ND"/></e>
-      <e><p><l>tzij<s n="adj"/></l><r>verdadero<s n="adj"/></r></p><par n="GD_ND"/></e>-->
 
       <!--Nouns-->
       <e><p><l>देव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="m"/><s n="pl"/><s n="frm"/><s n="gen"/></r></p></e>
@@ -126,6 +130,7 @@
       <e><p><l>झाड<s n="n"/><s n="pl"/><s n="oc"/><s n="cmpl"/></l><r>पेड़<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>न्हंय<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>नदी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>न्हंय<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>नदी<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <!--<e><p><l>न्हंय</l><r>नदी</r></p><par n="1__n"/></e>-->
 
       <e><p><l>माजर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बिल्ली<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>करें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>ऊँट<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -170,6 +175,17 @@
       <e><p><l>गीद<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गिद्ध<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>कवडो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कपोत<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>किरकिरो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>नीलकंठ<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+
+      <e><p><l>पिसोळें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>तितली<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>वागोणी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कनखजूरा<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>सोरोप<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>नाग<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>काजुलो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>जुगनू<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>मासळी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>मछली<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>मूस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>मक्खी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>जळ<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>जोंक<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>पाल<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>छिपकली<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>जळार<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>मच्छर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+
 
       <e><p><l>बदाम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बादाम<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>सफरचंद<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>सेब<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
