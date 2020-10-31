@@ -62,6 +62,10 @@
   <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>कर<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="pres"/><s n="imperf"/><s n="idct"/><j/></l>
   <r>काम<b/>करतां<s n="vblex"/><s n="p1"/></r></p>
   </e>
+  <e lm="उबो राव" c="खडे रहो">
+  <p><l>उबो<s n="adj"/><s n="sg"/><s n="dc"/><s n="m"/><j/>राव<s n="vblex"/><j/></l>
+  <r>उबो<b/>राव<s n="adj"/><s n="vblex"/></r></p>
+  </e>
 
   <!--Adverbs-->
   <e lm="खंय आसा" c="कहाँ है">
