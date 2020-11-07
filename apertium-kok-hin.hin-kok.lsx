@@ -65,6 +65,10 @@
   <p><l>साल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
   <r>साल<b/>है<s n="n"/><s n="vbser"/></r></p>
   </e>
+  <e lm="पार साल" c="पोरूं">
+  <p><l>पार<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>साल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
+  <r>पार<b/>साल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p>
+  </e>
 
   <!--Pronouns-->
   <e lm="कौन है" c="कोण">
