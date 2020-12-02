@@ -114,6 +114,10 @@
        <e><p><l><s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
        <e><p><l><s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
      </pardef>
+     
+     <pardef n="3__n">
+       <e><p><l><s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+     </pardef>
   </pardefs>
 
    <section id="main" type="standard">
@@ -210,6 +214,9 @@
       <e><p><l>म्हयनो</l><r>महीना</r></p><par n="1__n"/></e>
       <e><p><l>शेनवार</l><r>शनिवार</r></p><par n="1__n"/></e>
       <e><p><l>बुधवार</l><r>बुधवार</r></p><par n="1__n"/></e>
+      <e><p><l>जल्लो</l><r>तिलचटा</r></p><par n="1__n"/></e>
+      <e><p><l>बेबो</l><r>मेढक</r></p><par n="1__n"/></e>
+      <e><p><l>विंचू</l><r>बिच्छू</r></p><par n="1__n"/></e>
 
       <e><p><l>पंगड</l><r>टीम</r></p><par n="2__n"/></e>
       <e><p><l>घडयाळ</l><r>घड़ी</r></p><par n="2__n"/></e>
@@ -248,11 +255,24 @@
       <e><p><l>शेकडो</l><r>शताब्दी</r></p><par n="2__n"/></e>
       <e><p><l>सांज</l><r>शाम</r></p><par n="2__n"/></e>
       <e><p><l>दनपार</l><r>दोपहर</r></p><par n="2__n"/></e>
+      <e><p><l>ऊय</l><r>जूँ</r></p><par n="2__n"/></e>
+      
+      <e><p><l>भारत</l><r>भारत</r></p><par n="3__n"/></e>
+      <e><p><l>जानेवारी</l><r>जनवरी</r></p><par n="3__n"/></e>
+      <e><p><l>फेब्रुवारी</l><r>फरवरी</r></p><par n="3__n"/></e>
+      <e><p><l>मार्च</l><r>मार्च</r></p><par n="3__n"/></e>
+      <e><p><l>एप्रिल</l><r>अप्रैल</r></p><par n="3__n"/></e>
+      <e><p><l>जून</l><r>जून</r></p><par n="3__n"/></e>
+      <e><p><l>जुलय</l><r>जुलाई</r></p><par n="3__n"/></e>
+      <e><p><l>ऑगस्ट</l><r>अगस्त</r></p><par n="3__n"/></e>
+      <e><p><l>सेप्टेंबर</l><r>सितंबर</r></p><par n="3__n"/></e>
+      <e><p><l>ऑक्टोबर</l><r>अक्टूबर</r></p><par n="3__n"/></e>
+      <e><p><l>नोव्हेंबर</l><r>नवंबर</r></p><par n="3__n"/></e>
+      <e><p><l>डिसेंबर</l><r>दिसंबर</r></p><par n="3__n"/></e>
 
       <e><p><l>देव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="m"/><s n="pl"/><s n="frm"/><s n="gen"/></r></p></e>
       <e><p><l>देव<b/>बरें<b/>करूं<s n="n"/></l><r>धन्यवाद<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>घर<s n="n"/><s n="sg"/><s n="oc"/><s n="cmsg"/></l><r>घर<s n="adv"/></r></p></e>
-      <e><p><l>भारत<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>भारत<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
       <e><p><l>झाड<s n="vblex"/></l><r>पेड़<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>झाड<s n="n"/><s n="pl"/><s n="oc"/><s n="cmpl"/></l><r>पेड़<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>वर्सां<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>साल<b/>हो<s n="n"/><s n="vbser"/></r></p></e>
@@ -269,18 +289,8 @@
       <e><p><l>दिस<s n="vblex"/></l><r>दिन<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>वेळ<s n="adj"/></l><r>समय<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>पोरूं<s n="adv"/></l><r>पार<b/>साल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>जानेवारी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>जनवरी<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-      <e><p><l>फेब्रुवारी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>फरवरी<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-      <e><p><l>मार्च<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>मार्च<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-      <e><p><l>एप्रिल<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>अप्रैल<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
       <e><p><l>मे<s n="vblex"/></l><r>मई<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-      <e><p><l>जून<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>जून<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-      <e><p><l>जुलय<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>जुलाई<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-      <e><p><l>ऑगस्ट<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>अगस्त<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-      <e><p><l>सेप्टेंबर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>सितंबर<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-      <e><p><l>ऑक्टोबर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>अक्टूबर<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-      <e><p><l>नोव्हेंबर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>नवंबर<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-      <e><p><l>डिसेंबर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>दिसंबर<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+      <e><p><l>कोळ<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>मकड़ी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
 
       <!--Pronouns-->
       <e><p><l>आमी<s n="prn"/><s n="p1"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
