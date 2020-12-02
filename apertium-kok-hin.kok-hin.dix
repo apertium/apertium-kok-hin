@@ -217,6 +217,11 @@
       <e><p><l>जल्लो</l><r>तिलचटा</r></p><par n="1__n"/></e>
       <e><p><l>बेबो</l><r>मेढक</r></p><par n="1__n"/></e>
       <e><p><l>विंचू</l><r>बिच्छू</r></p><par n="1__n"/></e>
+      <e><p><l>रोस</l><r>रस</r></p><par n="1__n"/></e>
+      <e><p><l>पान</l><r>पत्ता</r></p><par n="1__n"/></e>
+      <e><p><l>कांदो</l><r>तना</r></p><par n="1__n"/></e>
+      <e><p><l>कांटो</l><r>काँटा</r></p><par n="1__n"/></e>
+      <e><p><l>आंकरी</l><r>अंकुर</r></p><par n="1__n"/></e>
 
       <e><p><l>पंगड</l><r>टीम</r></p><par n="2__n"/></e>
       <e><p><l>घडयाळ</l><r>घड़ी</r></p><par n="2__n"/></e>
@@ -256,7 +261,12 @@
       <e><p><l>सांज</l><r>शाम</r></p><par n="2__n"/></e>
       <e><p><l>दनपार</l><r>दोपहर</r></p><par n="2__n"/></e>
       <e><p><l>ऊय</l><r>जूँ</r></p><par n="2__n"/></e>
-      
+      <e><p><l>साल</l><r>छाल</r></p><par n="2__n"/></e>
+      <e><p><l>फांटो</l><r>डाली</r></p><par n="2__n"/></e>
+      <e><p><l>खांदो</l><r>डाली</r></p><par n="2__n"/></e>
+      <e><p><l>कळो</l><r>कली</r></p><par n="2__n"/></e>
+      <e><p><l>लांकूड</l><r>लकड़ी</r></p><par n="2__n"/></e>
+
       <e><p><l>भारत</l><r>भारत</r></p><par n="3__n"/></e>
       <e><p><l>जानेवारी</l><r>जनवरी</r></p><par n="3__n"/></e>
       <e><p><l>फेब्रुवारी</l><r>फरवरी</r></p><par n="3__n"/></e>
@@ -291,6 +301,7 @@
       <e><p><l>पोरूं<s n="adv"/></l><r>पार<b/>साल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>मे<s n="vblex"/></l><r>मई<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
       <e><p><l>कोळ<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>मकड़ी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>कांड<s n="vblex"/></l><r>तना<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
 
       <!--Pronouns-->
       <e><p><l>आमी<s n="prn"/><s n="p1"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -382,6 +393,9 @@
       <e><p><l>खा<s n="vblex"/><s n="sg"/><s n="f"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/></l><r>खाई<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>लाग<s n="vblex"/><s n="sg"/><s n="f"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="perf"/><s n="idct"/></l><r>लगी<b/>है<s n="vblex"/><s n="vbser"/></r></p></e>
       <e><p><l>द<s n="vblex"/><s n="sg"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="imperf"/><s n="idct"/></l><r>दो<s n="num"/></r></p></e>
+      <e><p><l>फुल<s n="vblex"/></l><r>फूल<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>फळ<s n="vblex"/></l><r>फल<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>पाळ<s n="vblex"/></l><r>जड़<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
 
       <!--Adverbs-->
       <e><p><l>आयज<s n="adv"/></l><r>आज<s n="adv"/></r></p></e>
