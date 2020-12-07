@@ -36,6 +36,8 @@
   <sdef n="mfn"/>
   <sdef n="sp"/>
   <sdef n="sent"/>
+  <sdef n="gen"/>
+  <sdef n="inf"/>
   </sdefs>
 
   <!--
@@ -68,6 +70,14 @@
   <e lm="पार साल" c="पोरूं">
   <p><l>पार<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>साल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
   <r>पार<b/>साल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p>
+  </e>
+  <e lm="दिल की धड़कन रुकना" c="काळीज बंद">
+  <p><l>दिल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>का<s n="post"/><s n="gen"/><s n="f"/><s n="sg"/><j/>धड़कन<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/>रुक<s n="vblex"/><s n="iv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
+  <r>दिल<b/>की<b/>धड़कन<b/>रुकना<s n="n"/><s n="post"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="पेट दर्द" c="पोट काणी">
+  <p><l>पेट<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>दर्द<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
+  <r>पेट<b/>दर्द<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p>
   </e>
 
   <!--Pronouns-->
@@ -160,6 +170,10 @@
   <e lm="लगी है" c="लागल्या">
   <p><l>लग<s n="vblex"/><s n="tv"/><s n="perf"/><s n="f"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
   <r>लगी<b/>है<s n="vblex"/><s n="vbser"/></r></p>
+  </e>
+  <e lm="खून बहना" c="रगत व्हांवप">
+  <p><l>खून<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>बह<s n="vblex"/><s n="iv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
+  <r>खून<b/>बहना<s n="n"/><s n="vblex"/><s n="m"/></r></p>
   </e>
 
   <!--Adverbs-->

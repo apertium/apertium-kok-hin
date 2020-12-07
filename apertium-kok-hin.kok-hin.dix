@@ -240,6 +240,27 @@
       <e><p><l>दांत</l><r>दाँत</r></p><par n="1__n"/></e>
       <e><p><l>धोंपर</l><r>घुटना</r></p><par n="1__n"/></e>
       <e><p><l>ओंठ</l><r>लब</r></p><par n="1__n"/></e>
+      <e><p><l>गर्भपात</l><r>गर्भपात</r></p><par n="1__n"/></e>
+      <e><p><l>आंधळेपण</l><r>अंधापन</r></p><par n="1__n"/></e>
+      <e><p><l>शेळ</l><r>जुकाम</r></p><par n="1__n"/></e>
+      <e><p><l>हागवण</l><r>अतिसार</r></p><par n="1__n"/></e>
+      <e><p><l>मोडणें</l><r>अपस्मार</r></p><par n="1__n"/></e>
+      <e><p><l>पिशें</l><r>पागलपन</r></p><par n="1__n"/></e>
+      <e><p><l>कोड</l><r>कुष्ठ</r></p><par n="1__n"/></e>
+      <e><p><l>पोलियो</l><r>पोलियो</r></p><par n="1__n"/></e>
+      <e><p><l>घाय</l><r>फोड़ा</r></p><par n="1__n"/></e>
+      <e><p><l>घाम</l><r>पसीना</r></p><par n="1__n"/></e>
+      <e><p><l>दुकां</l><r>आँसू</r></p><par n="1__n"/></e>
+      <e><p><l>मूत</l><r>मूत्र</r></p><par n="1__n"/></e>
+      <e><p><l>दंत</l><r>कृमि</r></p><par n="1__n"/></e>
+      <e><p><l>घाय</l><r>घाव</r></p><par n="1__n"/></e>
+      <e><p><l>दमो</l><r>दमा</r></p><par n="1__n"/></e>
+      <e><p><l>गोडेंमूत</l><r>मधुमेह</r></p><par n="1__n"/></e>
+      <e><p><l>जिरवण</l><r>पाचन</r></p><par n="1__n"/></e>
+      <e><p><l>कामीण</l><r>पीलिया</r></p><par n="1__n"/></e>
+      <e><p><l>क्षय</l><r>क्षय</r></p><par n="1__n"/></e>
+      <e><p><l>चामखीळ</l><r>तिल</r></p><par n="1__n"/></e>
+      <e><p><l>चामखीळ</l><r>मस्सा</r></p><par n="1__n"/></e>
 
       <e><p><l>पंगड</l><r>टीम</r></p><par n="2__n"/></e>
       <e><p><l>घडयाळ</l><r>घड़ी</r></p><par n="2__n"/></e>
@@ -304,6 +325,15 @@
       <e><p><l>मूठ</l><r>मुट्ठी</r></p><par n="2__n"/></e>
       <e><p><l>कमर</l><r>कमर</r></p><par n="2__n"/></e>
       <e><p><l>भेंड</l><r>कमर</r></p><par n="2__n"/></e>
+      <e><p><l>स्वास</l><r>साँस</r></p><par n="2__n"/></e>
+      <e><p><l>खोंकली</l><r>खाँसी</r></p><par n="2__n"/></e>
+      <e><p><l>मरण</l><r>मृत्यु</r></p><par n="2__n"/></e>
+      <e><p><l>मोडशी</l><r>पेचिश</r></p><par n="2__n"/></e>
+      <e><p><l>भूक</l><r>भूख</r></p><par n="2__n"/></e>
+      <e><p><l>सूज</l><r>सूजन</r></p><par n="2__n"/></e>
+      <e><p><l>तान</l><r>प्यास</r></p><par n="2__n"/></e>
+      <e><p><l>परसाकडेन</l><r>टट्टी</r></p><par n="2__n"/></e>
+      <e><p><l>न्हीद</l><r>नींद</r></p><par n="2__n"/></e>
 
       <e><p><l>भारत</l><r>भारत</r></p><par n="3__n"/></e>
       <e><p><l>जानेवारी</l><r>जनवरी</r></p><par n="3__n"/></e>
@@ -349,7 +379,25 @@
       <e><p><l>हड्डें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>छा<s n="vblex"/><s n="iv"/><s n="impf"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>हड्डें<s n="vblex"/><s n="sg"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="imperf"/><s n="idct"/></l><r>भौंह<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>मांडी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गोद<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
-
+      <e><p><l>जल्म<s n="vblex"/></l><r>जन्म<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>कॉलर<s n="n"/><s n="sg"/><s n="oc"/><s n="cmsg"/></l><r>हैजा<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>पिड<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>रोग<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ताप<s n="vblex"/></l><r>बुखार<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>घुंवळ<s n="vblex"/></l><r>चक्कर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>मार<s n="vblex"/></l><r>चोट<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>अजीर्ण<s n="adj"/></l><r>अजीर्ण<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>मलेरिय<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>मलेरिया<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>शींक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>छींक<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>घोरे<s n="vblex"/></l><r>खर्राटा<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e><p><l>धेंकर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>डकार<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>फोड<s n="vblex"/></l><r>फोड़ा<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>पत<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पथ्य<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>उदकाळ<b/>फोड<s n="adj"/><s n="vblex"/></l><r>फफोला<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>रगत<b/>व्हांवप<s n="n"/><s n="vblex"/></l><r>खून<b/>बहना<s n="n"/><s n="vblex"/><s n="m"/></r></p></e>
+      <e><p><l>तकली<b/>फोडप<s n="n"/><s n="vblex"/></l><r>सिरदर्द<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>काळीज<b/>बंद<s n="n"/><s n="adj"/></l><r>दिल<b/>की<b/>धड़कन<b/>रुकना<s n="n"/><s n="post"/><s n="vblex"/></r></p></e>
+      <e><p><l>पोट<b/>काणी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पेट<b/>दर्द<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      
       <!--Pronouns-->
       <e><p><l>आमी<s n="prn"/><s n="p1"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p><l>आमी<s n="prn"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="erg"/></r></p></e>
@@ -443,6 +491,7 @@
       <e><p><l>फुल<s n="vblex"/></l><r>फूल<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
       <e><p><l>फळ<s n="vblex"/></l><r>फल<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>पाळ<s n="vblex"/></l><r>जड़<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>लाश<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>जल<s n="vblex"/><s n="iv"/><s n="inf"/><s n="nom"/><s n="m"/></r></p></e>
 
       <!--Adverbs-->
       <e><p><l>आयज<s n="adv"/></l><r>आज<s n="adv"/></r></p></e>
@@ -471,6 +520,7 @@
       <e><p><l>गरम<s n="adj"/></l><r>गरम<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
       <e><p><l>गरम<s n="adj"/></l><r>गर्मी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>पसून<s n="adj"/></l><r>मैं<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e><p><l>बोडको<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गंजा<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
 
       <!--Conjunctions-->
       <e><p><l>अशे<s n="cnjsub"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="prox"/><s n="obl"/></r></p></e>

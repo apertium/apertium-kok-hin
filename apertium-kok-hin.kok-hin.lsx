@@ -48,6 +48,18 @@
   <p><l>देव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>बरें<s n="adv"/><j/>कर<s n="vblex"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="fut"/><s n="ind"/><s n="subjai"/><s n="impimp"/><j/></l>
   <r>देव<b/>बरें<b/>करूं<s n="n"/></r></p>
   </e>
+  <e lm="तकली फोडप" c="सिरदर्द">
+  <p><l>तकली<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>फोडप<s n="vblex"/><j/></l>
+  <r>तकली<b/>फोडप<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="काळीज बंद" c="दिल की धड़कन रुकना">
+  <p><l>काळीज<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>बंद<s n="adj"/><j/></l>
+  <r>काळीज<b/>बंद<s n="n"/><s n="adj"/></r></p>
+  </e>
+  <e lm="पोट काणी" c="पेट दर्द">
+  <p><l>पोट<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>काणी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/></l>
+  <r>पोट<b/>काणी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></r></p>
+  </e>
 
   <!--Verbs-->
   <e lm="काम करता" c="काम करते है">
@@ -78,6 +90,10 @@
   <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>के<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><j/></l>
   <r>काम<b/>केलें<s n="n"/><s n="vblex"/></r></p>
   </e>
+  <e lm="रगत व्हांवप" c="खून बहना">
+  <p><l>रगत<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>व्हांवप<s n="vblex"/><j/></l>
+  <r>रगत<b/>व्हांवप<s n="n"/><s n="vblex"/></r></p>
+  </e>
 
   <!--Adverbs-->
   <e lm="खंय आसा" c="कहाँ है">
@@ -94,6 +110,10 @@
   </e>
 
   <!--Adjectives-->
+  <e lm="उदकाळ फोड" c="फफोला">
+  <p><l>उदकाळ<s n="adj"/><j/>फोड<s n="vblex"/><j/></l>
+  <r>उदकाळ<b/>फोड<s n="adj"/><s n="vblex"/></r></p>
+  </e>
 
   </section>
 </dictionary>
