@@ -31,6 +31,7 @@
   <sdef n="past"/>
   <sdef n="pret"/>
   <sdef n="sent"/>
+  <sdef n="cnisit"/>
   </sdefs>
 
 <!--
@@ -59,6 +60,14 @@
   <e lm="पोट काणी" c="पेट दर्द">
   <p><l>पोट<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>काणी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/></l>
   <r>पोट<b/>काणी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></r></p>
+  </e>
+  <e lm="रांदपाचें कूड" c="रसोईघर">
+  <p><l>रांद<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="cnisit"/><j/>कूड<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/></l>
+  <r>रांदपाचें<b/>कूड<s n="vblex"/><s n="n"/><s n="sg"/></r></p>
+  </e>
+  <e lm="अनाथ आसरो" c="अनाथालय">
+  <p><l>रांद<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="cnisit"/><j/>कूड<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/></l>
+  <r>अनाथ<b/>आसरो<s n="adj"/><s n="n"/></r></p>
   </e>
 
   <!--Verbs-->

@@ -79,6 +79,14 @@
   <p><l>पेट<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>दर्द<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
   <r>पेट<b/>दर्द<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p>
   </e>
+  <e lm="भीतरी छत" c="फोर">
+  <p><l>भीतरी<s n="adj"/><s n="mfn"/><s n="sp"/><j/>छत<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/></l>
+  <r>भीतरी<b/>छत<s n="adj"/><s n="n"/></r></p>
+  </e>
+  <e lm="सभा भवन" c="सभाघर">
+  <p><l>सभा<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/>भवन<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
+  <r>सभा<b/>भवन<s n="n"/><s n="sg"/><s n="nom"/></r></p>
+  </e>
 
   <!--Pronouns-->
   <e lm="कौन है" c="कोण">
