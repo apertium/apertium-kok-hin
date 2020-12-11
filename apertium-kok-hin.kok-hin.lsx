@@ -32,6 +32,7 @@
   <sdef n="pret"/>
   <sdef n="sent"/>
   <sdef n="cnisit"/>
+  <sdef n="cmsg"/>
   </sdefs>
 
 <!--
@@ -68,6 +69,14 @@
   <e lm="अनाथ आसरो" c="अनाथालय">
   <p><l>अनाथ<s n="adj"/><j/>आसरो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/></l>
   <r>अनाथ<b/>आसरो<s n="adj"/><s n="n"/></r></p>
+  </e>
+  <e lm="गोरवा मास" c="गोमांस">
+  <p><l>गोर<s n="n"/><s n="sg"/><s n="oc"/><s n="cmsg"/><j/>मास<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/></l>
+  <r>गोरवा<b/>मास<s n="n"/><s n="sg"/></r></p>
+  </e>
+  <e lm="दुकरां मास" c="सूअर का मांस">
+  <p><l>दुकर<s n="n"/><s n="pl"/><s n="oc"/><s n="cmpl"/><j/>मास<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/></l>
+  <r>दुकरां<b/>मास<s n="n"/><s n="pl"/></r></p>
   </e>
 
   <!--Verbs-->
