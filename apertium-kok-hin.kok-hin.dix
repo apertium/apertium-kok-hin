@@ -101,6 +101,7 @@
     <sdef n="inf"     c="Infinitive"/>
     <sdef n="ant"     c="Anthroponym"/>
     <sdef n="ins"     c="Instrumental"/>
+    <sdef n="cnjadv"  c="adverbial conjunction"/>
 
   </sdefs>
 
@@ -474,6 +475,7 @@
       <!--Pronouns-->
       <e><p><l>आमी<s n="prn"/><s n="p1"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p><l>आमी<s n="prn"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="erg"/></r></p></e>
+      <e><p><l>आमी<s n="prn"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>तुवें<s n="prn"/></l><r>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="frm"/><s n="erg"/></r></p></e>
       <e><p><l>हांव<s n="prn"/></l><r>मैं<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>हांवें<s n="prn"/></l><r>मैं<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="erg"/></r></p></e>
@@ -484,6 +486,7 @@
       <e><p><l>तो<s n="prn"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="dist"/><s n="nom"/></r></p></e>
       <e><p><l>ती<s n="prn"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="dist"/><s n="nom"/></r></p></e>
       <e><p><l>तें<s n="prn"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="dist"/><s n="nom"/></r></p></e>
+      <e><p><l>तें<s n="prn"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="prox"/><s n="nom"/></r></p></e>
       <e><p><l>म्हजो<s n="prn"/></l><r>मैं<s n="prn"/><s n="pers"/><s n="p1"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>कोण<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कौन<b/>है<s n="prn"/><s n="sg"/><s n="pl"/></r></p></e>
       <e><p><l>कोण<s n="adj"/></l><r>कौन<b/>है<s n="prn"/><s n="sg"/><s n="pl"/></r></p></e>
@@ -500,19 +503,25 @@
       <e><p><l>आमचो<s n="prn"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p><l>तुजो<s n="prn"/></l><r>तुम<s n="prn"/><s n="pers"/><s n="p2"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>तुजो<s n="prn"/></l><r>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="m"/><s n="pl"/><s n="frm"/><s n="gen"/></r></p></e>
+      <e><p><l>तुमचो<s n="prn"/></l><r>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="m"/><s n="pl"/><s n="frm"/><s n="gen"/></r></p></e>
       <e><p><l>तुजें<s n="prn"/></l><r>तुम<s n="prn"/><s n="pers"/><s n="p2"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>तुजी<s n="prn"/></l><r>तुम<s n="prn"/><s n="pers"/><s n="p2"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p><l>तुजी<s n="prn"/></l><r>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="f"/><s n="pl"/><s n="frm"/><s n="gen"/></r></p></e>
       <e><p><l>ताचो<s n="prn"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="sg"/><s n="dist"/><s n="gen"/></r></p></e>
       <e><p><l>ताचो<s n="prn"/></l><r>उसका<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
       <e><p><l>तीं<s n="prn"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="dist"/><s n="nom"/></r></p></e>
+      <e><p><l>तीं<s n="prn"/></l><r>वे<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>तिका<s n="prn"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="dist"/><s n="dat"/></r></p></e>
+      <e><p><l>ताका<s n="prn"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="dist"/><s n="dat"/></r></p></e>
       <e><p><l>म्हजेर<s n="prn"/></l><r>मुझ<b/>पर<s n="prn"/><s n="post"/></r></p></e>
       <e><p><l>आमचेर<s n="prn"/></l><r>हम<b/>पर<s n="prn"/><s n="post"/></r></p></e>
       <e><p><l>हाचो<s n="prn"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="sg"/><s n="prox"/><s n="gen"/></r></p></e>
       <e><p><l>हिची<s n="prn"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/><s n="prox"/><s n="gen"/></r></p></e>
       <e><p><l>हिची<s n="prn"/></l><r>इसका<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>हांचें<s n="prn"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="pl"/><s n="prox"/><s n="gen"/></r></p></e>
+      <e><p><l>तांकां<s n="prn"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="dist"/><s n="nom"/></r></p></e>
+      <e><p><l>ते<s n="prn"/></l><r>वे<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>त्यो<s n="prn"/></l><r>वे<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
 
       <!--Verbs-->
       <e><p><l>के<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/></l><r>कर<s n="vblex"/><s n="tv"/><s n="perf"/><s n="m"/><s n="sg"/></r></p></e>
@@ -599,6 +608,17 @@
       <e><p><l>अशे<s n="cnjsub"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="prox"/><s n="obl"/></r></p></e>
       <e><p><l>आनी<s n="ninf"/></l><r>और<s n="cnjcoo"/></r></p></e>
       <e><p><l>जाता<s n="cnjcoo"/></l><r>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>कारण<s n="cnjsub"/></l><r>क्योंकि<s n="cnjadv"/></r></p></e>
+      <e><p><l>कित्याक<s n="adv"/></l><r>क्योंकि<s n="cnjadv"/></r></p></e>
+      <e><p><l>पूण<s n="ninf"/></l><r>किंतु<s n="cnjcoo"/></r></p></e>
+      <e><p><l>पूण<s n="ninf"/></l><r>परंतु<s n="cnjcoo"/></r></p></e>
+      <e><p><l>तरीपूण<s n="cnjsub"/></l><r>तथापि<s n="adv"/></r></p></e>
+      <e><p><l>म्हळ्यार<s n="cnjcoo"/></l><r>अर्थात<s n="cnjadv"/></r></p></e>
+      <e><p><l>वा<s n="ninf"/></l><r>अथवा<s n="cnjcoo"/></r></p></e>
+      <e><p><l>या<s n="cnjcoo"/></l><r>अथवा<s n="cnjcoo"/></r></p></e>
+      <e><p><l>देखून<s n="adv"/></l><r>इसलिए<s n="cnjadv"/></r></p></e>
+      <e><p><l>खातीर<s n="post"/></l><r>के लिये<s n="post"/></r></p></e>
+      <e><p><l>जर<s n="adv"/></l><r>यदि<s n="cnjadv"/></r></p></e>
 
       <!--Postpositions-->
 
