@@ -4,6 +4,7 @@
   
   <sdefs>
   <sdef n="n"/>
+  <sdef n="np"/>
   <sdef n="adj"/>
   <sdef n="adv"/>
   <sdef n="vblex"/>
@@ -38,6 +39,8 @@
   <sdef n="sent"/>
   <sdef n="gen"/>
   <sdef n="inf"/>
+  <sdef n="gna"/>
+  <sdef n="al"/>
   </sdefs>
 
   <!--
@@ -190,6 +193,150 @@
   <e lm="खून बहना" c="रगत व्हांवप">
   <p><l>खून<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>बह<s n="vblex"/><s n="iv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
   <r>खून<b/>बहना<s n="n"/><s n="vblex"/><s n="m"/></r></p>
+  </e>
+  <e lm="दर्द होना" c="फोड">
+  <p><l>दर्द<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>हो<s n="vbser"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
+  <r>दर्द<b/>होना<s n="n"/><s n="vbser"/><s n="m"/></r></p>
+  </e>
+  <e lm="उत्तर देना" c="जाप दी">
+  <p><l>उत्तर<s n="np"/><s n="al"/><s n="sg"/><j/>दे<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
+  <r>उत्तर<b/>देना<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="दिखाई देना" c="दिश्टी पड">
+  <p><l>दिखाई<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/>दे<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
+  <r>दिखाई<b/>देना<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="व्यवस्थित करना" c="मांड">
+  <p><l>व्यवस्थित<s n="adj"/><s n="mfn"/><s n="sp"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
+  <r>व्यवस्थित<b/>करना<s n="adj"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="निर्माण करना" c="बांद">
+  <p><l>निर्माण<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
+  <r>निर्माण<b/>करना<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="बंद करना" c="धांप">
+  <p><l>बंद<s n="adj"/><s n="mfn"/><s n="sp"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
+  <r>बंद<b/>करना<s n="adj"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="मर जाना" c="मर">
+  <p><l>मर<s n="vblex"/><s n="iv"/><s n="stem"/><j/>जा<s n="vblex"/><s n="iv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
+  <r>मर<b/>जाना<s n="vblex"/><s n="iv"/></r></p>
+  </e>
+  <e lm="भोजन करना" c="जेव">
+  <p><l>भोजन<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
+  <r>भोजन<b/>करना<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="वस्त्र पहनना" c="न्हेस">
+  <p><l>वस्त्र<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>पहन<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><j/></l>
+  <r>वस्त्र<b/>पहनना<s n="n"/><s n="vblex"/><s n="nom"/></r></p>
+  </e>
+  <e lm="महसूस करना" c="भोग">
+  <p><l>भोजन<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
+  <r>महसूस<b/>करना<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="क्षमा कर देना" c="भोगशी">
+  <p><l>क्षमा<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/>कर<s n="vblex"/><s n="tv"/><s n="stem"/>दे<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="n"/><j/></l>
+  <r>क्षमा<b/>कर<b/>देना<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="संग्रह करना" c="जमय">
+  <p><l>संग्रह<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
+  <r>संग्रह<b/>करना<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="निमंत्रण देना" c="आपय">
+  <p><l>निमंत्रण<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>दे<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
+  <r>निमंत्रण<b/>देना<s n="n"/><s n="vblex"/><s n="nom"/></r></p>
+  </e>
+  <e lm="छोड़ देना" c="सोड">
+  <p><l>छोड़<s n="vblex"/><s n="tv"/><s n="stem"/><j/>दे<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
+  <r>छोड़<b/>देना<s n="vblex"/><s n="tv"/></r></p>
+  </e>
+  <e lm="उधार देना" c="रीण दी">
+  <p><l>उधार<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>दे<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
+  <r>उधार<b/>देना<s n="vblex"/><s n="m"/><s n="nom"/></r></p>
+  </e>
+  <e lm="पसंद करना" c="आवड">
+  <p><l>पसंद<s n="vblex"/><s n="tv"/><s n="stem"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
+  <r>पसंद<b/>करना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p>
+  </e>
+  <e lm="ध्यान से सुनना" c="आयक">
+  <p><l>ध्यान<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>से<s n="post"/><j/>सुन<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><j/></l>
+  <r>ध्यान<b/>से<b/>सुनना<s n="n"/><s n="post"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="प्यार करना" c="मोग कर">
+  <p><l>प्यार<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
+  <r>प्यार<b/>करना<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="भेंट करना" c="भेट">
+  <p><l>भेंट<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
+  <r>भेंट<b/>करना<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="योजना बनाना" c="येवजी">
+  <p><l>योजना<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/>बना<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
+  <r>योजना<b/>बनाना<s n="n"/><s n="vblex"/><s n="nom"/></r></p>
+  </e>
+  <e lm="प्रार्थना करना" c="माग">
+  <p><l>योजना<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
+  <r>प्रार्थना<b/>करना<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="झगड़ा करना" c="झगड">
+  <p><l>झगड़ा<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
+  <r>झगड़ा<b/>करना<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="ऊपर उठाना" c="उबय">
+  <p><l>ऊपर<s n="adv"/><j/>उठा<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
+  <r>ऊपर<b/>उठाना<s n="adv"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="याद करना" c="उगडास काड">
+  <p><l>याद<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
+  <r>याद<b/>करना<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="खड़ा होना" c="उबे राव">
+  <p><l>खड़ा<s n="adj"/><s n="mfn"/><s n="sp"/><j/>हो<s n="vbser"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
+  <r>खड़ा<b/>होना<s n="adj"/><s n="vbser"/></r></p>
+  </e>
+  <e lm="शुरू करना" c="सुरू कर">
+  <p><l>शुरू<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
+  <r>शुरू<b/>करना<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="सुझाव देना" c="सुचय">
+  <p><l>सुझाव<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>दे<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
+  <r>सुझाव<b/>देना<s n="n"/><s n="vblex"/><s n="nom"/><s n="m"/></r></p>
+  </e>
+  <e lm="पसीना आना" c="घामे">
+  <p><l>सुरू<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>कर<s n="vblex"/><s n="iv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
+  <r>पसीना<b/>आना<s n="n"/><s n="vblex"/><s n="nom"/><s n="m"/></r></p>
+  </e>
+  <e lm="झाडू लगाना" c="जाड">
+  <p><l>झाडू<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/>लगा<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
+  <r>झाडू<b/>लगाना<s n="n"/><s n="vblex"/><s n="nom"/></r></p>
+  </e>
+  <e lm="प्रयत्न करना" c="प्रयत्न कर">
+  <p><l>प्रयत्न<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
+  <r>प्रयत्न<b/>करना<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="इस्तेमाल करना" c="वापर">
+  <p><l>इस्तेमाल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
+  <r>इस्तेमाल<b/>करना<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="प्रतीक्षा करना" c="वाट पळे">
+  <p><l>प्रतीक्षा<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
+  <r>प्रतीक्षा<b/>करना<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="गीला होना" c="भिज">
+  <p><l>गीला<s n="adj"/><s n="mfn"/><s n="sp"/><j/>हो<s n="vbser"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
+  <r>गीला<b/>होना<s n="adj"/><s n="vbser"/></r></p>
+  </e>
+  <e lm="काम करना" c="काम कर">
+  <p><l>काम<s n="vblex"/><s n="tv"/><s n="stem"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
+  <r>काम<b/>करना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p>
+  </e>
+  <e lm="पौधा लगाना" c="लाय">
+  <p><l>पौधा<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>लगा<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
+  <r>पौधा<b/>लगाना<s n="n"/><s n="vblex"/><s n="nom"/><s n="m"/></r></p>
+  </e>
+  <e lm="भूख लगना" c="भूक लागप">
+  <p><l>भूख<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/>लग<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><j/></l>
+  <r>भूख<b/>लगना<s n="n"/><s n="vblex"/><s n="nom"/></r></p>
   </e>
 
   <!--Adverbs-->

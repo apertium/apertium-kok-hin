@@ -112,6 +112,74 @@
   <p><l>रगत<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>व्हांवप<s n="vblex"/><j/></l>
   <r>रगत<b/>व्हांवप<s n="n"/><s n="vblex"/></r></p>
   </e>
+  <e lm="जाप दी" c="उत्तर देना">
+  <p><l>जाप<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>द<s n="vblex"/><s n="sg"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="imperf"/><s n="idct"/><j/></l>
+  <r>जाप<b/>दी<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="दिश्टी पड" c="दिखाई देना">
+  <p><l>दिश्ट<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/><j/>पड<s n="vblex"/><j/></l>
+  <r>दिश्टी<b/>पड<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="सुरू कर" c="आरंभ करना">
+  <p><l>सुरू<s n="adj"/><j/>कर<s n="vblex"/><j/></l>
+  <r>सुरू<b/>कर<s n="adj"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="रीण दी" c="उधार देना">
+  <p><l>रीण<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>द<s n="vblex"/><s n="sg"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="imperf"/><s n="idct"/><j/></l>
+  <r>रीण<b/>दी<s n="n"/><s n="vblex"/><s n="sg"/></r></p>
+  </e>
+  <e lm="मोग कर" c="प्यार करना">
+  <p><l>मोग<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>कर<s n="vblex"/><j/></l>
+  <r>मोग<b/>कर<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="उगडास काड" c="याद करना">
+  <p><l>उगडास<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>काड<s n="vblex"/><j/></l>
+  <r>उगडास<b/>काड<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="उबे राव" c="खड़ा होना">
+  <p><l>उब<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/><j/>राव<s n="vblex"/><j/></l>
+  <r>उबे<b/>राव<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="सुरू कर" c="शुरू करना">
+  <p><l>सुरू<s n="adj"/><j/>कर<s n="vblex"/><j/></l>
+  <r>सुरू<b/>कर<s n="adj"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="प्रयत्न कर" c="प्रयत्न करना">
+  <p><l>प्रयत्न<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>कर<s n="vblex"/><j/></l>
+  <r>प्रयत्न<b/>कर<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="वाट पळे" c="प्रतीक्षा करना">
+  <p><l>वाट<s n="vblex"/><j/>पळे<s n="vblex"/><j/></l>
+  <r>वाट<b/>पळे<s n="vblex"/></r></p>
+  </e>
+  <e lm="काम कर" c="काम करना">
+  <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>कर<s n="vblex"/><j/></l>
+  <r>काम<b/>कर<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="लग्न जावप" c="शादी करना">
+  <p><l>लग्न<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>जावप<s n="vblex"/><j/></l>
+  <r>लग्न<b/>जावप<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="भूक लागप" c="भूख लगना">
+  <p><l>लग्न<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>जावप<s n="vblex"/><j/></l>
+  <r>भूक<b/>लागप<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="तान लागप" c="प्यास लगना">
+  <p><l>तान<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>लागप<s n="vblex"/><j/></l>
+  <r>तान<b/>लागप<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="बाग घेवप" c="झुकना">
+  <p><l>बाग<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>घेवप<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/></l>
+  <r>बाग<b/>घेवप<s n="vblex"/><s n="sg"/></r></p>
+  </e>
+  <e lm="वेंचून काडप" c="चुनना">
+  <p><l>वेंच<s n="vblex"/><j/>काडप<s n="vblex"/><j/></l>
+  <r>वेंचून<b/>काडप<s n="vblex"/></r></p>
+  </e>
+  <e lm="खर्च करप" c="खर्च करना">
+  <p><l>खर्च<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>करप<s n="vblex"/><j/></l>
+  <r>खर्च<b/>करप<s n="n"/><s n="vblex"/></r></p>
+  </e>
 
   <!--Adverbs-->
   <e lm="खंय आसा" c="कहाँ है">
