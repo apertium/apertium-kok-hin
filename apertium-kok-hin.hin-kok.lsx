@@ -56,7 +56,7 @@
   <!--Nouns-->
   <e lm="काजू फल" c="काज">
   <p><l>काजू<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>फल<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
-  <r>काजू<b/>फल<s n="n"/><s n="sg"/><s n="nom"/></r></p>
+  <r>काजू<b/>फल<s n="n"/><s n="vblex"/></r></p>
   </e>
   <e lm="काजू बी" c="काजू">
   <p><l>काजू<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>बी<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
@@ -64,11 +64,11 @@
   </e>
   <e lm="जंगली सूअर" c="रानदुकर">
   <p><l>जंगली<s n="adj"/><s n="mfn"/><s n="sp"/><j/>सूअर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
-  <r>जंगली<b/>सूअर<s n="n"/><s n="sg"/><s n="nom"/></r></p>
+  <r>जंगली<b/>सूअर<s n="adj"/><s n="n"/></r></p>
   </e>
   <e lm="साल है" c="वर्सां">
   <p><l>साल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
-  <r>साल<b/>है<s n="n"/><s n="vbser"/></r></p>
+  <r>साल<b/>है<s n="n"/><s n="vbser"/><s n="nom"/></r></p>
   </e>
   <e lm="पार साल" c="पोरूं">
   <p><l>पार<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>साल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
@@ -102,11 +102,11 @@
   <!--Pronouns-->
   <e lm="कौन है" c="कोण">
   <p><l>क्या<s n="prn"/><s n="itg"/><s n="sg"/><s n="nn"/><s n="nom"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
-  <r>कौन<b/>है<s n="prn"/><s n="sg"/><s n="pl"/></r></p>
+  <r>कौन<b/>है<s n="prn"/><s n="vbser"/><s n="nom"/></r></p>
   </e>
   <e lm="क्या है" c="कितें">
   <p><l>क्या<s n="prn"/><s n="itg"/><s n="sg"/><s n="aa"/><s n="nom"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
-  <r>क्या<b/>है<s n="prn"/><s n="sg"/><s n="pl"/></r></p>
+  <r>क्या<b/>है<s n="prn"/><s n="vbser"/><s n="nom"/></r></p>
   </e>
   <e lm="मुझ पर" c="म्हजेर">
   <p><l>मुझ<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="obl"/><j/>पर<s n="post"/><j/></l>
@@ -120,43 +120,43 @@
   <!--Verbs-->
   <e lm="देखते है" c="पळयता">
   <p><l>देख<s n="vblex"/><s n="tv"/><s n="impf"/><s n="m"/><s n="pl"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
-  <r>देखते<b/>है<s n="vblex"/></r></p>
+  <r>देखते<b/>है<s n="vblex"/><s n="vbser"/><s n="m"/><s n="pl"/></r></p>
   </e>
   <e lm="काम करते है" c="काम करता">
   <p><l>काम कर<s n="vblex"/><s n="tv"/><s n="impf"/><s n="m"/><s n="pl"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
-  <r>काम करते<b/>है<s n="vblex"/></r></p>
+  <r>काम करते<b/>है<s n="vblex"/><s n="vbser"/><s n="m"/><s n="pl"/></r></p>
   </e>
   <e lm="काम कर रहा हूं" c="काम करतां">
   <p><l>काम कर<s n="vblex"/><s n="tv"/><s n="stem"/><j/>रह<s n="vaux"/><s n="perf"/><s n="m"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/><j/></l>
-  <r>काम कर<b/>रहा<b/>हूं<s n="vblex"/></r></p>
+  <r>काम कर<b/>रहा<b/>हूं<s n="vblex"/><s n="vaux"/><s n="vbser"/></r></p>
   </e>
   <e lm="बनाई जाती हैं" c="करतात">
   <p><l>बना<s n="vblex"/><s n="tv"/><s n="perf"/><s n="f"/><s n="sg"/><j/>जा<s n="vblex"/><s n="iv"/><s n="impf"/><s n="f"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p3"/><s n="mf"/><s n="pl"/><j/></l>
-  <r>बनाई<b/>जाती<b/>हैं<s n="vblex"/><s n="pl"/></r></p>
+  <r>बनाई<b/>जाती<b/>हैं<s n="vblex"/><s n="vbser"/></r></p>
   </e>
   <e lm="सकता हूं" c="शकतां">
   <p><l>सक<s n="vaux"/><s n="impf"/><s n="m"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/><j/></l>
-  <r>सकता<b/>हूं<s n="vaux"/><s n="sg"/><s n="mf"/><s n="p1"/></r></p>
+  <r>सकता<b/>हूं<s n="vaux"/><s n="vbser"/><s n="sg"/></r></p>
   </e>
   <e lm="रहता है" c="रावता">
   <p><l>रह<s n="vaux"/><s n="impf"/><s n="m"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
-  <r>रहता<b/>है<s n="vaux"/><s n="m"/></r></p>
+  <r>रहता<b/>है<s n="vaux"/><s n="vbser"/><s n="m"/></r></p>
   </e>
   <e lm="रहती है" c="रावता">
   <p><l>रह<s n="vaux"/><s n="impf"/><s n="f"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
-  <r>रहती<b/>है<s n="vaux"/><s n="f"/></r></p>
+  <r>रहती<b/>है<s n="vaux"/><s n="vbser"/></r></p>
   </e>
   <e lm="जा रहा हूँ" c="वतां">
   <p><l>जा रह<s n="vaux"/><s n="perf"/><s n="m"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/><j/></l>
-  <r>जा रहा<b/>हूँ<s n="vaux"/><s n="m"/><s n="sg"/></r></p>
+  <r>जा रहा<b/>हूँ<s n="vaux"/><s n="vbser"/><s n="sg"/></r></p>
   </e>
   <e lm="जा रही हूँ" c="वतां">
   <p><l>जा रह<s n="vaux"/><s n="perf"/><s n="f"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/><j/></l>
-  <r>जा रही<b/>हूँ<s n="vaux"/><s n="f"/><s n="sg"/></r></p>
+  <r>जा रही<b/>हूँ<s n="vaux"/><s n="vbser"/><s n="sg"/></r></p>
   </e>
   <e lm="जा रहे हैं" c="वतां">
   <p><l>जा रह<s n="vaux"/><s n="prs"/><s n="p2"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="p3"/><s n="mf"/><s n="pl"/><j/></l>
-  <r>जा रहे<b/>हैं<s n="vaux"/><s n="mf"/></r></p>
+  <r>जा रहे<b/>हैं<s n="vaux"/><s n="vbser"/></r></p>
   </e>
   <e lm="जा रहा है" c="वता">
   <p><l>जा रह<s n="vaux"/><s n="perf"/><s n="m"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
@@ -168,11 +168,11 @@
   </e>
   <e lm="काट दिया गया" c="कापलें">
   <p><l>काट दे<s n="vblex"/><s n="tv"/><s n="perf"/><s n="m"/><s n="sg"/><j/>जा<s n="vblex"/><s n="iv"/><s n="perf"/><s n="m"/><s n="sg"/><j/></l>
-  <r>काट दिया<b/>गया<s n="vblex"/></r></p>
+  <r>काट दिया<b/>गया<s n="vblex"/><s n="perf"/><s n="m"/><s n="sg"/></r></p>
   </e>
   <e lm="ले आओ" c="हाड">
   <p><l>ले<s n="vblex"/><s n="tv"/><s n="prs"/><s n="p3"/><s n="sg"/><j/>आ<s n="vblex"/><s n="iv"/><s n="prs"/><s n="p2"/><s n="pl"/><j/></l>
-  <r>ले<b/>आओ<s n="vblex"/></r></p>
+  <r>ले<b/>आओ<s n="vblex"/><s n="prs"/></r></p>
   </e>
   <e lm="खडे रहो" c="उबो राव">
   <p><l>खडा<s n="adj"/><s n="m"/><s n="sg"/><s n="obl"/><j/>रह<s n="vaux"/><s n="prs"/><s n="p2"/><s n="pl"/><j/></l>
@@ -180,11 +180,11 @@
   </e>
   <e lm="करता है" c="करता">
   <p><l>कर<s n="vblex"/><s n="tv"/><s n="impf"/><s n="m"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
-  <r>करता<b/>है<s n="vblex"/><s n="vbser"/></r></p>
+  <r>करता<b/>है<s n="vblex"/><s n="vbser"/><s n="m"/></r></p>
   </e>
   <e lm="रहता है" c="आसता">
   <p><l>रह<s n="vaux"/><s n="impf"/><s n="m"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
-  <r>रहता<b/>है<s n="vaux"/><s n="vbser"/></r></p>
+  <r>रहता<b/>है<s n="vaux"/><s n="vbser"/><s n="m"/></r></p>
   </e>
   <e lm="लगी है" c="लागल्या">
   <p><l>लग<s n="vblex"/><s n="tv"/><s n="perf"/><s n="f"/><s n="sg"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
@@ -200,11 +200,11 @@
   </e>
   <e lm="उत्तर देना" c="जाप दी">
   <p><l>उत्तर<s n="np"/><s n="al"/><s n="sg"/><j/>दे<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
-  <r>उत्तर<b/>देना<s n="n"/><s n="vblex"/></r></p>
+  <r>उत्तर<b/>देना<s n="np"/><s n="vblex"/></r></p>
   </e>
   <e lm="दिखाई देना" c="दिश्टी पड">
   <p><l>दिखाई<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/>दे<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
-  <r>दिखाई<b/>देना<s n="n"/><s n="vblex"/></r></p>
+  <r>दिखाई<b/>देना<s n="n"/><s n="vblex"/><s n="nom"/></r></p>
   </e>
   <e lm="व्यवस्थित करना" c="मांड">
   <p><l>व्यवस्थित<s n="adj"/><s n="mfn"/><s n="sp"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>
@@ -235,7 +235,7 @@
   <r>महसूस<b/>करना<s n="n"/><s n="vblex"/></r></p>
   </e>
   <e lm="क्षमा कर देना" c="भोगशी">
-  <p><l>क्षमा<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/>कर<s n="vblex"/><s n="tv"/><s n="stem"/>दे<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="n"/><j/></l>
+  <p><l>क्षमा<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/>कर<s n="vblex"/><s n="tv"/><s n="stem"/>दे<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
   <r>क्षमा<b/>कर<b/>देना<s n="n"/><s n="vblex"/></r></p>
   </e>
   <e lm="संग्रह करना" c="जमय">
@@ -252,7 +252,7 @@
   </e>
   <e lm="उधार देना" c="रीण दी">
   <p><l>उधार<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>दे<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/><j/></l>
-  <r>उधार<b/>देना<s n="vblex"/><s n="m"/><s n="nom"/></r></p>
+  <r>उधार<b/>देना<s n="n"/><s n="vblex"/><s n="m"/><s n="nom"/></r></p>
   </e>
   <e lm="पसंद करना" c="आवड">
   <p><l>पसंद<s n="vblex"/><s n="tv"/><s n="stem"/><j/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><j/></l>

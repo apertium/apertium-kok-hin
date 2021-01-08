@@ -48,7 +48,7 @@
   <!--Nouns-->
   <e lm="देव बरें करूं" c="धन्यवाद">
   <p><l>देव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>बरें<s n="adv"/><j/>कर<s n="vblex"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="fut"/><s n="ind"/><s n="subjai"/><s n="impimp"/><j/></l>
-  <r>देव<b/>बरें<b/>करूं<s n="n"/></r></p>
+  <r>देव<b/>बरें<b/>करूं<s n="n"/><s n="adv"/><s n="vblex"/></r></p>
   </e>
   <e lm="तकली फोडप" c="सिरदर्द">
   <p><l>तकली<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>फोडप<s n="vblex"/><j/></l>
@@ -76,25 +76,25 @@
   </e>
   <e lm="दुकरां मास" c="सूअर का मांस">
   <p><l>दुकर<s n="n"/><s n="pl"/><s n="oc"/><s n="cmpl"/><j/>मास<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/></l>
-  <r>दुकरां<b/>मास<s n="n"/><s n="pl"/></r></p>
+  <r>दुकरां<b/>मास<s n="n"/></r></p>
   </e>
 
   <!--Verbs-->
   <e lm="काम करता" c="काम करते है">
   <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>करता<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/></l>
-  <r>काम<b/>करता<s n="vblex"/></r></p>
+  <r>काम<b/>करता<s n="vblex"/><s n="sg"/></r></p>
   </e>
   <e lm="काम करता" c="काम करते है">
   <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>कर<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><j/></l>
-  <r>काम<b/>करता<s n="vblex"/><s n="p2"/><s n="p3"/></r></p>
+  <r>काम<b/>करता<s n="n"/><s n="vblex"/><s n="sg"/></r></p>
   </e>
   <e lm="काम करतां" c="काम कर रहा हूं">
   <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>करता<s n="n"/><s n="pl"/><s n="oc"/><s n="cmpl"/><j/></l>
-  <r>काम<b/>करतां<s n="vblex"/></r></p>
+  <r>काम<b/>करतां<s n="vblex"/><s n="sg"/></r></p>
   </e>
   <e lm="काम करतां" c="काम कर रहा हूं">
   <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>कर<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="pres"/><s n="imperf"/><s n="idct"/><j/></l>
-  <r>काम<b/>करतां<s n="vblex"/><s n="p1"/></r></p>
+  <r>काम<b/>करतां<s n="n"/><s n="vblex"/><s n="sg"/></r></p>
   </e>
   <e lm="उबो राव" c="खडे रहो">
   <p><l>उबो<s n="adj"/><s n="sg"/><s n="dc"/><s n="m"/><j/>राव<s n="vblex"/><j/></l>
@@ -102,11 +102,11 @@
   </e>
   <e lm="पावस पडटलो" c="बारिश होगी">
   <p><l>पावस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>पड<s n="vblex"/><s n="sg"/><s n="m"/><s n="p2"/><s n="p3"/><s n="fut"/><s n="def"/><s n="idct"/><j/></l>
-  <r>पावस<b/>पडटलो<s n="n"/><s n="vblex"/></r></p>
+  <r>पावस<b/>पडटलो<s n="n"/><s n="vblex"/><s n="sg"/></r></p>
   </e>
   <e lm="काम केलें" c="बारिश होगी">
   <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>के<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><j/></l>
-  <r>काम<b/>केलें<s n="n"/><s n="vblex"/></r></p>
+  <r>काम<b/>केलें<s n="n"/><s n="vblex"/><s n="sg"/></r></p>
   </e>
   <e lm="रगत व्हांवप" c="खून बहना">
   <p><l>रगत<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>व्हांवप<s n="vblex"/><j/></l>
@@ -114,7 +114,7 @@
   </e>
   <e lm="जाप दी" c="उत्तर देना">
   <p><l>जाप<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>द<s n="vblex"/><s n="sg"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="imperf"/><s n="idct"/><j/></l>
-  <r>जाप<b/>दी<s n="n"/><s n="vblex"/></r></p>
+  <r>जाप<b/>दी<s n="n"/><s n="vblex"/><s n="sg"/></r></p>
   </e>
   <e lm="दिश्टी पड" c="दिखाई देना">
   <p><l>दिश्ट<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/><j/>पड<s n="vblex"/><j/></l>
