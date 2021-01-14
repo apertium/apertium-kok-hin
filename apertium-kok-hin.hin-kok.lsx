@@ -102,6 +102,10 @@
   <p><l>लकडी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/>का<s n="post"/><s n="gen"/><s n="m"/><s n="sg"/><j/>कोयला<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
   <r>लकडी<b/>का<b/>कोयला<s n="n"/><s n="post"/><s n="sg"/></r></p>
   </e>
+  <e lm="मिट्टी का तेल" c="पेत्रोल">
+  <p><l>मिट्टी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/>का<s n="post"/><s n="gen"/><s n="m"/><s n="sg"/><j/>तेल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
+  <r>मिट्टी<b/>का<b/>तेल<s n="n"/><s n="post"/><s n="sg"/></r></p>
+  </e>
 
   <!--Pronouns-->
   <e lm="कौन है" c="कोण">
