@@ -41,6 +41,7 @@
   <sdef n="inf"/>
   <sdef n="gna"/>
   <sdef n="al"/>
+  <sdef n="ant"/>
   </sdefs>
 
   <!--
@@ -105,6 +106,26 @@
   <e lm="मिट्टी का तेल" c="पेत्रोल">
   <p><l>मिट्टी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/>का<s n="post"/><s n="gen"/><s n="m"/><s n="sg"/><j/>तेल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
   <r>मिट्टी<b/>का<b/>तेल<s n="n"/><s n="post"/><s n="sg"/></r></p>
+  </e>
+  <e lm="हवाई जहाज़" c="विमान">
+  <p><l>हवाई<s n="adj"/><s n="mfn"/><s n="sp"/><j/>जहाज़<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
+  <r>हवाई<b/>जहाज़<s n="adj"/><s n="n"/></r></p>
+  </e>
+  <e lm="मन्द पवन" c="थंड वारें">
+  <p><l>मन्द<s n="adj"/><s n="mfn"/><s n="sp"/><j/>पवन<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
+  <r>मन्द<b/>पवन<s n="adj"/><s n="n"/></r></p>
+  </e>
+  <e lm="इन्द्र धनुष" c="धोणू">
+  <p><l>इन्द्र<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/><j/>धनुष<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
+  <r>इन्द्र<b/>धनुष<s n="np"/><s n="n"/><s n="m"/><s n="sg"/></r></p>
+  </e>
+  <e lm="जल स्त्रोत" c="झर">
+  <p><l>जल<s n="vblex"/><s n="iv"/><s n="stem"/><j/>स्त्रोत<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/></l>
+  <r>जल<b/>स्त्रोत<s n="vblex"/><s n="n"/></r></p>
+  </e>
+  <e lm="समतल भूमि" c="सपाट भूंय">
+  <p><l>समतल<s n="adj"/><s n="mfn"/><s n="sp"/><j/>भूमि<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/></l>
+  <r>समतल<b/>भूमि<s n="adj"/><s n="n"/></r></p>
   </e>
 
   <!--Pronouns-->
