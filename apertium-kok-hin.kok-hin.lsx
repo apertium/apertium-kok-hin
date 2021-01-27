@@ -46,7 +46,7 @@
   <section id="main" type="standard">
 
   <!--Nouns-->
-  <e lm="देव बरें करूं" c="धन्यवाद">
+  <e lm="देव बरें करूं" c="धन्यवाद / भगवान आपका भला करे">
   <p><l>देव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>बरें<s n="adv"/><j/>कर<s n="vblex"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="fut"/><s n="ind"/><s n="subjai"/><s n="impimp"/><j/></l>
   <r>देव<b/>बरें<b/>करूं<s n="n"/><s n="adv"/><s n="vblex"/></r></p>
   </e>
@@ -211,6 +211,10 @@
   <e lm="सपाट भूंय" c="समतल भूमि">
   <p><l>सपाट<s n="adj"/><j/>भूंय<s n="adj"/><j/></l>
   <r>सपाट<b/>भूंय<s n="adj"/></r></p>
+  </e>
+  <e lm="हर एक" c="प्रत्येक">
+  <p><l>हर<s n="vblex"/><j/>एक<s n="adj"/><j/></l>
+  <r>हर<b/>एक<s n="vblex"/><s n="adj"/></r></p>
   </e>
 
   </section>

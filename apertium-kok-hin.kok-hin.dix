@@ -538,6 +538,7 @@
 
       <e><p><l>देव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="m"/><s n="pl"/><s n="frm"/><s n="gen"/></r></p></e>
       <e><p><l>देव<b/>बरें<b/>करूं<s n="n"/><s n="adv"/><s n="vblex"/></l><r>धन्यवाद<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>देव<b/>बरें<b/>करूं<s n="n"/><s n="adv"/><s n="vblex"/></l><r>भगवान<b/>आपका<b/>भला<b/>करे<s n="n"/><s n="prn"/><s n="adj"/><s n="vblex"/></r></p></e>
       <e><p><l>घर<s n="n"/><s n="sg"/><s n="oc"/><s n="cmsg"/></l><r>घर<s n="adv"/></r></p></e>
       <e><p><l>झाड<s n="vblex"/></l><r>पेड़<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>झाड<s n="n"/><s n="pl"/><s n="oc"/><s n="cmpl"/></l><r>पेड़<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -958,6 +959,53 @@
       <e><p><l>गरम<s n="adj"/></l><r>गर्मी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>पसून<s n="adj"/></l><r>मैं<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="ins"/></r></p></e>
       <e><p><l>बोडको<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गंजा<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>पुर<s n="vblex"/><s n="cl"/></l><r>पूर्ण<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>फुकट<s n="adj"/></l><r>मुफ़्त<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>विशेश<s n="adj"/></l><r>विशेष<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>हर<b/>एक<s n="vblex"/><s n="adj"/></l><r>प्रत्येक<s n="adv"/></r></p></e>
+      <e><p><l>भरपूर<s n="adj"/></l><r>प्रचुर<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>सारको<s n="cnjsub"/></l><r>समान<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>वर्सुकी<s n="adj"/></l><r>वार्षिक<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>सवाय<s n="adj"/></l><r>सस्ता<s n="adv"/></r></p></e>
+      <e><p><l>मुखेल<s n="adj"/></l><r>मुख्य<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>म्हारग<s n="adj"/></l><r>महँगा<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>सोंपो<s n="adj"/><s n="sg"/><s n="dc"/><s n="m"/></l><r>सरल<s n="adv"/></r></p></e>
+      <e><p><l>शिक्षणीक<s n="adj"/></l><r>शैक्षिक<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>चड<s n="adj"/></l><r>अत्यधिक<s n="adv"/></r></p></e>
+      <e><p><l>भायलो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>विदेशी<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>स्वतंत्र<s n="adj"/></l><r>रोचक<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>आधुनीक<s n="adj"/></l><r>आधुनिक<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>नितीक<s n="adj"/></l><r>नैतिक<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>चड<s n="adj"/></l><r>अधिक<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>पुराणीक<s n="adj"/></l><r>पौराणिक<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>फुडलो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>अगला<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>दुबळो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गरीब<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>आदलो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पिछला<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>धर्मीक<s n="adj"/></l><r>धार्मिक<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>कडक<s n="adj"/></l><r>कड़ा<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>समाजीक<s n="adj"/></l><r>सामाजिक<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>बेकार<s n="adj"/></l><r>बेकार<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>आंकवार<s n="adj"/></l><r>अविवाहित<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>तरेकवार<s n="adj"/></l><r>विविध<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>काळो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>काला<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>तांबडो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>लाल<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>धवो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>सफेद<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>सक्रीय<s n="adj"/></l><r>सक्रिय<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>वायट<s n="adj"/></l><r>बुरा<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>हुशार<s n="adj"/></l><r>चतुर<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>भिवकुरो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कायर<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>बरो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>अच्छा<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>बुदवंत<s n="adj"/></l><r>बुद्धिमान<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>आळशी<s n="adj"/></l><r>आलसी<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>पिसो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पागल<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>स्वार्थी<s n="adj"/></l><r>स्वार्थी<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>शाणो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>समझदार<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>सत<s n="adj"/></l><r>सही<s n="adv"/></r></p></e>
+      <e><p><l>हुशार<s n="adj"/></l><r>बहादुर<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>धीट<s n="adj"/></l><r>बहादुर<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>आडांगी<s n="adj"/></l><r>नटखट<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>अहंकारी<s n="adj"/></l><r>घमंडी<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>चामटो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कंजूस<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
 
       <!--Conjunctions-->
       <e><p><l>अशे<s n="cnjsub"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="prox"/><s n="obl"/></r></p></e>

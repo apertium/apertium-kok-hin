@@ -42,6 +42,8 @@
   <sdef n="gna"/>
   <sdef n="al"/>
   <sdef n="ant"/>
+  <sdef n="frm"/>
+  <sdef n="imp"/>
   </sdefs>
 
   <!--
@@ -126,6 +128,10 @@
   <e lm="समतल भूमि" c="सपाट भूंय">
   <p><l>समतल<s n="adj"/><s n="mfn"/><s n="sp"/><j/>भूमि<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><j/></l>
   <r>समतल<b/>भूमि<s n="adj"/><s n="n"/></r></p>
+  </e>
+  <e lm="भगवान आपका भला करे" c="देव बरें करूं">
+  <p><l>भगवान<s n="n"/><s n="m"/><s n="m"/><s n="sg"/><s n="nom"/><j/>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="m"/><s n="pl"/><s n="frm"/><s n="gen"/><j/>भला<s n="adj"/><s n="mfn"/><s n="sp"/><j/>कर<s n="vblex"/><s n="tv"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></l>
+  <r>भगवान<b/>आपका<b/>भला<b/>करे<s n="n"/><s n="prn"/><s n="adj"/><s n="vblex"/></r></p>
   </e>
 
   <!--Pronouns-->
