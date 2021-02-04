@@ -7,6 +7,7 @@
   <sdef n="adj"/>
   <sdef n="adv"/>
   <sdef n="vblex"/>
+  <sdef n="vbser"/>
   <sdef n="sg"/>
   <sdef n="dc"/>
   <sdef n="oc"/>
@@ -15,6 +16,7 @@
   <sdef n="f"/>
   <sdef n="m"/>
   <sdef n="nt"/>
+  <sdef n="mfn"/>
   <sdef n="pl"/>
   <sdef n="p1"/>
   <sdef n="p2"/>
@@ -33,6 +35,7 @@
   <sdef n="sent"/>
   <sdef n="cnisit"/>
   <sdef n="cmsg"/>
+  <sdef n="sp"/>
   </sdefs>
 
 <!--
@@ -85,6 +88,10 @@
   <e lm="दर्या देग" c="समुद्र-तट">
   <p><l>दर्या<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>देग<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/></l>
   <r>दर्या<b/>देग<s n="n"/><s n="sg"/></r></p>
+  </e>
+  <e lm="पावणे दोन" c="पौने दो">
+  <p><l>पावण<s n="n"/><s n="sg"/><s n="oc"/><s n="cmsg"/><j/>दोन<s n="adj"/><j/></l>
+  <r>पावणे<b/>दोन<s n="n"/><s n="adj"/></r></p>
   </e>
 
   <!--Verbs-->
@@ -215,6 +222,14 @@
   <e lm="हर एक" c="प्रत्येक">
   <p><l>हर<s n="vblex"/><j/>एक<s n="adj"/><j/></l>
   <r>हर<b/>एक<s n="vblex"/><s n="adj"/></r></p>
+  </e>
+  <e lm="साडे सात" c="साढ़े सात">
+  <p><l>साडे<s n="adj"/><s n="sg"/><s n="dc"/><s n="m"/><j/>सात<s n="adj"/><j/></l>
+  <r>साडे<b/>सात<s n="adj"/></r></p>
+  </e>
+  <e lm="खड़ा है" c="उबो">
+  <p><l>खड़ा<s n="adj"/><s n="mfn"/><s n="sp"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
+  <r>खड़ा<b/>है<s n="adj"/><s n="vbser"/></r></p>
   </e>
 
   </section>

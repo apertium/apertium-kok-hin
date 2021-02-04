@@ -44,6 +44,7 @@
   <sdef n="ant"/>
   <sdef n="frm"/>
   <sdef n="imp"/>
+  <sdef n="num"/>
   </sdefs>
 
   <!--
@@ -130,8 +131,12 @@
   <r>समतल<b/>भूमि<s n="adj"/><s n="n"/></r></p>
   </e>
   <e lm="भगवान आपका भला करे" c="देव बरें करूं">
-  <p><l>भगवान<s n="n"/><s n="m"/><s n="m"/><s n="sg"/><s n="nom"/><j/>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="m"/><s n="pl"/><s n="frm"/><s n="gen"/><j/>भला<s n="adj"/><s n="mfn"/><s n="sp"/><j/>कर<s n="vblex"/><s n="tv"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></l>
+  <p><l>भगवान<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><j/>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="m"/><s n="pl"/><s n="frm"/><s n="gen"/><j/>भला<s n="adj"/><s n="mfn"/><s n="sp"/><j/>कर<s n="vblex"/><s n="tv"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></l>
   <r>भगवान<b/>आपका<b/>भला<b/>करे<s n="n"/><s n="prn"/><s n="adj"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="पौने दो" c="पावणे दोन">
+  <p><l>पौना<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/><j/>दो<s n="num"/><j/></l>
+  <r>पौने<b/>दो<s n="n"/><s n="num"/></r></p>
   </e>
 
   <!--Pronouns-->
@@ -391,6 +396,10 @@
   <!--Conjunctions-->
 
   <!--Adjectives-->
+  <e lm="साढ़े सात" c="साडे सात">
+  <p><l>साढ़े<s n="adj"/><s n="mfn"/><s n="sp"/><j/>सात<s n="num"/><j/></l>
+  <r>साढ़े<b/>सात<s n="adj"/><s n="num"/></r></p>
+  </e>
 
   <!--Postpositions-->
   <e lm="में रहता हूं" c="रावतां">
