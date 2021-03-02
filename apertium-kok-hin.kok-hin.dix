@@ -298,8 +298,8 @@
       <e><p><l>नाश्तो</l><r>नाश्ता</r></p><par n="1__n"/></e>
       <e><p><l>पीठ</l><r>आटा</r></p><par n="1__n"/></e>
       <e><p><l>पापड</l><r>पापड</r></p><par n="1__n"/></e>
-      <e><p><l>थैला</l><r>पोतें</r></p><par n="1__n"/></e>
-      <e><p><l>झोला</l><r>पोतें</r></p><par n="1__n"/></e>
+      <e><p><l>पोतें</l><r>थैला</r></p><par n="1__n"/></e>
+      <e><p><l>पोतें</l><r>झोला</r></p><par n="1__n"/></e>
       <e><p><l>बालदी</l><r>बाल्टी</r></p><par n="1__n"/></e>
       <e><p><l>कापूस</l><r>कपास</r></p><par n="1__n"/></e>
       <e><p><l>जळोव</l><r>ईंधन</r></p><par n="1__n"/></e>
@@ -852,6 +852,10 @@
       <e><p><l>भंय<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>डर<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>आस<s n="vblex"/></l><r>आशा<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>खोस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>प्रसन्नता<b/>आनंद<s n="n"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>हेत<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हेतु<s n="post"/></r></p></e>
+      <e><p><l>चेर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पे<s n="post"/></r></p></e>
+      <e><p><l>चेर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पर<s n="post"/></r></p></e>
+      <e><p><l>त<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>मे<s n="post"/></r></p></e>
 
       <!--Pronouns-->
       <e><p><l>आमी<s n="prn"/><s n="p1"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -1148,6 +1152,8 @@
       <e><p><l>हार<s n="vblex"/></l><r>हार<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
       <e><p><l>कर<s n="vblex"/></l><r>कर<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>नाच<s n="vblex"/></l><r>नाच<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>पास<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p3"/><s n="fut"/><s n="ind"/><s n="subjai"/><s n="impimp"/></l><r>लिए<s n="post"/></r></p></e>
+      <e><p><l>पास<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p3"/><s n="fut"/><s n="ind"/><s n="subjai"/><s n="impimp"/></l><r>लिये<s n="post"/></r></p></e>
 
       <!--Adverbs-->
       <e><p><l>हांगा<s n="adv"/><s n="p1"/></l><r>यहां<s n="adv"/></r></p></e>
@@ -1170,6 +1176,7 @@
       <e><p><l>हांगा<s n="adv"/></l><r>इधर<s n="adv"/></r></p></e>
       <e><p><l>भितर<s n="adv"/></l><r>अंदर<s n="post"/></r></p></e>
       <e><p><l>थंय<s n="adv"/></l><r>उधर<s n="adv"/></r></p></e>
+      <e><p><l>फुडें<s n="adv"/></l><r>आगे<s n="post"/></r></p></e>
 
       <!--Adjectives-->      
       <e><p><l>कशे<s n="adj"/><s n="sg"/><s n="dc"/><s n="m"/></l><r>कैस<s n="det"/><s n="ind"/><s n="pl"/><s n="m"/></r></p></e>
@@ -1287,6 +1294,15 @@
 
       <!--Postpositions-->
       <e><p><l>वयर<s n="adv"/></l><r>पर<s n="post"/></r></p></e>
+      <e><p><l>हाचे<b/>पसून<s n="prn"/><s n="adj"/></l><r>ज़रीए<s n="post"/></r></p></e>
+      <e><p><l>वांगडा<s n="adv"/></l><r>साथ<s n="post"/></r></p></e>
+      <e><p><l>वांगडा<s n="adv"/></l><r>समेत<s n="post"/></r></p></e>
+      <e><p><l>खेरीज<s n="adj"/></l><r>अलावा<s n="post"/></r></p></e>
+      <e><p><l>खेरीज<s n="adj"/></l><r>बतौर<s n="post"/></r></p></e>
+      <e><p><l>खेरीज<s n="adj"/></l><r>को<s n="post"/></r></p></e>
+      <e><p><l>खातीर<s n="post"/></l><r>लिए<s n="post"/></r></p></e>
+      <e><p><l>खातीर<s n="post"/></l><r>लिये<s n="post"/></r></p></e>
+      <e><p><l>विशीं<s n="adj"/></l><r>बारे<s n="post"/></r></p></e>
 
       <!--Numerals-->
       <e><p><l>अर्दो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>आधा<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>

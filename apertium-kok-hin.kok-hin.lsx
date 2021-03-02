@@ -4,6 +4,7 @@
   
   <sdefs>
   <sdef n="n"/>
+  <sdef n="prn"/>
   <sdef n="adj"/>
   <sdef n="adv"/>
   <sdef n="vblex"/>
@@ -250,6 +251,10 @@
   <e lm="खड़ा है" c="उबो">
   <p><l>खड़ा<s n="adj"/><s n="mfn"/><s n="sp"/><j/>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/><j/></l>
   <r>खड़ा<b/>है<s n="adj"/><s n="vbser"/></r></p>
+  </e>
+  <e lm="हाचे पसून" c="ज़रीए">
+  <p><l>हाचे<s n="prn"/><j/>पसून<s n="adj"/><j/></l>
+  <r>हाचे<b/>पसून<s n="prn"/><s n="adj"/></r></p>
   </e>
 
   </section>
