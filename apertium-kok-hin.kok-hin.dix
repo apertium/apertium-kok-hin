@@ -840,7 +840,6 @@
       <e><p><l>पाटी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पीछे<s n="post"/></r></p></e>
       <e><p><l>सकल<s n="ninf"/></l><r>नीचे<s n="post"/></r></p></e>
       <e><p><l>उदेंत<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पूर्व<s n="adv"/></r></p></e>
-      <e><p><l>मुखार<s n="adv"/></l><r>सामने<s n="post"/></r></p></e>
       <e><p><l>अस्तंत<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पश्चिम<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
       <e><p><l>उत्तर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>उत्तर<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
       <e><p><l>उत्तर<b/>पूर्व<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>उत्तर<b/>पूर्व<s n="np"/><s n="adv"/></r></p></e>
@@ -1176,6 +1175,8 @@
       <e><p><l>भितर<s n="adv"/></l><r>अंदर<s n="post"/></r></p></e>
       <e><p><l>थंय<s n="adv"/></l><r>उधर<s n="adv"/></r></p></e>
       <e><p><l>फुडें<s n="adv"/></l><r>आगे<s n="post"/></r></p></e>
+      <e><p><l>फुडें<s n="adv"/></l><r>सामने<s n="post"/></r></p></e>
+      <e><p><l>फाट<s n="vblex"/><s n="fut"/><s n="subjcn"/><s n="subjinv"/><s n="subjper"/></l><r>पीछे<s n="post"/></r></p></e>
 
       <!--Adjectives-->      
       <e><p><l>कशे<s n="adj"/><s n="sg"/><s n="dc"/><s n="m"/></l><r>कैस<s n="det"/><s n="ind"/><s n="pl"/><s n="m"/></r></p></e>
@@ -1289,6 +1290,7 @@
       <e><p><l>या<s n="cnjcoo"/></l><r>अथवा<s n="cnjcoo"/></r></p></e>
       <e><p><l>देखून<s n="adv"/></l><r>इसलिए<s n="cnjadv"/></r></p></e>
       <e><p><l>खातीर<s n="post"/></l><r>के लिये<s n="post"/></r></p></e>
+      <e><p><l>खातीर<s n="post"/></l><r>के लिए<s n="post"/></r></p></e>
       <e><p><l>जर<s n="adv"/></l><r>यदि<s n="cnjadv"/></r></p></e>
 
       <!--Postpositions-->
@@ -1302,6 +1304,9 @@
       <e><p><l>खातीर<s n="post"/></l><r>लिए<s n="post"/></r></p></e>
       <e><p><l>खातीर<s n="post"/></l><r>लिये<s n="post"/></r></p></e>
       <e><p><l>विशीं<s n="adj"/></l><r>बारे<s n="post"/></r></p></e>
+      <e><p><l>मुखार<s n="adv"/></l><r>सामने<s n="post"/></r></p></e>
+      <e><p><l>सामकार<s n="adv"/></l><r>सामने<s n="post"/></r></p></e>
+      <e><p><l>कडल्यान<s n="post"/></l><r>के द्वारा<s n="post"/></r></p></e>
 
       <!--Numerals-->
       <e><p><l>अर्दो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>आधा<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
