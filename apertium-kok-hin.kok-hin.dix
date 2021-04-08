@@ -854,6 +854,7 @@
       <e><p><l>चेर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पे<s n="post"/></r></p></e>
       <e><p><l>चेर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पर<s n="post"/></r></p></e>
       <e><p><l>त<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>मे<s n="post"/></r></p></e>
+      <e><p><l>फातर<s n="n"/><s n="sg"/><s n="oc"/><s n="cmsg"/></l><r>पत्थर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
 
       <!--Pronouns-->
       <e><p><l>आमी<s n="prn"/><s n="p1"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
