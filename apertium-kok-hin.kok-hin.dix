@@ -107,6 +107,7 @@
     <sdef n="aa"      c="Animate"/>       
     <sdef n="itg"     c="Interrogative"/>
     <sdef n="al"     c="Altres"/>
+    <sdef n="qnt"     c=""/> 
 
   </sdefs>
 
@@ -855,6 +856,7 @@
       <e><p><l>चेर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पर<s n="post"/></r></p></e>
       <e><p><l>त<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>मे<s n="post"/></r></p></e>
       <e><p><l>फातर<s n="n"/><s n="sg"/><s n="oc"/><s n="cmsg"/></l><r>पत्थर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>साबार<s n="cnjsub"/></l><r>अनेक<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
 
       <!--Pronouns-->
       <e><p><l>आमी<s n="prn"/><s n="p1"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -1178,8 +1180,9 @@
       <e><p><l>फुडें<s n="adv"/></l><r>आगे<s n="post"/></r></p></e>
       <e><p><l>फुडें<s n="adv"/></l><r>सामने<s n="post"/></r></p></e>
       <e><p><l>फाट<s n="vblex"/><s n="fut"/><s n="subjcn"/><s n="subjinv"/><s n="subjper"/></l><r>पीछे<s n="post"/></r></p></e>
+      <e><p><l>जशें<s n="adv"/></l><r>जैसे<s n="adv"/></r></p></e>
 
-      <!--Adjectives-->      
+      <!--Adjectives-->
       <e><p><l>कशे<s n="adj"/><s n="sg"/><s n="dc"/><s n="m"/></l><r>कैस<s n="det"/><s n="ind"/><s n="pl"/><s n="m"/></r></p></e>
       <e><p><l>बरो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>शुभ<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>बरो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>शुभ<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
@@ -1276,23 +1279,40 @@
       <e><p><l>पुर<s n="vblex"/><s n="cl"/></l><r>संपूर्ण<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
       <e><p><l>कंत्राटदार<s n="adj"/></l><r>ठेकेदार<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
       <e><p><l>कितले<s n="adj"/><s n="sg"/><s n="dc"/><s n="m"/></l><r>कितने<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>दोनूय<s n="adj"/></l><r>दोनों<s n="adv"/></r></p></e>
 
       <!--Conjunctions-->
       <e><p><l>अशे<s n="cnjsub"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="prox"/><s n="obl"/></r></p></e>
       <e><p><l>आनी<s n="ninf"/></l><r>और<s n="cnjcoo"/></r></p></e>
+      <e><p><l>आनी<s n="ninf"/></l><r>एवम्<s n="cnjcoo"/></r></p></e>
+      <e><p><l>आनी<s n="ninf"/></l><r>एवं<s n="cnjcoo"/></r></p></e>
+      <e><p><l>आनी<s n="ninf"/></l><r>एण्ड<s n="cnjcoo"/></r></p></e>
+      <e><p><l>आनी<s n="ninf"/></l><r>एंड<s n="cnjcoo"/></r></p></e>
       <e><p><l>जाता<s n="cnjcoo"/></l><r>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>कारण<s n="cnjsub"/></l><r>क्योंकि<s n="cnjadv"/></r></p></e>
       <e><p><l>कित्याक<s n="adv"/></l><r>क्योंकि<s n="cnjadv"/></r></p></e>
       <e><p><l>पूण<s n="ninf"/></l><r>किंतु<s n="cnjcoo"/></r></p></e>
+      <e><p><l>पूण<s n="ninf"/></l><r>किन्तु<s n="cnjcoo"/></r></p></e>
       <e><p><l>पूण<s n="ninf"/></l><r>परंतु<s n="cnjcoo"/></r></p></e>
+      <e><p><l>पूण<s n="ninf"/></l><r>परन्तु<s n="cnjcoo"/></r></p></e>
+      <e><p><l>पूण<s n="ninf"/></l><r>मगर<s n="cnjcoo"/></r></p></e>
+      <e><p><l>पूण<s n="ninf"/></l><r>लेकिन<s n="cnjcoo"/></r></p></e>
+      <e><p><l>पूण<s n="ninf"/></l><r>पर<s n="post"/></r></p></e>
       <e><p><l>तरीपूण<s n="cnjsub"/></l><r>तथापि<s n="adv"/></r></p></e>
       <e><p><l>म्हळ्यार<s n="cnjcoo"/></l><r>अर्थात<s n="cnjadv"/></r></p></e>
       <e><p><l>वा<s n="ninf"/></l><r>अथवा<s n="cnjcoo"/></r></p></e>
+      <e><p><l>वा<s n="ninf"/></l><r>तथा<s n="cnjcoo"/></r></p></e>
+      <e><p><l>वा<s n="ninf"/></l><r>या<s n="cnjcoo"/></r></p></e>
       <e><p><l>या<s n="cnjcoo"/></l><r>अथवा<s n="cnjcoo"/></r></p></e>
       <e><p><l>देखून<s n="adv"/></l><r>इसलिए<s n="cnjadv"/></r></p></e>
       <e><p><l>खातीर<s n="post"/></l><r>के लिये<s n="post"/></r></p></e>
       <e><p><l>खातीर<s n="post"/></l><r>के लिए<s n="post"/></r></p></e>
       <e><p><l>जर<s n="adv"/></l><r>यदि<s n="cnjadv"/></r></p></e>
+      <e><p><l>जर<s n="adv"/></l><r>अगर<s n="cnjsub"/></r></p></e>
+      <e><p><l>जशें<b/>की<s n="adv"/><s n="ninf"/></l><r>हालांकि<s n="cnjcoo"/></r></p></e>
+      <e><p><l>पूण<s n="ninf"/></l><r>बल्कि<s n="adv"/></r></p></e>
+      <e><p><l>की<s n="ninf"/></l><r>कि<s n="cnjsub"/></r></p></e>
+      <e><p><l>कारण<s n="cnjsub"/></l><r>जोकि<s n="cnjsub"/></r></p></e>
 
       <!--Postpositions-->
       <e><p><l>वयर<s n="adv"/></l><r>पर<s n="post"/></r></p></e>
@@ -1308,6 +1328,10 @@
       <e><p><l>मुखार<s n="adv"/></l><r>सामने<s n="post"/></r></p></e>
       <e><p><l>सामकार<s n="adv"/></l><r>सामने<s n="post"/></r></p></e>
       <e><p><l>कडल्यान<s n="post"/></l><r>के द्वारा<s n="post"/></r></p></e>
+      <e><p><l>क<b/>लागून<s n="n"/><s n="vblex"/></l><r>के कारन<s n="post"/></r></p></e>
+      <e><p><l>क<b/>लागून<s n="n"/><s n="vblex"/></l><r>के कारन<s n="post"/></r></p></e>
+      <e><p><l>आड<s n="post"/></l><r>खिलाफ़<s n="post"/></r></p></e>
+      <e><p><l>सकयल<s n="adv"/></l><r>नीचे<s n="post"/></r></p></e>
 
       <!--Numerals-->
       <e><p><l>अर्दो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>आधा<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>

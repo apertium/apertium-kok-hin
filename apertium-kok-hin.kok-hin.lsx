@@ -37,6 +37,7 @@
   <sdef n="cnisit"/>
   <sdef n="cmsg"/>
   <sdef n="sp"/>
+  <sdef n="ninf"/>
   </sdefs>
 
 <!--
@@ -216,6 +217,10 @@
   <p><l>शल्य<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>चिकित्सक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/></l>
   <r>शल्य<b/>चिकित्सक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></r></p>
   </e>
+  <e lm="क लागून" c="के कारन / के कारण">
+  <p><l>क<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/>लाग<s n="vblex"/><j/></l>
+  <r>क<b/>लागून<s n="n"/><s n="vblex"/></r></p>
+  </e>
 
   <!--Adverbs-->
   <e lm="खंय आसा" c="कहाँ है">
@@ -229,6 +234,10 @@
   <e lm="खंय?" c="कहाँ है?">
   <p><l>खंय<s n="adv"/><j/>?<s n="sent"/><j/></l>
   <r>खंय<b/>?<s n="adv"/><s n="sent"/></r></p>
+  </e>
+  <e lm="जशें की" c="हालांकि">
+  <p><l>जशें<s n="adv"/><j/>की<s n="ninf"/><j/></l>
+  <r>जशें<b/>की<s n="adv"/><s n="ninf"/></r></p>
   </e>
 
   <!--Adjectives-->
