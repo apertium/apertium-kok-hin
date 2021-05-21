@@ -766,7 +766,6 @@
       <e><p><l>मको<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>मक्का<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
       <e><p><l>दाळ<s n="vblex"/></l><r>दाल<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>वाटाण<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>मटर<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>फळ<s n="vblex"/></l><r>फल<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>शीत<s n="adj"/></l><r>चावल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>उदक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पा<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="f"/></r></p></e>
       <e><p><l>गोरवा<b/>मास<s n="n"/><s n="sg"/></l><r>गोमांस<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -783,6 +782,17 @@
       <e><p><l>इंगळो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>लकडी<b/>का<b/>कोयला<s n="n"/><s n="post"/><s n="sg"/></r></p></e>
       <e><p><l>झोपाळो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>झूला<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>नेकलेस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हार<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>हार<s n="vblex"/></l><r>हार<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>झेलो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हार<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>पराजय<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हार<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>पराभव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हार<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>फुलांमाळ<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हार<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>फुलांहार<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हार<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>पुष्पहार<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हार<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>पुष्पमाळ<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हार<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>वळेसर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हार<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>आटी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हार<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>फांती<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हार<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
       <e><p><l>कातर<s n="vblex"/></l><r>कैंची<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>कपडे<s n="cnjcoo"/></l><r>कपड़े<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>नांगर<s n="vblex"/></l><r>हल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -836,7 +846,6 @@
       <e><p><l>भक्त<s n="adj"/></l><r>भक्ति<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>मुक्त<s n="n"/><s n="sg"/><s n="oc"/><s n="cmsg"/></l><r>मुक्ति<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>काक<s n="n"/><s n="sg"/><s n="oc"/><s n="cmsg"/></l><r>चाचा<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>झेलो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हार<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
       <e><p><l>येवकार<b/>सुवाळो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>स्वागत<b/>समारोह<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>पाटी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पीछे<s n="post"/></r></p></e>
       <e><p><l>सकल<s n="ninf"/></l><r>नीचे<s n="post"/></r></p></e>
@@ -846,9 +855,17 @@
       <e><p><l>उत्तर<b/>पूर्व<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>उत्तर<b/>पूर्व<s n="np"/><s n="adv"/></r></p></e>
       <e><p><l>सजावट<s n="adj"/></l><r>श्रंगार<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>आश<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>चाह<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>इत्स<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>चाह<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>आस्त<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>चाह<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>हावेस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>चाह<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>आस<s n="vblex"/></l><r>चाह<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>भूक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>चाह<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>अपेक्ष<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>चाह<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>इश्टागत<s n="adj"/></l><r>दोस्ती<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>मायेस्त<s n="adj"/></l><r>स्नेह<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>भंय<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>डर<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>आतंक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>डर<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>धाक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>डर<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>खोस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>प्रसन्नता<b/>आनंद<s n="n"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>हेत<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हेतु<s n="post"/></r></p></e>
       <e><p><l>चेर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पे<s n="post"/></r></p></e>
@@ -871,6 +888,14 @@
       <e><p><l>मान<s n="vblex"/></l><r>आशा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>गोमटी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>आशा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>गंवटी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>आशा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>मान<s n="vblex"/></l><r>मान<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>भोवमान<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>मान<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>सन्मान<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>मान<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>फाम<s n="adj"/></l><r>मान<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>कीर्त<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>मान<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>नामन<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>मान<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>प्रसिद्‍दी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>मान<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>नांवलोकीक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>मान<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>वंय<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>घेर<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>घेरो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>घेर<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>वेडो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>घेर<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
@@ -879,6 +904,89 @@
       <e><p><l>चिन्न<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>छाप<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>बुराक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>छेद<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>बीळ<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>छेद<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>अरबस्थान<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>अरब<s n="num"/></r></p></e>
+      <e><p><l>गुंजन<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>चहक<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>आवाज<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>चहक<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>ध्वन<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>चहक<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>किलबील<s n="vblex"/></l><r>चहक<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>चिंवचींव<s n="vblex"/></l><r>चहक<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>मनगट<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पहुँचा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>मणगट<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पहुँचा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>पाशाण<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>शिला<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>फातर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>शिला<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>उथळ<s n="adj"/></l><r>छिछला<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>पिरगंण<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कराह<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>कुथणप<s n="vblex"/></l><r>कराह<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>वथरेवपणी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कराह<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>गडगड<s n="vblex"/></l><r>गरज<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>गडगडाट<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गरज<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>गर्जन<s n="n"/><s n="sg"/><s n="oc"/><s n="cmsg"/></l><r>गरज<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>गाज<s n="cnjcoo"/></l><r>गरज<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>गरड<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गरज<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>घर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गुजर<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>राबितो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गुजर<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>निवास<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गुजर<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>रावणी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>गुजर<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>कळसो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>घट<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>मोल<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>चमक<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>किमंत<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>चमक<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>दर<s n="adj"/></l><r>चमक<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>भाव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>चमक<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>दुड<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>चमक<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>किळची<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>चीख<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>हुयेल<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>चीख<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>किळांच<s n="vblex"/></l><r>चीख<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>आरड<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>चीख<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>बोब<s n="vblex"/></l><r>चीख<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>उदक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>जल<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>पाण<s n="n"/><s n="sg"/><s n="oc"/><s n="cmsg"/></l><r>जल<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>जल<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>जल<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>नीर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>जल<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>बचको<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>झपट<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>तळट<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>झपट<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>पंजो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>झपट<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>दावखूल<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>झपट<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>चपको<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>झपट<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>अपमान<s n="adj"/></l><r>झेंप<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>लज<s n="vblex"/></l><r>झेंप<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>अवमान<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>झेंप<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>हिणसावणी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>झेंप<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>कुसकुटावणी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>झेंप<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>बदनामी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>झेंप<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>थुकी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>थूक<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>निथू<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>थूक<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>धरकल<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>थूक<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>पीक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>थूक<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>धावणें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>दौड़<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>धांवपाची<b/>सर्त<s n="vblex"/><s n="n"/><s n="sg"/></l><r>दौड़<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>फळ<s n="vblex"/></l><r>फल<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>परिणाम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>फल<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>निकाल<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>फल<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>फूल<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>फूल<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>पुश्प<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>फूल<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>सुमन<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>फूल<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>भाग<s n="vblex"/></l><r>भाग<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>आंग<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>भाग<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>खंड<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>भाग<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>भोंवाडो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>लपेट<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>भोंवडी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>लपेट<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>फेरो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>लपेट<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>भ्रमण<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>लपेट<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>परिक्रम<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>लपेट<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>प्रदक्षिण<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>लपेट<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>आव्हान<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>ललकार<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>शह<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>ललकार<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>आव्हान<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>ललकार<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>चेक<s n="adj"/></l><r>ललकार<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>परती<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>लौट<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>उलटी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>लौट<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>परतप<s n="vblex"/></l><r>लौट<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>बुद्द<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>समझ<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>मत<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>समझ<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>तकली<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>समझ<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>बोड<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>समझ<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>अक्कल<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>समझ<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>सल्लो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>समझ<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
 
       <!--Pronouns-->
       <e><p><l>आमी<s n="prn"/><s n="p1"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -916,6 +1024,7 @@
       <e><p><l>तुजें<s n="prn"/></l><r>तुम<s n="prn"/><s n="pers"/><s n="p2"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>तुजी<s n="prn"/></l><r>तुम<s n="prn"/><s n="pers"/><s n="p2"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p><l>तुजी<s n="prn"/></l><r>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="f"/><s n="pl"/><s n="frm"/><s n="gen"/></r></p></e>
+      <e><p><l>स्वता<s n="adv"/></l><r>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="f"/><s n="pl"/><s n="frm"/><s n="gen"/></r></p></e>
       <e><p><l>ताचो<s n="prn"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="sg"/><s n="dist"/><s n="gen"/></r></p></e>
       <e><p><l>ताचो<s n="prn"/></l><r>उसका<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
       <e><p><l>तीं<s n="prn"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="dist"/><s n="nom"/></r></p></e>
@@ -979,7 +1088,6 @@
       <e><p><l>खा<s n="vblex"/><s n="sg"/><s n="f"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/></l><r>खाई<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>लाग<s n="vblex"/><s n="sg"/><s n="f"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="perf"/><s n="idct"/></l><r>लगी<b/>है<s n="vblex"/><s n="vbser"/></r></p></e>
       <e><p><l>फुल<s n="vblex"/></l><r>फूल<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
-      <e><p><l>फळ<s n="vblex"/></l><r>फल<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>पाळ<s n="vblex"/></l><r>जड़<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>लाश<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>जल<s n="vblex"/><s n="iv"/><s n="inf"/><s n="nom"/><s n="m"/></r></p></e>
       <e><p><l>जळ<s n="vblex"/></l><r>जल<s n="vblex"/><s n="iv"/><s n="inf"/><s n="nom"/><s n="m"/></r></p></e>
@@ -1007,6 +1115,8 @@
       <e><p><l>हार<s n="vblex"/><s n="cl"/></l><r>हरा<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/></r></p></e>
       <e><p><l>बुड<s n="vblex"/><s n="cl"/></l><r>डुबो<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/></r></p></e>
       <e><p><l>कर<s n="vblex"/></l><r>करना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>करप<s n="vblex"/></l><r>करना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>काडप<s n="vblex"/></l><r>करना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>कर<s n="vblex"/></l><r>बना<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/></r></p></e>
       <e><p><l>कर<s n="vblex"/><s n="pl"/><s n="f"/><s n="nt"/><s n="p3"/><s n="subjvol"/></l><r>करना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>गळ<s n="vblex"/></l><r>टपक<s n="vblex"/><s n="iv"/><s n="inf"/><s n="nom"/><s n="m"/></r></p></e>
@@ -1076,6 +1186,9 @@
       <e><p><l>घुंवडाय<s n="vblex"/></l><r>घुमा<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/></r></p></e>
       <e><p><l>हुमटावप<s n="vblex"/></l><r>उखाड़<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/></r></p></e>
       <e><p><l>चल<s n="vblex"/></l><r>चलना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>चलप<s n="vblex"/></l><r>चलना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>वचप<s n="vblex"/></l><r>चलना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>चालू<b/>आसप<s n="adj"/><s n="vblex"/></l><r>चलना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>चल<s n="vblex"/><s n="cl"/></l><r>चला<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/></r></p></e>
       <e><p><l>भोंव<s n="vblex"/></l><r>भटक<s n="vblex"/><s n="iv"/><s n="inf"/><s n="nom"/><s n="m"/></r></p></e>
       <e><p><l>न्हेस<s n="vblex"/></l><r>पहन<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/></r></p></e>
@@ -1124,6 +1237,7 @@
       <e><p><l>येवप<s n="vblex"/></l><r>आ<s n="vblex"/><s n="iv"/><s n="inf"/><s n="nom"/><s n="m"/></r></p></e>
       <e><p><l>बुडप<s n="vblex"/></l><r>डूब<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/></r></p></e>
       <e><p><l>झुजप<s n="vblex"/></l><r>लड़<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/></r></p></e>
+      <e><p><l>सुतल<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>लड़<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>व्हांवप<s n="vblex"/></l><r>बह<s n="vblex"/><s n="iv"/><s n="inf"/><s n="nom"/><s n="m"/></r></p></e>
       <e><p><l>हालप<s n="vblex"/></l><r>हट<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/></r></p></e>
       <e><p><l>पिकप<s n="vblex"/></l><r>पक<s n="vblex"/><s n="iv"/><s n="inf"/><s n="nom"/><s n="m"/></r></p></e>
@@ -1174,12 +1288,59 @@
       <e><p><l>जोखप<s n="adj"/></l><r>तौल<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/></r></p></e>
       <e><p><l>पुसप<s n="vblex"/></l><r>पोंछ<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/></r></p></e>
       <e><p><l>भर<s n="vblex"/><s n="sg"/><s n="m"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>भरा होना<s n="vblex"/><s n="iv"/><s n="perf"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l>हार<s n="vblex"/></l><r>हार<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
       <e><p><l>कर<s n="vblex"/></l><r>कर<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>नृत्य<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>नाच<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
       <e><p><l>नाच<s n="vblex"/></l><r>नाच<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>नाचण<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>नाच<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
       <e><p><l>पास<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p3"/><s n="fut"/><s n="ind"/><s n="subjai"/><s n="impimp"/></l><r>लिए<s n="post"/></r></p></e>
       <e><p><l>पास<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p3"/><s n="fut"/><s n="ind"/><s n="subjai"/><s n="impimp"/></l><r>लिये<s n="post"/></r></p></e>
       <e><p><l>घोळ<s n="vblex"/></l><r>घोल<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>वाज<s n="vblex"/></l><r>चिड़<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>लाग<s n="vblex"/></l><r>हटा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>आडखळ<s n="vblex"/><s n="sg"/><s n="m"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>उलझा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>आडखळ<s n="vblex"/><s n="sg"/><s n="m"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>फँसा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>आडखळ<s n="vblex"/><s n="sg"/><s n="m"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>फंसा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>तुंब<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>ठहरा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>बश<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>बैठा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>लिप<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>छुपा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>दड<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>छुपा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>किलबील<s n="vblex"/></l><r>चहचहा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>चिंवचींव<s n="vblex"/></l><r>चहचहा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>किलबील<s n="vblex"/></l><r>चहचहा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>चिंवचींव<s n="vblex"/></l><r>चहचहा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>उदे<s n="vblex"/><s n="sg"/><s n="m"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>उगा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>वयर<b/>आयिल्लो<s n="adv"/><s n="vblex"/></l><r>उगा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>भाज<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>भुना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>आयक<s n="vblex"/><s n="pl"/><s n="f"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/></l><r>सुना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>कोसळ<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>ढहा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>मोड<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>ढहा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>पड<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>ढहा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>कोसळ<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>बरसा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>मोड<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>बरसा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>पड<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>बरसा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>कोसळ<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>खिसका<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>मोड<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>खिसका<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>पड<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>खिसका<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>खातकुतल्यो<b/>करप<s n="n"/><s n="vblex"/></l><r>गुदगुदाना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>खाचकुल्यो<b/>करप<s n="n"/><s n="vblex"/></l><r>गुदगुदाना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>पिवोवप<s n="vblex"/></l><r>पिलाना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>रूचीची<s n="vblex"/></l><r>चखा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>रावपी<s n="adj"/></l><r>बसा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>वश<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>बसा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>पडलेले<s n="adj"/><s n="sg"/><s n="dc"/><s n="m"/></l><r>गड़ा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>दळ<s n="adj"/></l><r>मँडरा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>लाय<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>लगा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>कुचकुचप<s n="vblex"/></l><r>भुनभुना<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>कडय<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>पिघला<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>वितळ<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="perf"/><s n="idct"/></l><r>पिघला<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>गुणगूण<s n="vblex"/></l><r>गूंज<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>दचकप<s n="vblex"/></l><r>चौंक<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>धडपड<s n="vblex"/></l><r>तड़प<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>तळमळ<s n="vblex"/></l><r>तड़प<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>विचार<s n="vblex"/></l><r>सूझ<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>समज<s n="vblex"/></l><r>सूझ<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>सोद<s n="vblex"/></l><r>तलाश<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>तपास<s n="vblex"/></l><r>तलाश<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
 
       <!--Adverbs-->
       <e><p><l>हांगा<s n="adv"/><s n="p1"/></l><r>यहां<s n="adv"/></r></p></e>
@@ -1298,6 +1459,7 @@
       <e><p><l>गाढ<s n="adj"/></l><r>गहरा<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
       <e><p><l>हून<s n="adj"/></l><r>गरम<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
       <e><p><l>ल्हव<s n="adj"/></l><r>हलका<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>गुळगुळीत<s n="adj"/></l><r>चिकना<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
       <e><p><l>सुळसुळीत<s n="adj"/></l><r>चिकना<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
       <e><p><l>अशक्त<s n="adj"/></l><r>कमज़ोर<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
       <e><p><l>रानटी<s n="adj"/></l><r>जंगली<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
@@ -1308,6 +1470,12 @@
       <e><p><l>खाजगी<s n="adj"/></l><r>अपना<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
       <e><p><l>स्वताचें<s n="prn"/></l><r>अपना<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
       <e><p><l>धुगधुगीत<s n="adj"/></l><r>गुनगुना<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>पुर<s n="vblex"/><s n="cl"/></l><r>सब<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>पूर्ण<s n="adj"/></l><r>सब<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>वट्ट<s n="adj"/></l><r>सब<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>सगली<s n="adj"/></l><r>सब<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>समेस्त<s n="adj"/></l><r>सब<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
+      <e><p><l>सगले<b/>मेळ<s n="adj"/><s n="vblex"/></l><r>सब<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
 
       <!--Conjunctions-->
       <e><p><l>अशे<s n="cnjsub"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="prox"/><s n="obl"/></r></p></e>
@@ -1382,6 +1550,8 @@
       <e><p><l>पयलो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पहला<s n="num"/><s n="ord"/><s n="m"/></r></p></e>
       <e><p><l>पयलें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पहला<s n="num"/><s n="ord"/><s n="m"/></r></p></e>
       <e><p><l>प्रथम<s n="adj"/></l><r>पहला<s n="num"/><s n="ord"/><s n="m"/></r></p></e>
+      <e><p><l>पंचम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पंचम<s n="num"/><s n="ord"/></r></p></e>
+      <e><p><l>पंचमस्वर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>पंचम<s n="num"/><s n="ord"/></r></p></e>
       <e><p><l>नवो<s n="adj"/><s n="sg"/><s n="dc"/><s n="m"/></l><r>नौ<s n="num"/><s n="ord"/><s n="m"/></r></p></e>
       <e><p><l>बारावो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>बारहवाँ<s n="adj"/><s n="mfn"/><s n="sp"/></r></p></e>
 
@@ -1399,6 +1569,7 @@
       <e><p><l>स<s n="adj"/></l><r>छः<s n="num"/></r></p></e>
       <e><p><l>स<s n="adj"/></l><r>छह<s n="num"/></r></p></e>
       <e><p><l>शश्ठी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>छठ<s n="num"/></r></p></e>
+      <e><p><l>शश्ठी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>षष्ठ<s n="num"/><s n="ord"/></r></p></e>
       <e><p><l>सात<s n="adj"/></l><r>सात<s n="num"/></r></p></e>
       <e><p><l>आठ<s n="adj"/></l><r>आठ<s n="num"/></r></p></e>
       <e><p><l>आठ<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>आठ<s n="num"/></r></p></e>
@@ -1476,7 +1647,11 @@
       <e><p><l>णव्याण्णव<s n="adj"/></l><r>निन्यानवे<s n="num"/></r></p></e>
       <e><p><l>शंबर<s n="adj"/></l><r>सौ<s n="num"/></r></p></e>
       <e><p><l>हजार<s n="adj"/></l><r>हजार<s n="num"/></r></p></e>
+      <e><p><l>सकश्र<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हजार<s n="num"/></r></p></e>
+      <e><p><l>हजार<s n="adj"/></l><r>हज़ार<s n="num"/></r></p></e>
+      <e><p><l>सकश्र<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>हज़ार<s n="num"/></r></p></e>
       <e><p><l>लाख<s n="adj"/></l><r>लाख<s n="num"/></r></p></e>
+      <e><p><l>लक्ष<s n="adj"/></l><r>लाख<s n="num"/></r></p></e>
       <e><p><l>कोटी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>करोड़<s n="num"/></r></p></e>
       <e><re>[.\?;:!…¿¶।]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
