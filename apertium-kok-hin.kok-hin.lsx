@@ -39,6 +39,7 @@
   <sdef n="cmsg"/>
   <sdef n="sp"/>
   <sdef n="ninf"/>
+  <sdef n="post"/>
   </sdefs>
 
 <!--
@@ -238,19 +239,19 @@
   </e>
   <e lm="खातकुतल्यो करप" c="गुदगुदाना">
   <p><l>खातकुतल<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/><j/>करप<s n="vblex"/><j/></l>
-  <r><l>खातकुतल्यो<b/>करप<s n="n"/><s n="vblex"/></r></p>
+  <r>खातकुतल्यो<b/>करप<s n="n"/><s n="vblex"/></r></p>
   </e>
   <e lm="खाचकुल्यो करप" c="गुदगुदाना">
   <p><l>खाचकुल<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/><j/>करप<s n="vblex"/><j/></l>
-  <r><l>खाचकुल्यो<b/>करप<s n="n"/><s n="vblex"/></r></p>
+  <r>खाचकुल्यो<b/>करप<s n="n"/><s n="vblex"/></r></p>
   </e>
   <e lm="चालू आसप" c="चलना">
   <p><l>चालू<s n="adj"/><j/>आसप<s n="vblex"/><j/></l>
-  <r><l>चालू<b/>आसप<s n="adj"/><s n="vblex"/></r></p>
+  <r>चालू<b/>आसप<s n="adj"/><s n="vblex"/></r></p>
   </e>
   <e lm="धांवपाची सर्त" c="दौड़">
   <p><l>धांव<s n="vblex"/><s n="sg"/><s n="f"/><s n="p2"/><s n="p3"/><s n="cnisit"/><j/>सर्त<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><j/></l>
-  <r><l>धांवपाची<b/>सर्त<s n="vblex"/><s n="n"/><s n="sg"/></r></p>
+  <r>धांवपाची<b/>सर्त<s n="vblex"/><s n="n"/><s n="sg"/></r></p>
   </e>
 
   <!--Adverbs-->

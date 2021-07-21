@@ -1,0 +1,10 @@
+{
+    "hin-kok": {
+        "input": "hin-kok-input.txt",
+        "mode": "hin-kok"
+    },
+    "kok-hin": {
+        "input": "kok-hin-input.txt",
+        "mode": "kok-hin"
+    }
+}
