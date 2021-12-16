@@ -39,6 +39,8 @@
   <sdef n="cmsg"/>
   <sdef n="sp"/>
   <sdef n="ninf"/>
+    <sdef n="det"  c="Determiner"/>
+    <sdef n="post"     c="Postposition"/>
   </sdefs>
 
 <!--

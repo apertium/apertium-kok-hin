@@ -45,6 +45,10 @@
   <sdef n="frm"/>
   <sdef n="imp"/>
   <sdef n="num"/>
+    <sdef n="past"       c="Past"/>
+    <sdef n="det"  c="Determiner"/>
+  <sdef n="ind"/>
+  <sdef n="dem"/>
   </sdefs>
 
   <!--

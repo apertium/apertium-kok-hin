@@ -37,6 +37,10 @@
     <sdef n="num"     c="Numeral"/>
     <sdef n="temp"     c="Temperature"/>
 
+    <sdef n="voc" c="vocative?"/>
+
+    <sdef n="pos" c="possessive"/>
+
     <sdef n="pres"       c="Present"/>
     <sdef n="past"       c="Past"/>
     <sdef n="fut"       c="Future"/>
