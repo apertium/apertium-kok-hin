@@ -1124,7 +1124,8 @@
       <e><p><l>सुरा<s n="n"/><s n="sg"/><s n="oc"/><s n="loc"/></l><r>सुर<b/>में<s n="n"/><s n="post"/></r></p></e>
       <e><p><l>चौक<s n="n"/><s n="sg"/><s n="oc"/><s n="loc"/></l><r>चौक<b/>पर<s n="n"/><s n="post"/></r></p></e>
       <e><p><l>किराची<s n="n"/><s n="m"/></l><r>तोते<b/>की<s n="n"/><s n="post"/><s n="sg"/></r></p></e>
-      <e><p><l>झरीर<s n="n"/><s n="f"/><s n="sg"/></l><r>झरने<b/>जाना<s n="n"/><s n="vblex"/><s n="m"/></r></p></e>
+      <e><p><l>सुपारीच<s n="n"/><s n="f"/></l><r>सुपारी<b/>ही<s n="n"/><s n="adj"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>झरीर<s n="n"/><s n="f"/></l><r>झरने<b/>जाना<s n="n"/><s n="vblex"/><s n="m"/></r></p></e>
       <e><p><l>कुळागर<s n="n"/><s n="nt"/></l><r>बाग<b/>खेत<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
 
       <!--Pronouns-->
@@ -1593,7 +1594,7 @@
       <e><p><l>गावलो<s n="vblex"/></l><r>मिल<b/>गया<s n="vblex"/></r></p></e>
 
       <!--Adverbs-->
-      <e><p><l>थय<s n="adv"/><s n="sg"/><s n="nt"/></l><r>फिर<s n="adv"/></r></p></e>
+      <e><p><l>थय<s n="adv"/><s n="nt"/></l><r>फिर<s n="adv"/></r></p></e>
       <e><p><l>हळूच<s n="adv"/></l><r>धीरे<b/>से<s n="adv"/><s n="post"/></r></p></e>
       <e><p><l>परत<s n="adv"/></l><r>वहाँ<s n="adv"/></r></p></e>
       <e><p><l>ना<s n="adv"/></l><r>नहीं<s n="adv"/></r></p></e>
@@ -1981,8 +1982,8 @@
       <e><p><l>ज<s n="n"/><s n="sg"/><s n="oc"/><s n="gen"/><s n="m"/></l><r>होना<s n="vblex"/><s n="iv"/><s n="perf"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>पुर<s n="vblex"/><s n="sg"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="imperf"/><s n="idct"/></l><r>पूरा<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>सोब<s n="vblex"/></l><r>अच्छा<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>जागोच<s n="adv"/><s n="m"/><s n="gen"/></l><r>जगा<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
-      <e><p><l>जागोच<s n="adv"/><s n="m"/><s n="gen"/></l><r>जगह<b/>ही<s n="n"/><s n="adj"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>जागो<s n="vblex"/><s n="ecl"/></l><r>जगा<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>जागो<s n="vblex"/><s n="ecl"/></l><r>जगह<b/>ही<s n="n"/><s n="adj"/><s n="sg"/><s n="nom"/></r></p></e>
    </section>
 </dictionary>
 
