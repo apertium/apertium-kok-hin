@@ -138,7 +138,7 @@
       <!-- Define entries within <e> here. -->
 
       <!--Nouns-->
-      <e><p><l>पाय</l><r>पैर</p><par n="1__n"/></e>
+      <e><p><l>पाय</l><r>पैर</r></p><par n="1__n"/></e>
       <e><p><l>दीस</l><r>दिन</r></p><par n="1__n"/></e>
       <e><p><l>जोर</l><r>बुखार</r></p><par n="1__n"/></e>
       <e><p><l>देश</l><r>देश</r></p><par n="1__n"/></e>
