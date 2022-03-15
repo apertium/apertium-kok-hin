@@ -1982,7 +1982,7 @@
       <e><p><l>ज<s n="n"/><s n="sg"/><s n="oc"/><s n="gen"/><s n="m"/></l><r>होना<s n="vblex"/><s n="iv"/><s n="perf"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>पुर<s n="vblex"/><s n="sg"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="imperf"/><s n="idct"/></l><r>पूरा<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>सोब<s n="vblex"/></l><r>अच्छा<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>जागो<s n="vblex"/><s n="ecl"/></l><r>जगा<s n="vblex"/><s n="iv"/><s n="stem"/></r></p></e>
+      <e><p><l>जागो<s n="vblex"/><s n="ecl"/></l><r>जगा<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
       <e><p><l>जागो<s n="vblex"/><s n="ecl"/></l><r>जगह<b/>ही<s n="n"/><s n="adj"/><s n="sg"/><s n="nom"/></r></p></e>
    </section>
 </dictionary>
