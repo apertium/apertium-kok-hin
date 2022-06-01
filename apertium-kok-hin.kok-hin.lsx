@@ -9,6 +9,8 @@
   <sdef n="adv"/>
   <sdef n="vblex"/>
   <sdef n="vbser"/>
+  <sdef n="cnjcoo"/>
+  <sdef n="cnjsub"/>
   <sdef n="sg"/>
   <sdef n="dc"/>
   <sdef n="oc"/>
@@ -39,8 +41,11 @@
   <sdef n="cmsg"/>
   <sdef n="sp"/>
   <sdef n="ninf"/>
+  <sdef n="voc"/>
+  <sdef n="ins"/>
   <sdef n="cl"/>
   <sdef n="ecl"/>
+  <sdef n="gen"/>
   <sdef n="det"  c="Determiner"/>
   <sdef n="post"     c="Postposition"/>
   </sdefs>
@@ -75,6 +80,10 @@
   <e lm="पोट काणी" c="पेट दर्द">
   <p><l>पोट<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>काणी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
   <r>पोट<b/>काणी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></r></p>
+  </e>
+  <e lm="देवाचो कौल" c="ईश्वर की सहमती">
+  <p><l>देव<s n="n"/><s n="sg"/><s n="oc"/><s n="gen"/><s n="m"/><d/>कौल<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
+  <r>देवाचो<b/>कौल<s n="n"/><s n="sg"/></r></p>
   </e>
   <e lm="रांदपाचें कूड" c="रसोईघर">
   <p><l>रांद<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="cnisit"/><d/>कूड<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
@@ -120,6 +129,14 @@
   <p><l>उत्तर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>पूर्व<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
   <r>उत्तर<b/>पूर्व<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></r></p>
   </e>
+  <e lm="घरा या" c="घर जायेंगे">
+  <p><l>घर<s n="n"/><s n="sg"/><s n="oc"/><s n="voc"/><d/>या<s n="cnjcoo"/><d/></l>
+  <r>घरा<b/>या<s n="n"/><s n="cnjcoo"/></r></p>
+  </e>
+  <e lm="नमन करतात" c="वंदन करते है">
+  <p><l>उत्तर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>पूर्व<s n="cnjcoo"/><d/></l>
+  <r>नमन<b/>करतात<s n="n"/><s n="cnjcoo"/></r></p>
+  </e>
 
   <!--Pronouns-->
   <e lm="हे खातीर" c="इसलिए">
@@ -143,6 +160,18 @@
   <e lm="काम करतां" c="काम कर रहा हूं">
   <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>कर<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/></l>
   <r>काम<b/>करतां<s n="n"/><s n="vblex"/><s n="sg"/></r></p>
+  </e>
+  <e lm="हाडून दिता" c="लाकर देता है">
+  <p><l>हाड<s n="vblex"/><d/>दि<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/></l>
+  <r>हाडून<b/>दिता<s n="vblex"/></r></p>
+  </e>
+  <e lm="जाग हाडटा" c="जगा देता है">
+  <p><l>जाग<s n="vblex"/><d/>हाड<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/></l>
+  <r>जाग<b/>हाडटा<s n="vblex"/></r></p>
+  </e>
+  <e lm="तो दिसता" c="दिखाई देता है">
+  <p><l>तो<s n="prn"/><d/>दिसता<s n="cnjcoo"/><d/></l>
+  <r>तो<b/>दिसता<s n="prn"/><s n="cnjcoo"/></r></p>
   </e>
   <e lm="उबो राव" c="खडे रहो">
   <p><l>उबो<s n="adj"/><s n="sg"/><s n="dc"/><s n="m"/><d/>राव<s n="vblex"/><d/></l>
@@ -260,9 +289,41 @@
   <p><l>चालू<s n="adj"/><d/>आसप<s n="vblex"/><d/></l>
   <r>चालू<b/>आसप<s n="adj"/><s n="vblex"/></r></p>
   </e>
+  <e lm="भायर सरतात" c="तैयार हो रहे है">
+  <p><l>भायर<s n="post"/><d/>सरतात<s n="vblex"/><d/></l>
+  <r>भायर<b/>सरतात<s n="post"/><s n="vblex"/></r></p>
+  </e>
   <e lm="धांवपाची सर्त" c="दौड़">
   <p><l>धांव<s n="vblex"/><s n="sg"/><s n="f"/><s n="p2"/><s n="p3"/><s n="cnisit"/><d/>सर्त<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
   <r>धांवपाची<b/>सर्त<s n="vblex"/><s n="n"/><s n="sg"/></r></p>
+  </e>
+  <e lm="काम करीत" c="काम करते">
+  <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>कर<s n="vblex"/><d/></l>
+  <r>काम<b/>करीत<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="तण घाल" c="चारा डाल">
+  <p><l>तण<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>घाल<s n="vblex"/><d/></l>
+  <r>तण<b/>घाल<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="बसलो ना" c="नहीं बैठा">
+  <p><l>बस<s n="vblex"/><s n="sg"/><s n="m"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><d/>ना<s n="adv"/><d/></l>
+  <r>बसलो<b/>ना<s n="vblex"/><s n="adv"/></r></p>
+  </e>
+  <e lm="पडटा तशे" c="ढलते ही">
+  <p><l>पड<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/>तशे<s n="cnjsub"/><d/></l>
+  <r>पडटा<b/>तशे<s n="vblex"/><s n="cnjsub"/></r></p>
+  </e>
+  <e lm="जागो रावता" c="सोता नहीं">
+  <p><l>जागो<s n="vblex"/><d/>राव<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/></l>
+  <r>जागो<b/>रावता<s n="vblex"/></r></p>
+  </e>
+  <e lm="उगते करता" c="खोलता है">
+  <p><l>उक्तें<s n="adv"/><s n="nt"/><d/>करता<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
+  <r>उगते<b/>करता<s n="adv"/><s n="n"/></r></p>
+  </e>
+  <e lm="साद घालता" c="आवाज दे रहा है">
+  <p><l>साद<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>घाल<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/></l>
+  <r>साद<b/>घालता<s n="n"/><s n="vblex"/><s n="sg"/></r></p>
   </e>
 
   <!--Adverbs-->
@@ -287,6 +348,10 @@
   <e lm="उदकाळ फोड" c="फफोला">
   <p><l>उदकाळ<s n="adj"/><d/>फोड<s n="vblex"/><d/></l>
   <r>उदकाळ<b/>फोड<s n="adj"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="कान शिटूक" c="कान तेज है">
+  <p><l>क<s n="n"/><s n="sg"/><s n="oc"/><s n="ins"/><d/>शिटूक<s n="adj"/><d/></l>
+  <r>कान<b/>शिटूक<s n="n"/><s n="adj"/></r></p>
   </e>
   <e lm="सपाट भूंय" c="समतल भूमि">
   <p><l>सपाट<s n="adj"/><d/>भूंय<s n="adj"/><d/></l>
@@ -316,6 +381,19 @@
   <p><l>सगले<s n="adj"/><s n="sg"/><s n="dc"/><s n="m"/><d/>मेळ<s n="vblex"/><d/></l>
   <r>सगले<b/>मेळ<s n="adj"/><s n="vblex"/></r></p>
   </e>
+  <e lm="काळो खरो" c="भले ही काला">
+  <p><l>काळो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>खरो<s n="adj"/><s n="sg"/><s n="dc"/><s n="m"/><d/></l>
+  <r>काळो<b/>खरो<s n="n"/><s n="adj"/><s n="sg"/><s n="dc"/></r></p>
+  </e>
 
+  <!--Miscellaneous-->
+  <e lm="शेत कसता" c="किसान हल चलाता है">
+  <p><l>शेत<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>कसप<s n="vblex"/><s n="nt"/><d/></l>
+  <r>शेत<b/>कसता<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="आसा कशी" c="कैसी है">
+  <p><l>आसा<s n="cnjsub"/><d/>कशी<s n="prn"/><s n="pres"/><s n="nt"/><d/></l>
+  <r>आसा<b/>कशी<s n="cnjsub"/><s n="prn"/></r></p>
+  </e>
   </section>
 </dictionary>
