@@ -392,8 +392,8 @@
   <r>शेत<b/>कसता<s n="n"/><s n="vblex"/></r></p>
   </e>
   <e lm="आसा कशी" c="कैसी है">
-  <p><l>आसा<s n="cnjsub"/><d/>कशी<s n="prn"/><s n="pres"/><s n="nt"/><d/></l>
-  <r>आसा<b/>कशी<s n="cnjsub"/><s n="prn"/></r></p>
+  <p><l>आसा<s n="adj"/><d/>कशी<s n="prn"/><s n="pres"/><s n="nt"/><d/></l>
+  <r>आसा<b/>कशी<s n="adj"/><s n="prn"/></r></p>
   </e>
   </section>
 </dictionary>
