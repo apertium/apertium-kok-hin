@@ -52,6 +52,7 @@
   <sdef n="ind"/>
   <sdef n="dem"/>
   <sdef n="fut"/>
+  <sdef n="top"/>
   </sdefs>
 
   <!--
@@ -113,9 +114,25 @@
   <p><l>पिताजी<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>को<s n="post"/><d/></l>
   <r>पिताजी<b/>को<s n="n"/><s n="post"/></r></p>
   </e>
+  <e lm="उदय को" c="उदयाक">
+  <p><l>उदय<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>को<s n="post"/><d/></l>
+  <r>उदय<b/>को<s n="n"/><s n="post"/></r></p>
+  </e>
   <e lm="बिल्ली को" c="बिलूक">
   <p><l>बिल्ली<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><d/>को<s n="post"/><d/></l>
   <r>बिल्ली<b/>को<s n="n"/><s n="post"/></r></p>
+  </e>
+  <e lm="पानी का" c="उदकाचो">
+  <p><l>पानी<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/><d/>का<s n="post"/><s n="gen"/><s n="m"/><s n="sg"/><d/></l>
+  <r>पानी<b/>का<s n="n"/><s n="post"/><s n="m"/><s n="sg"/></r></p>
+  </e>
+  <e lm="स्वभाव का" c="गुणाचे">
+  <p><l>स्वभाव<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>का<s n="post"/><s n="gen"/><s n="m"/><s n="sg"/><d/></l>
+  <r>स्वभाव<b/>का<s n="n"/><s n="post"/><s n="m"/><s n="sg"/></r></p>
+  </e>
+  <e lm="पैकूळ का" c="पैकूळचे">
+  <p><l>पैकूळ<s n="np"/><s n="top"/><s n="sg"/><d/>का<s n="post"/><s n="gen"/><s n="m"/><s n="sg"/><d/></l>
+  <r>पैकूळ<b/>का<s n="np"/><s n="post"/><s n="sg"/></r></p>
   </e>
   <e lm="पानी का" c="उदकाचो">
   <p><l>पानी<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/><d/>का<s n="post"/><s n="gen"/><s n="m"/><s n="sg"/><d/></l>
@@ -128,6 +145,10 @@
   <e lm="राजा की" c="राजाची">
   <p><l>राजा<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>का<s n="post"/><s n="gen"/><s n="f"/><s n="sg"/><d/></l>
   <r>राजा<b/>की<s n="n"/><s n="post"/><s n="sg"/></r></p>
+  </e>
+  <e lm="शाणू की" c="शाणूची">
+  <p><l>शाणू<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/><d/>का<s n="post"/><s n="gen"/><s n="f"/><s n="sg"/><d/></l>
+  <r>शाणू<b/>की<s n="n"/><s n="post"/><s n="sg"/></r></p>
   </e>
   <e lm="कागज के" c="कागदाचे">
   <p><l>कागज<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>का<s n="post"/><s n="gen"/><s n="m"/><s n="pl"/><d/></l>
@@ -357,6 +378,10 @@
   <p><l>जेजू<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/><d/>को<s n="post"/><d/></l>
   <r>जेजू<b/>को<s n="np"/><s n="post"/></r></p>
   </e>
+  <e lm="शाणू को" c="शाणूक">
+  <p><l>जेजू<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/><d/>को<s n="post"/><d/></l>
+  <r>शाणू<b/>को<s n="np"/><s n="post"/></r></p>
+  </e>
   <e lm="सांज को" c="आमोरेर">
   <p><l>सांज<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>को<s n="post"/><d/></l>
   <r>सांज<b/>को<s n="n"/><s n="post"/></r></p>
@@ -481,6 +506,10 @@
   <p><l>उठ<s n="vblex"/><s n="tv"/><s n="impf"/><s n="f"/><s n="sg"/><d/>हो<s n="vbser"/><s n="pres"/><s n="p2"/><s n="mf"/><s n="sg"/><d/></l>
   <r>उठती<b/>है<s n="vblex"/><s n="vbser"/><s n="sg"/></r></p>
   </e>
+  <e lm="बजती है" c="पडटा">
+  <p><l>बज<s n="vblex"/><s n="iv"/><s n="impf"/><s n="f"/><s n="sg"/><d/>हो<s n="vbser"/><s n="pres"/><s n="p2"/><s n="mf"/><s n="sg"/><d/></l>
+  <r>बजती<b/>है<s n="vblex"/><s n="vbser"/><s n="sg"/></r></p>
+  </e>
   <e lm="बज रहा है" c="वाजता">
   <p><l>बज<s n="vblex"/><s n="iv"/><s n="stem"/><d/>रह<s n="vaux"/><s n="perf"/><s n="m"/><s n="sg"/><d/>हो<s n="vbser"/><s n="pres"/><s n="p2"/><s n="mf"/><s n="sg"/><d/></l>
   <r>बज<b/>रहा<b/>है<s n="vblex"/><s n="vaux"/><s n="vbser"/></r></p>
@@ -576,6 +605,10 @@
   <e lm="सुन रहा है" c="आयकता">
   <p><l>सुन<s n="vblex"/><s n="tv"/><s n="stem"/><d/>रह<s n="vaux"/><s n="perf"/><s n="m"/><s n="sg"/><d/>हो<s n="vbser"/><s n="pres"/><s n="p2"/><s n="mf"/><s n="sg"/><d/></l>
   <r>सुन<b/>रहा<b/>है<s n="vblex"/><s n="vaux"/><s n="vbser"/></r></p>
+  </e>
+  <e lm="सुन रही है" c="आयकता">
+  <p><l>सुन<s n="vblex"/><s n="tv"/><s n="stem"/><d/>रह<s n="vaux"/><s n="perf"/><s n="f"/><s n="sg"/><d/>हो<s n="vbser"/><s n="pres"/><s n="p2"/><s n="mf"/><s n="sg"/><d/></l>
+  <r>सुन<b/>रही<b/>है<s n="vblex"/><s n="vaux"/><s n="vbser"/></r></p>
   </e>
   <e lm="हिल रहा है" c="हालता">
   <p><l>हिल<s n="vblex"/><s n="iv"/><s n="stem"/><d/>रह<s n="vaux"/><s n="perf"/><s n="m"/><s n="sg"/><d/>हो<s n="vbser"/><s n="pres"/><s n="p2"/><s n="mf"/><s n="sg"/><d/></l>
