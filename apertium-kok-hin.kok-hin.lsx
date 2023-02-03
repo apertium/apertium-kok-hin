@@ -146,6 +146,10 @@
   <p><l>उत्तर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>पूर्व<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
   <r>उत्तर<b/>पूर्व<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></r></p>
   </e>
+  <e lm="बरो गोलकी" c="अच्छा गोलकीपर था">
+  <p><l>बरो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>गोलकी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
+  <r>बरो<b/>गोलकी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></r></p>
+  </e>
   <e lm="वारो दर्यार" c="हवा सागर पर">
   <p><l>वारो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>दर्या<s n="n"/><s n="sg"/><s n="oc"/><s n="loc"/><d/></l>
   <r>वारो<b/>दर्यार<s n="n"/><s n="sg"/></r></p>
@@ -382,10 +386,6 @@
   <p><l>जागो<s n="vblex"/><d/>राव<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/></l>
   <r>जागो<b/>रावता<s n="vblex"/></r></p>
   </e>
-  <e lm="उगते करता" c="खोलता है">
-  <p><l>उक्तें<s n="adv"/><s n="nt"/><d/>करता<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
-  <r>उगते<b/>करता<s n="adv"/><s n="n"/></r></p>
-  </e>
   <e lm="साद घालता" c="आवाज दे रहा है">
   <p><l>साद<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>घाल<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/></l>
   <r>साद<b/>घालता<s n="n"/><s n="vblex"/><s n="sg"/></r></p>
@@ -394,9 +394,17 @@
   <p><l>वेल<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>गेलो<s n="cnjsub"/><d/></l>
   <r>वेल<b/>गेलो<s n="vblex"/></r></p>
   </e>
+  <e lm="ना जातलो" c="नष्ट हो जाएगा">
+  <p><l>ना<s n="cnjcoo"/><d/>जा<s n="vblex"/><s n="sg"/><s n="m"/><s n="p2"/><s n="p3"/><s n="fut"/><s n="def"/><s n="idct"/><d/></l>
+  <r>ना<b/>जातलो<s n="cnjcoo"/><s n="vblex"/></r></p>
+  </e>
   <e lm="गरी केली" c="मछली पकड़ने का डंडा तैयार की">
   <p><l>गरी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>केली<s n="cnjsub"/><d/></l>
   <r>गरी<b/>केली<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="उगते जाले" c="खुल गई">
+  <p><l>उक्तें<s n="adv"/><s n="nt"/><d/>जाले<s n="cnjcoo"/><d/></l>
+  <r>उगते<b/>जाले<s n="adv"/><s n="cnjcoo"/></r></p>
   </e>
 
   <!--Adverbs-->
@@ -423,6 +431,10 @@
   <e lm="जशें की" c="हालांकि">
   <p><l>जशें<s n="adv"/><d/>की<s n="ninf"/><d/></l>
   <r>जशें<b/>की<s n="adv"/><s n="ninf"/></r></p>
+  </e>
+  <e lm="कानार घेतली ना" c="सुनी नहीं">
+  <p><l>कान<s n="n"/><s n="sg"/><s n="oc"/><s n="loc"/><d/>घे<s n="vblex"/><s n="sg"/><s n="f"/><s n="p2"/><s n="p3"/><s n="fut"/><s n="def"/><s n="idct"/><d/>ना<s n="cnjcoo"/><d/></l>
+  <r>कानार<b/>घेतली<b/>ना<s n="n"/><s n="vblex"/><s n="cnjcoo"/></r></p>
   </e>
 
   <!--Adjectives-->
@@ -483,6 +495,10 @@
   <e lm="आसा कशी" c="कैसी है">
   <p><l>आसा<s n="cnjsub"/><d/>कशी<s n="prn"/><s n="pres"/><s n="nt"/><d/></l>
   <r>आसा<b/>कशी<s n="cnjsub"/><s n="prn"/></r></p>
+  </e>
+  <e lm="उगते करता" c="खोलता है">
+  <p><l>उक्तें<s n="adv"/><s n="nt"/><d/>करता<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
+  <r>उगते<b/>करता<s n="adv"/><s n="n"/></r></p>
   </e>
   </section>
 </dictionary>
