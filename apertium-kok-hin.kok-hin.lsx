@@ -118,6 +118,10 @@
   <p><l>रे<s n="ij"/><s n="voc"/><d/>बाबा<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
   <r>रे<b/>बाबा<s n="ij"/><s n="n"/></r></p>
   </e>
+  <e lm="हो ब्रेक" c="ये ब्रेक है">
+  <p><l>हो<s n="prn"/><d/>ब्रेक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
+  <r>हो<b/>ब्रेक<s n="prn"/><s n="n"/></r></p>
+  </e>
   <e lm="थंड वारें" c="मन्द पवन">
   <p><l>थंड<s n="adj"/><d/>वारें<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
   <r>थंड<b/>वारें<s n="adj"/><s n="n"/></r></p>
@@ -170,6 +174,10 @@
   <p><l>उत्तर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>पूर्व<s n="cnjcoo"/><d/></l>
   <r>नमन<b/>करतात<s n="n"/><s n="cnjcoo"/></r></p>
   </e>
+  <e lm="पोटली ना" c="पोटली गायब">
+  <p><l>पोटली<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>ना<s n="cnjcoo"/><d/></l>
+  <r>पोटली<b/>ना<s n="n"/><s n="cnjcoo"/></r></p>
+  </e>
   <e lm="झाडा कडेन" c="पेड़ के पास">
   <p><l>झाड<s n="n"/><s n="sg"/><s n="oc"/><s n="voc"/><d/>कडेन<s n="post"/><d/></l>
   <r>झाडा<b/>कडेन<s n="n"/><s n="post"/></r></p>
@@ -177,6 +185,10 @@
   <e lm="बस रे" c="बैठ रे">
   <p><l>बस<s n="vblex"/><d/>रे<s n="ij"/><s n="voc"/><d/><d/></l>
   <r>बस<b/>रे<s n="n"/></r></p>
+  </e>
+  <e lm="शल्य चिकित्सक" c="शल्य चिकित्सक">
+  <p><l>शल्य<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>चिकित्सक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
+  <r>शल्य<b/>चिकित्सक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></r></p>
   </e>
   <e lm="कुरू-कुरू" c="की आवाज">
   <p><l>कुर<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/><d/>-<s n="guio"/><d/>कुर<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/><d/><d/></l>
@@ -226,17 +238,17 @@
   <p><l>जाग<s n="vblex"/><d/>हाड<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/></l>
   <r>जाग<b/>हाडटा<s n="vblex"/></r></p>
   </e>
-  <e lm="बोब मारली" c="चिल्लाया">
+  <e lm="बोब मारली" c="चिल्लाया">
   <p><l>बोब<s n="vblex"/><d/>मार<s n="vblex"/><s n="sg"/><s n="f"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><d/></l>
   <r>बोब<b/>मारली<s n="vblex"/></r></p>
   </e>
-  <e lm="ना जाली" c="गायब हो गई">
+  <e lm="ना जाली" c="गायब हो गई">
   <p><l>ना<s n="cnjcoo"/><d/>जा<s n="vblex"/><s n="sg"/><s n="f"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><d/></l>
   <r>ना<b/>जाली<s n="cnjcoo"/><s n="vblex"/></r></p>
   </e>
   <e lm="तो दिसता" c="दिखाई देता है">
   <p><l>तो<s n="prn"/><d/>दिसता<s n="cnjcoo"/><d/></l>
-  <r>तो<b/>दिसता<s n="prn"/><s n="cnjcoo"/></r></p>
+  <r>तो<b/>दिसता<s n="vblex"/></r></p>
   </e>
   <e lm="उबो राव" c="खडे रहो">
   <p><l>उबो<s n="adj"/><s n="sg"/><s n="dc"/><s n="m"/><d/>राव<s n="vblex"/><d/></l>
@@ -253,6 +265,10 @@
   <e lm="रगत व्हांवप" c="खून बहना">
   <p><l>रगत<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>व्हांवप<s n="vblex"/><d/></l>
   <r>रगत<b/>व्हांवप<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="रडटा रे" c="रो रहे हो">
+  <p><l>रड<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/>रे<s n="ij"/><s n="voc"/><d/></l>
+  <r>रडटा<b/>रे<s n="vblex"/><s n="ij"/></r></p>
   </e>
   <e lm="शिकपाक दी" c="उत्तर देना">
   <p><l>शिक<s n="vblex"/><s n="pl"/><s n="f"/><s n="nt"/><s n="p3"/><d/>दी<s n="vblex"/><d/></l>
@@ -326,9 +342,9 @@
   <p><l>खर्च<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>करप<s n="vblex"/><d/></l>
   <r>खर्च<b/>करप<s n="n"/><s n="vblex"/></r></p>
   </e>
-  <e lm="शल्य चिकित्सक" c="शल्य चिकित्सक">
-  <p><l>शल्य<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>चिकित्सक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
-  <r>शल्य<b/>चिकित्सक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></r></p>
+  <e lm="याद जाली" c="याद आ गई">
+  <p><l>याद<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>ज<s n="n"/><s n="sg"/><s n="oc"/><s n="gen1"/><s n="f"/><d/></l>
+  <r>याद<b/>जाली<s n="vblex"/><s n="sg"/></r></p>
   </e>
   <e lm="क लागून" c="के कारन / के कारण">
   <p><l>क<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>लाग<s n="vblex"/><d/></l>
@@ -366,6 +382,10 @@
   <p><l>धांव<s n="vblex"/><s n="sg"/><s n="f"/><s n="p2"/><s n="p3"/><s n="cnisit"/><d/>सर्त<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
   <r>धांवपाची<b/>सर्त<s n="vblex"/><s n="n"/><s n="sg"/></r></p>
   </e>
+  <e lm="रडत रडत" c="रो रोकर">
+  <p><l>रड<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p3"/><s n="fut"/><s n="ind"/><s n="subjai"/><s n="impimp"/><d/>रड<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p3"/><s n="fut"/><s n="ind"/><s n="subjai"/><s n="impimp"/><d/></l>
+  <r>रडत<b/>रडत<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p3"/><s n="fut"/><s n="ind"/><s n="subjai"/><s n="impimp"/></r></p>
+  </e>
   <e lm="काम करीत" c="काम करते">
   <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>कर<s n="vblex"/><d/></l>
   <r>काम<b/>करीत<s n="n"/><s n="vblex"/></r></p>
@@ -385,6 +405,10 @@
   <e lm="जागो रावता" c="सोता नहीं">
   <p><l>जागो<s n="vblex"/><d/>राव<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/></l>
   <r>जागो<b/>रावता<s n="vblex"/></r></p>
+  </e>
+  <e lm="मारून घेतलो" c="सोता नहीं">
+  <p><l>मार<s n="vblex"/><s n="sg"/><s n="nt"/><d/>घे<s n="vblex"/><s n="sg"/><s n="m"/><s n="p2"/><s n="p3"/><s n="fut"/><s n="def"/><s n="idct"/><d/></l>
+  <r>मारून<b/>घेतलो<s n="vblex"/><s n="sg"/></r></p>
   </e>
   <e lm="साद घालता" c="आवाज दे रहा है">
   <p><l>साद<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>घाल<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/></l>
