@@ -55,8 +55,9 @@
   <sdef n="guio"/>
   <sdef n="acc"/>
   <sdef n="subjvol"/>
-  <sdef n="det"  c="Determiner"/>
-  <sdef n="post"     c="Postposition"/>
+  <sdef n="det"/>
+  <sdef n="post"/>
+  <sdef n="subjcn"/>
   </sdefs>
 
 <!--
@@ -203,6 +204,10 @@
   <e lm="हे खातीर" c="इसलिए">
   <p><l>हे<s n="prn"/><d/>खातीर<s n="post"/><d/></l>
   <r>हे<b/>खातीर<s n="prn"/><s n="post"/></r></p>
+  </e>
+  <e lm="आपूण जावन" c="खुद ही">
+  <p><l>आपूण<s n="prn"/><s n="pres"/><s n="nt"/><d/>जाव<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="fut"/><s n="ind"/><s n="subjcn"/><d/></l>
+  <r>आपूण<b/>जावन<s n="prn"/><s n="vblex"/><s n="nt"/></r></p>
   </e>
 
   <!--Verbs-->
@@ -417,6 +422,10 @@
   <e lm="वेल गेलो" c="देर हो गया">
   <p><l>वेल<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>गेलो<s n="cnjsub"/><d/></l>
   <r>वेल<b/>गेलो<s n="vblex"/></r></p>
+  </e>
+  <e lm="जालो ना" c="हुआ नहीं">
+  <p><l>ज<s n="n"/><s n="sg"/><s n="oc"/><s n="gen1"/><s n="m"/><d/>ना<s n="cnjcoo"/><d/></l>
+  <r>जालो<b/>ना<s n="vblex"/></r></p>
   </e>
   <e lm="ना जातलो" c="नष्ट हो जाएगा">
   <p><l>ना<s n="cnjcoo"/><d/>जा<s n="vblex"/><s n="sg"/><s n="m"/><s n="p2"/><s n="p3"/><s n="fut"/><s n="def"/><s n="idct"/><d/></l>

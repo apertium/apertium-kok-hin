@@ -47,8 +47,8 @@
   <sdef n="frm"/>
   <sdef n="imp"/>
   <sdef n="num"/>
-  <sdef n="past"       c="Past"/>
-  <sdef n="det"  c="Determiner"/>
+  <sdef n="past"/>
+  <sdef n="det"/>
   <sdef n="ind"/>
   <sdef n="dem"/>
   <sdef n="fut"/>
@@ -57,6 +57,7 @@
   <sdef n="dat"/>
   <sdef n="ins"/>
   <sdef n="erg"/>
+  <sdef n="ref"/>
   </sdefs>
 
   <!--
@@ -366,9 +367,9 @@
   <p><l>इंसान<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>ने<s n="post"/><d/></l>
   <r>इंसान<b/>ने<s n="n"/><s n="post"/></r></p>
   </e>
-  <e lm="चालक ने" c="ड्रायवरान">
-  <p><l>चालक<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>ने<s n="post"/><d/></l>
-  <r>चालक<b/>ने<s n="n"/><s n="post"/></r></p>
+  <e lm="ड्राइवर ने" c="ड्रायवरान">
+  <p><l>ड्राइवर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>ने<s n="post"/><d/></l>
+  <r>ड्राइवर<b/>ने<s n="n"/><s n="post"/></r></p>
   </e>
   <e lm="रतन ने" c="रतनान">
   <p><l>रतन<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>ने<s n="post"/><d/></l>
@@ -422,9 +423,9 @@
   <p><l>ट्रक<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>को<s n="post"/><d/></l>
   <r>ट्रक<b/>को<s n="n"/><s n="post"/></r></p>
   </e>
-  <e lm="चालक को" c="ड्रायवराक">
-  <p><l>चालक<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>को<s n="post"/><d/></l>
-  <r>चालक<b/>को<s n="n"/><s n="post"/></r></p>
+  <e lm="ड्राइवर को" c="ड्रायवराक">
+  <p><l>ड्राइवर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>को<s n="post"/><d/></l>
+  <r>ड्राइवर<b/>को<s n="n"/><s n="post"/></r></p>
   </e>
   <e lm="सागर को" c="दर्याक">
   <p><l>सागर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>को<s n="post"/><d/></l>
@@ -1167,6 +1168,10 @@
   <e lm="तुमने ही" c="तुवेंच">
   <p><l>तुम<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="erg"/><d/>ही<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><d/></l>
   <r>तुमने<b/>ही<s n="n"/><s n="adj"/><s n="sg"/></r></p>
+  </e>
+  <e lm="खुद ही" c="आपूण जावन">
+  <p><l>खुद<s n="prn"/><s n="ref"/><s n="mf"/><s n="sg"/><s n="nom"/><d/>ही<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><d/></l>
+  <r>खुद<b/>ही<s n="prn"/><s n="adj"/><s n="sg"/><s n="nom"/></r></p>
   </e>
   <e lm="मुझ पर" c="म्हजेर">
   <p><l>मुझ<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="obl"/><d/>पर<s n="post"/><d/></l>
@@ -2377,6 +2382,10 @@
   <e lm="होती तो" c="जाल्यार">
   <p><l>हो<s n="vbser"/><s n="impf"/><s n="f"/><s n="sg"/><d/>तो<s n="adv"/><d/></l>
   <r>होती<b/>तो<s n="vbser"/><s n="adv"/></r></p>
+  </e>
+  <e lm="हुआ नहीं" c="जालो ना">
+  <p><l>होना<s n="vblex"/><s n="iv"/><s n="perf"/><s n="m"/><s n="sg"/><d/>नहीं<s n="adv"/><d/></l>
+  <r>हुआ<b/>नहीं<s n="vblex"/><s n="adv"/></r></p>
   </e>
   <e lm="चढ़ते हो" c="चडटा">
   <p><l>चढ़<s n="vblex"/><s n="tv"/><s n="impf"/><s n="m"/><s n="pl"/><d/>हो<s n="adv"/><d/></l>
