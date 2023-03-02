@@ -243,6 +243,10 @@
   <p><l>काम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>कर<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/></l>
   <r>काम<b/>करतां<s n="n"/><s n="vblex"/><s n="sg"/></r></p>
   </e>
+  <e lm="दिसान दीस" c="दिन ब दिन">
+  <p><l>दीस<s n="n"/><s n="acc"/><d/>दीस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
+  <r>दिसान<b/>दीस<s n="n"/></r></p>
+  </e>
   <e lm="दिश्टी पडलो" c="दिखा">
   <p><l>दिश्ट<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/><d/>पड<s n="vblex"/><s n="sg"/><s n="m"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><d/></l>
   <r>दिश्टी<b/>पडलो<s n="n"/><s n="vblex"/></r></p>
@@ -556,6 +560,10 @@
   <e lm="उगते करता" c="खोलता है">
   <p><l>उक्तें<s n="adv"/><s n="nt"/><d/>करता<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
   <r>उगते<b/>करता<s n="adv"/><s n="n"/></r></p>
+  </e>
+  <e lm="ओड लावणी" c="मनोहर आकर्षक">
+  <p><l>ओड<s n="vblex"/><d/>लावणी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
+  <r>ओड<b/>लावणी<s n="vblex"/><s n="n"/></r></p>
   </e>
   </section>
 </dictionary>
