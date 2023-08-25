@@ -232,9 +232,29 @@
   <p><l>कुर<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/><d/>-<s n="guio"/><d/>कुर<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/><d/><d/></l>
   <r>कुरू<b/>-<b/>कुरू<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></r></p>
   </e>
+  <e lm="बाब सान" c="नन्हा बच्चा">
+  <p><l>बाब<s n="n"/><s n="m"/><d/>सान<s n="ninf"/><d/><d/></l>
+  <r>बाब<b/>सान<s n="n"/><s n="ninf"/></r></p>
+  </e>
+  <e lm="बाय सान" c="नन्ही बच्ची">
+  <p><l>बाय<s n="vblex"/><d/>सान<s n="ninf"/><d/><d/></l>
+  <r>बाय<b/>सान<s n="n"/><s n="ninf"/></r></p>
+  </e>
   <e lm="सुरू-सुरू" c="ध्वनि">
   <p><l>सुरू<s n="adj"/><d/>-<s n="guio"/><d/>सुरू<s n="adj"/><d/><d/></l>
   <r>सुरू<b/>-<b/>सुरू<s n="adj"/></r></p>
+  </e>
+  <e lm="कावळो काळो खरो" c="असल में कौआ काला">
+  <p><l>कावळो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>काळो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>खरो<s n="adv"/><s n="nt"/><d/></l>
+  <r>कावळो<b/>काळो<b/>खरो<s n="n"/><s n="adv"/></r></p>
+  </e>
+  <e lm="तसो जाणटो" c="उसी तरह बुजुर्ग हो">
+  <p><l>तसो<s n="cnjsub"/><d/>जाणटो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
+  <r>तसो<b/>जाणटो<s n="cnjsub"/><s n="n"/></r></p>
+  </e>
+  <e lm="जाणा मेळावोच ना" c="जानते है बैठक नहीं है">
+  <p><l>जाण<s n="n"/><s n="sg"/><s n="oc"/><s n="voc"/><d/>मेळावो<s n="n"/><s n="m"/><d/>ना<s n="cnjcoo"/><d/></l>
+  <r>जाणा<b/>मेळावोच<b/>ना<s n="n"/><s n="cnjcoo"/></r></p>
   </e>
 
   <!--Pronouns-->
@@ -252,6 +272,10 @@
   </e>
 
   <!--Verbs-->
+  <e lm="येयात." c="आकर.">
+  <p><l>ये<s n="vblex"/><d/>.<s n="sent"/><d/></l>
+  <r>येयात<b/>.<s n="vblex"/><s n="sent"/></r></p>
+  </e>
   <e lm="वतां." c="जा रहा हूँ।">
   <p><l>वच<s n="vblex"/><s n="sg"/><d/>.<s n="sent"/><d/></l>
   <r>वतां<b/>.<s n="vblex"/><s n="sent"/></r></p>
@@ -492,6 +516,10 @@
   <p><l>तण<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>घाल<s n="vblex"/><d/></l>
   <r>तण<b/>घाल<s n="n"/><s n="vblex"/></r></p>
   </e>
+  <e lm="मांडू नाकात" c="मत मचाया करो">
+  <p><l>तण<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>नाका<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p3"/><s n="fut"/><s n="ind"/><s n="subjai"/><s n="impimp"/><d/></l>
+  <r>मांडू<b/>नाकात<s n="n"/><s n="vblex"/><s n="sg"/></r></p>
+  </e>
   <e lm="बसलो ना" c="नहीं बैठा">
   <p><l>बस<s n="vblex"/><s n="sg"/><s n="m"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><d/>ना<s n="adv"/><d/></l>
   <r>बसलो<b/>ना<s n="vblex"/><s n="adv"/></r></p>
@@ -671,6 +699,10 @@
   <e lm="ओड लावणी" c="मनोहर आकर्षक">
   <p><l>ओड<s n="vblex"/><d/>लावणी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
   <r>ओड<b/>लावणी<s n="vblex"/><s n="n"/></r></p>
+  </e>
+  <e lm="कशी?" c="कैसी हो?">
+  <p><l>कशी<s n="prn"/><s n="pres"/><s n="nt"/><d/>?<s n="sent"/><d/></l>
+  <r>कशी<b/>?<s n="prn"/><s n="sent"/></r></p>
   </e>
   </section>
 </dictionary>
