@@ -252,6 +252,10 @@
   <p><l>तसो<s n="cnjsub"/><d/>जाणटो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
   <r>तसो<b/>जाणटो<s n="cnjsub"/><s n="n"/></r></p>
   </e>
+  <e lm="पंगडा पंगडानी" c="झुंड झुंड में">
+  <p><l>पंगड<s n="n"/><s n="sg"/><s n="oc"/><s n="voc"/><d/>पंगड<s n="n"/><s n="pl"/><s n="oc"/><s n="ins1"/><s n="cl"/><d/></l>
+  <r>पंगडा<b/>पंगडानी<s n="n"/><s n="oc"/></r></p>
+  </e>
   <e lm="जाणा मेळावोच ना" c="जानते है बैठक नहीं है">
   <p><l>जाण<s n="n"/><s n="sg"/><s n="oc"/><s n="voc"/><d/>मेळावो<s n="n"/><s n="m"/><d/>ना<s n="cnjcoo"/><d/></l>
   <r>जाणा<b/>मेळावोच<b/>ना<s n="n"/><s n="cnjcoo"/></r></p>
@@ -383,6 +387,10 @@
   <e lm="रडटा रे" c="रो रहे हो">
   <p><l>रड<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/>रे<s n="ij"/><s n="voc"/><d/></l>
   <r>रडटा<b/>रे<s n="vblex"/><s n="ij"/></r></p>
+  </e>
+  <e lm="झेमता कसो" c="सोता है कैसे">
+  <p><l>झेम<s n="vblex"/><s n="sg"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/>कसो<s n="adv"/><d/></l>
+  <r>झेमता<b/>कसो<s n="vblex"/><s n="adv"/></r></p>
   </e>
   <e lm="शिकपाक दी" c="उत्तर देना">
   <p><l>शिक<s n="vblex"/><s n="pl"/><s n="f"/><s n="nt"/><s n="p3"/><d/>दी<s n="vblex"/><d/></l>
@@ -559,6 +567,10 @@
   <e lm="उगते जाले" c="खुल गई">
   <p><l>उक्तें<s n="adv"/><s n="nt"/><d/>जाले<s n="cnjcoo"/><d/></l>
   <r>उगते<b/>जाले<s n="adv"/><s n="cnjcoo"/></r></p>
+  </e>
+  <e lm="दुरगार उडटा" c="दीवार उड़ता है">
+  <p><l>दुरीग<s n="adv"/><s n="sg"/><d/>उड<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/></l>
+  <r>दुरगार<b/>उडटा<s n="adv"/><s n="vblex"/><s n="sg"/></r></p>
   </e>
   <e lm="नज जाले" c="नहीं होने लगी">
   <p><l>नज<s n="vblex"/><d/>जाले<s n="cnjcoo"/><d/></l>
