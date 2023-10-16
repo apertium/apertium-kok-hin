@@ -204,6 +204,10 @@
   <p><l>झाड<s n="n"/><s n="sg"/><s n="oc"/><s n="voc"/><d/>कडेन<s n="post"/><d/></l>
   <r>झाडा<b/>कडेन<s n="n"/><s n="post"/></r></p>
   </e>
+  <e lm="खुरसा वयर" c="क्रास के उपर">
+  <p><l>खुरीस<s n="n"/><s n="nt"/><s n="sg"/><s n="pres"/><d/>वयर<s n="post"/><d/></l>
+  <r>खुरसा<b/>वयर<s n="n"/><s n="post"/></r></p>
+  </e>
   <e lm="बस रे" c="बैठ रे">
   <p><l>बस<s n="vblex"/><d/>रे<s n="ij"/><s n="voc"/><d/><d/></l>
   <r>बस<b/>रे<s n="n"/></r></p>
@@ -259,6 +263,30 @@
   <e lm="जाणा मेळावोच ना" c="जानते है बैठक नहीं है">
   <p><l>जाण<s n="n"/><s n="sg"/><s n="oc"/><s n="voc"/><d/>मेळावो<s n="n"/><s n="m"/><d/>ना<s n="cnjcoo"/><d/></l>
   <r>जाणा<b/>मेळावोच<b/>ना<s n="n"/><s n="cnjcoo"/></r></p>
+  </e>
+  <e lm="वारो जालो रागार" c="पवन को गुस्सा आया">
+  <p><l>वारो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>ज<s n="n"/><s n="sg"/><s n="oc"/><s n="gen1"/><s n="m"/><d/>राग<s n="n"/><s n="sg"/><s n="oc"/><s n="loc"/><d/></l>
+  <r>वारो<b/>जालो<b/>रागार<s n="n"/><s n="sg"/></r></p>
+  </e>
+  <e lm="वताचो रखरख जालो" c="कडी धूप हुई">
+  <p><l>वत<s n="n"/><s n="sg"/><s n="oc"/><s n="gen1"/><s n="m"/><d/>रखरख<s n="vblex"/><d/>ज<s n="n"/><s n="sg"/><s n="oc"/><s n="gen1"/><s n="m"/><d/></l>
+  <r>वताचो<b/>रखरख<b/>जालो<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="गर्दी ना जाली" c="भीड़ नही खतम हुई">
+  <p><l>गर्दी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>ना<s n="cnjcoo"/><d/>ज<s n="n"/><s n="sg"/><s n="oc"/><s n="gen1"/><s n="f"/><d/></l>
+  <r>गर्दी<b/>ना<b/>जाली<s n="n"/><s n="cnjcoo"/></r></p>
+  </e>
+  <e lm="उदकय निवळ" c="पानी भी साफ">
+  <p><l>उदक<s n="n"/><s n="nt"/><s n="pres"/><d/>निवळ<s n="cnjcoo"/><d/></l>
+  <r>उदकय<b/>निवळ<s n="n"/><s n="cnjcoo"/></r></p>
+  </e>
+  <e lm="आसोर आसलो" c="जाने के बाद बारिश रुका था">
+  <p><l>आसोर<s n="n"/><s n="nt"/><d/>आस<s n="vblex"/><s n="sg"/><s n="m"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><d/></l>
+  <r>आसोर<b/>आसलो<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="खोबऱ्याची पोटली" c="नारियल की गिरी">
+  <p><l>खोबरें<s n="n"/><s n="nt"/><s n="pres"/><s n="gen1"/><d/>पोटली<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
+  <r>खोबऱ्याची<b/>पोटली<s n="n"/></r></p>
   </e>
 
   <!--Pronouns-->
@@ -415,6 +443,10 @@
   <e lm="रीण दी" c="उधार देना">
   <p><l>रीण<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>दी<s n="vblex"/>दी<d/></l>
   <r>रीण<b/>दी<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="कर रे" c="करो">
+  <p><l>कर<s n="vblex"/><d/>रे<s n="ij"/><s n="voc"/><d/></l>
+  <r>कर<b/>रे<s n="vblex"/><s n="ij"/></r></p>
   </e>
   <e lm="मोग कर" c="प्यार करना">
   <p><l>मोग<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>कर<s n="vblex"/><d/></l>
@@ -592,6 +624,22 @@
   <p><l>हालत<s n="n"/><s n="sg"/><s n="oc"/><s n="voc"/><d/>तो<s n="prn"/><d/></l>
   <r>हालता<b/>तो<s n="n"/><s n="prn"/></r></p>
   </e>
+  <e lm="शिकपाक दी" c="सीखने को दीजिए">
+  <p><l>शिक<s n="vblex"/><s n="pl"/><s n="f"/><s n="nt"/><s n="p3"/><d/>दी<s n="vblex"/><d/></l>
+  <r>शिकपाक<b/>दी<s n="vblex"/></r></p>
+  </e>
+  <e lm="वाट पळयता वाट" c="प्रतीक्षा देख रहा है पीसना">
+  <p><l>वाट<s n="vblex"/><d/>पळय<s n="vblex"/><s n="sg"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/>वाट<s n="vblex"/><d/></l>
+  <r>वाट<b/>पळयता<b/>वाट<s n="vblex"/></r></p>
+  </e>
+  <e lm="आसा रे" c="है क्या">
+  <p><l>आसा<s n="cnjsub"/><d/>रे<s n="ij"/><s n="voc"/><d/></l>
+  <r>आसा<b/>रे<s n="vblex"/><s n="ij"/></r></p>
+  </e>
+  <e lm="चल मुखार" c="आगे चलो">
+  <p><l>चल<s n="vblex"/><d/>मुखार<s n="post"/><d/></l>
+  <r>चल<b/>मुखार<s n="vblex"/><s n="post"/></r></p>
+  </e>
 
   <!--Adverbs-->
   <e lm="खंय आसा" c="कहाँ है">
@@ -688,6 +736,18 @@
   <p><l>काळो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>खरो<s n="adj"/><s n="sg"/><s n="dc"/><s n="m"/><d/></l>
   <r>काळो<b/>खरो<s n="n"/><s n="adj"/><s n="sg"/><s n="dc"/></r></p>
   </e>
+  <e lm="चडच जाली" c="ज्यादा ही हो गयी थी">
+  <p><l>चड<s n="adj"/><s n="ecl"/><d/>ज<s n="n"/><s n="sg"/><s n="oc"/><s n="gen1"/><s n="f"/><d/></l>
+  <r>चडच<b/>जाली<s n="adj"/><s n="n"/></r></p>
+  </e>
+  <e lm="वेळ गेलो" c="देर हुआ">
+  <p><l>वेळ<s n="cnjsub"/><d/>गेलो<s n="cnjsub"/><d/></l>
+  <r>वेळ<b/>गेलो<s n="adj"/><s n="cnjsub"/></r></p>
+  </e>
+  <e lm="जिवा परस मोठो" c="खुद से भी भव्य">
+  <p><l>जीव<s n="n"/><s n="m"/><s n="pres"/><d/>परस<s n="post"/><d/>मोटो<s n="adj"/><s n="m"/><s n="sg"/><s n="pres"/><d/></l>
+  <r>जिवा<b/>परस<b/>मोठो<s n="n"/><s n="post"/><s n="adj"/></r></p>
+  </e>
 
   <!--Postposition-->
   <e lm="जिवा परस" c="खुद से भी">
@@ -720,9 +780,17 @@
   <p><l>ओड<s n="vblex"/><d/>लावणी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
   <r>ओड<b/>लावणी<s n="vblex"/><s n="n"/></r></p>
   </e>
+  <e lm="मेळत त्या" c="हर किसी">
+  <p><l>मेळ<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p3"/><s n="fut"/><s n="ind"/><s n="subjai"/><s n="impimp"/><d/>त्या<s n="ninf"/><d/></l>
+  <r>मेळत<b/>त्या<s n="vblex"/><s n="ninf"/></r></p>
+  </e>
   <e lm="कशी?" c="कैसी हो?">
   <p><l>कशी<s n="prn"/><s n="pres"/><s n="nt"/><d/>?<s n="sent"/><d/></l>
   <r>कशी<b/>?<s n="prn"/><s n="sent"/></r></p>
+  </e>
+  <e lm="कुरू केली" c="इशारा किया">
+  <p><l>कुर<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/><d/>केली<s n="cnjsub"/><d/></l>
+  <r>कुरू<b/>केली<s n="n"/><s n="cnjsub"/></r></p>
   </e>
   </section>
 </dictionary>
