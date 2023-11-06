@@ -325,6 +325,10 @@
   <p><l>सान्न<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>मार<s n="vblex"/><s n="sg"/><s n="f"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><d/></l>
   <r>सान्न<b/>मारली<s n="n"/><s n="vblex"/><s n="sg"/></r></p>
   </e>
+  <e lm="दिसा ताणे" c="के दिन उन्होंने">
+  <p><l>दीस<s n="n"/><s n="sg"/><d/>तो<s n="prn"/><s n="m"/><s n="sg"/><d/></l>
+  <r>दिसा<b/>ताणे<s n="n"/><s n="prn"/><s n="sg"/></r></p>
+  </e>
 
   <!--Pronouns-->
   <e lm="हे खातीर" c="इसलिए">
@@ -748,6 +752,10 @@
   <e lm="दिवपाक जायनात" c="देना नहीं चाहिए">
   <p><l>दिवप<s n="n"/><s n="sg"/><s n="oc"/><s n="dat"/><d/>जाय<s n="vblex"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><s n="vbneg"/><d/></l>
   <r>दिवपाक<b/>जायनात<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="जावपाचो आसलो" c="होने वाला था">
+  <p><l>जाव<s n="vblex"/><s n="sg"/><s n="m"/><s n="p2"/><s n="p3"/><s n="cnisit"/><d/>आस<s n="vblex"/><s n="sg"/><s n="m"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><d/></l>
+  <r>जावपाचो<b/>आसलो<s n="vblex"/><s n="sg"/><s n="m"/><s n="p2"/><s n="p3"/></r></p>
   </e>
 
   <!--Adverbs-->
