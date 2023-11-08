@@ -329,6 +329,14 @@
   <p><l>दीस<s n="n"/><s n="sg"/><d/>तो<s n="prn"/><s n="m"/><s n="sg"/><d/></l>
   <r>दिसा<b/>ताणे<s n="n"/><s n="prn"/><s n="sg"/></r></p>
   </e>
+  <e lm="भियत भियत" c="डर डर कर">
+  <p><l>भिये<s n="n"/><s n="nt"/><d/>भिये<s n="n"/><s n="nt"/><d/></l>
+  <r>भियत<b/>भियत<s n="n"/><s n="nt"/></r></p>
+  </e>
+  <e lm="आपले आपूण" c="अपने आप">
+  <p><l>आपल<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/><d/>आपूण<s n="prn"/><s n="pres"/><s n="nt"/><d/></l>
+  <r>आपले<b/>आपूण<s n="n"/><s n="prn"/></r></p>
+  </e>
 
   <!--Pronouns-->
   <e lm="हे खातीर" c="इसलिए">
@@ -756,6 +764,14 @@
   <e lm="जावपाचो आसलो" c="होने वाला था">
   <p><l>जाव<s n="vblex"/><s n="sg"/><s n="m"/><s n="p2"/><s n="p3"/><s n="cnisit"/><d/>आस<s n="vblex"/><s n="sg"/><s n="m"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><d/></l>
   <r>जावपाचो<b/>आसलो<s n="vblex"/><s n="sg"/><s n="m"/><s n="p2"/><s n="p3"/></r></p>
+  </e>
+  <e lm="पळे जाल्यार" c="देखा तो">
+  <p><l>पळे<s n="vblex"/><d/>जा<s n="vblex"/><s n="fut"/><s n="subjcn"/><s n="subjinv"/><s n="subjper"/><d/></l>
+  <r>पळे<b/>जाल्यार<s n="vblex"/></r></p>
+  </e>
+  <e lm="रडून रडून" c="रो रोकर">
+  <p><l>रड<s n="vblex"/><s n="sg"/><s n="nt"/><d/>रड<s n="vblex"/><s n="sg"/><s n="nt"/><d/></l>
+  <r>रडून<b/>रडून<s n="vblex"/><s n="sg"/><s n="nt"/></r></p>
   </e>
 
   <!--Adverbs-->
