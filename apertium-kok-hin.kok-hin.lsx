@@ -337,6 +337,10 @@
   <p><l>आपल<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/><d/>आपूण<s n="prn"/><s n="pres"/><s n="nt"/><d/></l>
   <r>आपले<b/>आपूण<s n="n"/><s n="prn"/></r></p>
   </e>
+  <e lm="माकडा माकडा" c="बंदर ओ बंदर">
+  <p><l>माकड<s n="n"/><s n="sg"/><s n="oc"/><s n="voc"/><d/>माकड<s n="n"/><s n="sg"/><s n="oc"/><s n="voc"/><d/></l>
+  <r>माकडा<b/>माकडा<s n="n"/><s n="sg"/><s n="oc"/><s n="voc"/></r></p>
+  </e>
 
   <!--Pronouns-->
   <e lm="हे खातीर" c="इसलिए">
@@ -772,6 +776,26 @@
   <e lm="रडून रडून" c="रो रोकर">
   <p><l>रड<s n="vblex"/><s n="sg"/><s n="nt"/><d/>रड<s n="vblex"/><s n="sg"/><s n="nt"/><d/></l>
   <r>रडून<b/>रडून<s n="vblex"/><s n="sg"/><s n="nt"/></r></p>
+  </e>
+  <e lm="लागले रडपाक" c="रोने लगी">
+  <p><l>लाग<s n="vblex"/><s n="pl"/><s n="m"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><d/>रड<s n="vblex"/><s n="pl"/><s n="f"/><s n="nt"/><s n="p3"/><d/></l>
+  <r>लागले<b/>रडपाक<s n="vblex"/><s n="pl"/><s n="p3"/></r></p>
+  </e>
+  <e lm="वयर काडले" c="ऊपर किया">
+  <p><l>वयर<s n="post"/><d/>काड<s n="vblex"/><s n="pl"/><s n="m"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><d/></l>
+  <r>वयर<b/>काडले<s n="post"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="दाखोवन दिलें" c="दिखा दिया">
+  <p><l>दाखोव<s n="vblex"/><s n="sg"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="fut"/><s n="ind"/><s n="subjcn"/><d/>दि<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><d/></l>
+  <r>दाखोवन<b/>दिलें<s n="vblex"/><s n="sg"/><s n="nt"/><s n="p1"/></r></p>
+  </e>
+  <e lm="खाता सो" c="खा रहे हो">
+  <p><l>खा<s n="vblex"/><s n="sg"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/>सो<s n="vblex"/><d/></l>
+  <r>खाता<b/>सो<s n="vblex"/></r></p>
+  </e>
+  <e lm="खाता खाता" c="खाते खाते">
+  <p><l>खा<s n="vblex"/><s n="sg"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/>खा<s n="vblex"/><s n="sg"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/></l>
+  <r>खाता<b/>खाता<s n="vblex"/><s n="sg"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/></r></p>
   </e>
 
   <!--Adverbs-->
