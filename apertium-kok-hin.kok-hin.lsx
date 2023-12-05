@@ -375,6 +375,34 @@
   <p><l>इतलें<s n="n"/><s n="m"/><s n="sg"/><s n="pres"/><d/>सकयल<s n="post"/><d/></l>
   <r>इतलो<b/>सकयल<s n="n"/><s n="adv"/></r></p>
   </e>
+  <e lm="तिसरे यत्तेक" c="तीसरी कक्षा में">
+  <p><l>तिसर<s n="n"/><s n="sg"/><s n="oc"/><s n="voc"/><d/>यत्ता<s n="n"/><s n="acc"/><d/></l>
+  <r>तिसरे<b/>यत्तेक<s n="n"/></r></p>
+  </e>
+  <e lm="भुरगे ल्हान" c="बच्चे छोटे">
+  <p><l>भुरग<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/><d/>ल्हान<s n="adj"/><d/></l>
+  <r>भुरगे<b/>ल्हान<s n="n"/><s n="adj"/></r></p>
+  </e>
+  <e lm="केंस मारतना" c="बाल काटते वक़्त">
+  <p><l>केंस<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>मार<s n="vblex"/><d/></l>
+  <r>केंस<b/>मारतना<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="तोखणाय तुस्त" c="प्रशंसा">
+  <p><l>तुस्त<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>तुस्त<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/><d/></l>
+  <r>तोखणाय<b/>तुस्त<s n="n"/><s n="dc"/><s n="nom"/></r></p>
+  </e>
+  <e lm="जापसालदारकी जबाबदारी" c="जिम्मेदारी">
+  <p><l>जापसालदारकी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>जबाबदार<s n="n"/><s n="sg"/><s n="oc"/><s n="voc"/><d/></l>
+  <r>जापसालदारकी<b/>जबाबदारी<s n="n"/><s n="sg"/></r></p>
+  </e>
+  <e lm="उमेदीन घरा" c="उत्साह से घर">
+  <p><l>उमेदीन<s n="adv"/><d/>घर<s n="n"/><s n="sg"/><s n="oc"/><s n="voc"/><d/></l>
+  <r>उमेदीन<b/>घरा<s n="adv"/><s n="n"/></r></p>
+  </e>
+  <e lm="मुबारक म्हूण" c="मुबारक बोलकर">
+  <p><l>मुबारक<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>म्हूण<s n="ninf"/><d/></l>
+  <r>मुबारक<b/>म्हूण<s n="n"/><s n="ninf"/></r></p>
+  </e>
 
   <!--Pronouns-->
   <e lm="हे खातीर" c="इसलिए">
@@ -392,6 +420,10 @@
   <e lm="हे खेपेक" c="इस बार">
   <p><l>हे<s n="prn"/><d/>खेप<s n="n"/><s n="sg"/><s n="oc"/><s n="dat"/><d/></l>
   <r>हे<b/>खेपेक<s n="prn"/><s n="n"/></r></p>
+  </e>
+  <e lm="ते कितले" c="वह कितने">
+  <p><l>ते<s n="prn"/><d/>कितले<s n="adv"/><s n="f"/><s n="abl"/><d/></l>
+  <r>ते<b/>कितले<s n="prn"/><s n="adj"/></r></p>
   </e>
 
   <!--Verbs-->
@@ -895,6 +927,26 @@
   <p><l>आयलो<s n="vblex"/><d/>ना<s n="cnjcoo"/><d/>म्हूण<s n="ninf"/><d/></l>
   <r>आयलो<b/>ना<b/>म्हूण<s n="vblex"/><s n="adv"/></r></p>
   </e>
+  <e lm="कितें केले" c="क्या किया">
+  <p><l>कितें<s n="prn"/><d/>के<s n="vblex"/><s n="pl"/><s n="m"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><d/></l>
+  <r>कितें<b/>केले<s n="prn"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="बरोवंक जाय" c="लिखना 	है">
+  <p><l>बरोव<s n="vblex"/><s n="sg"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="past"/><s n="fut"/><s n="subjai"/><s n="impimp"/><d/>जाय<s n="vblex"/><d/></l>
+  <r>बरोवंक<b/>जाय<s n="vblex"/></r></p>
+  </e>
+  <e lm="अजाप जालें" c="आश्चर्य हुआ">
+  <p><l>अजाप<s n="adj"/><d/>जालें<s n="cnjsub"/><d/></l>
+  <r>अजाप<b/>जालें<s n="adj"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="उबी रावली" c="खड़े हो उठे">
+  <p><l>उब<s n="vblex"/><s n="sg"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="imperf"/><s n="idct"/><d/>राव<s n="vblex"/><s n="sg"/><s n="f"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><d/></l>
+  <r>उबी<b/>रावली<s n="vblex"/><s n="sg"/><s n="f"/><s n="p2"/><s n="p3"/><s n="past"/><s n="idct"/></r></p>
+  </e>
+  <e lm="मानवताले आवडटाले" c="पसंद थे">
+  <p><l>मानव<s n="vblex"/><s n="pl"/><s n="m"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="imperf"/><s n="idct"/><d/>आवड<s n="vblex"/><s n="pl"/><s n="m"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="imperf"/><s n="idct"/><d/></l>
+  <r>मानवताले<b/>आवडटाले<s n="vblex"/><s n="pl"/><s n="m"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="imperf"/><s n="idct"/></r></p>
+  </e>
 
   <!--Adverbs-->
   <e lm="खंय आसा" c="कहाँ है">
@@ -936,6 +988,10 @@
   <e lm="कितलो वयर" c="कितनी ऊपर">
   <p><l>कितें<s n="prn"/><s n="m"/><d/>वयर<s n="post"/><d/></l>
   <r>कितलो<b/>वयर<s n="prn"/><s n="adv"/></r></p>
+  </e>
+  <e lm="आतां जर" c="अब अगर">
+  <p><l>आतां<s n="adv"/><d/>जर<s n="ninf"/><d/></l>
+  <r>आतां<b/>जर<s n="adv"/><s n="ninf"/></r></p>
   </e>
 
   <!--Adjectives-->
@@ -1078,6 +1134,10 @@
   <e lm="सट्ट करून" c="सटाक से">
   <p><l>सट्ट<s n="adv"/><s n="nt"/><d/>करून<s n="cnjsub"/><d/></l>
   <r>सट्ट<b/>करून<s n="adv"/><s n="cnjsub"/></r></p>
+  </e>
+  <e lm="अजाप जालें" c="आश्चर्य हुआ">
+  <p><l>अजाप<s n="adj"/><d/>जालें<s n="cnjsub"/><d/></l>
+  <r>अजाप<b/>जालें<s n="adj"/><s n="cnjsub"/></r></p>
   </e>
   </section>
 </dictionary>
