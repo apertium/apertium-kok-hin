@@ -65,6 +65,7 @@
   <sdef n="gen1"/>
   <sdef n="pret"/>
   <sdef n="idct"/>
+  <sdef n="cm"/>
   </sdefs>
 
   <!--

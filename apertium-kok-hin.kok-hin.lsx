@@ -66,6 +66,7 @@
   <sdef n="dat"/>
   <sdef n="tv"/>
   <sdef n="abl"/>
+  <sdef n="cm"/>
   </sdefs>
 
 <!--
