@@ -66,6 +66,7 @@
   <sdef n="gen1"/>
   <sdef n="pret"/>
   <sdef n="idct"/>
+  <sdef n="agnt"/>
   <sdef n="cm"/>
   </sdefs>
 
@@ -6262,7 +6263,7 @@
   </e>
   <e lm="सब प्रजा सुखी रहे इसलिए" c="सगळी प्रजा सुखी आसची म्हूण">
   <p><l>सब<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><d/>प्रजा<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><d/>सुख<s n="n"/><s n="f"/><s n="sg"/><d/>रह<s n="vaux"/><s n="prs"/><s n="p2"/><s n="sg"/><d/>इसलिए<s n="cnjcoo"/><d/></l>
-  <r>सब<b/>प्रजा<b/>सुखी<b/>रहे<b/>इसलिए<s n="adj"/><s n="n"/><s n="vaux"/><s n="anjcoo"/></r></p>
+  <r>सब<b/>प्रजा<b/>सुखी<b/>रहे<b/>इसलिए<s n="adj"/><s n="n"/><s n="vaux"/><s n="cnjcoo"/></r></p>
   </e>
   <e lm="शरारती था" c="मस्तोय जालो">
   <p><l>शरारती<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>हो<s n="vbser"/><s n="past"/><s n="m"/><s n="sg"/><d/></l>
