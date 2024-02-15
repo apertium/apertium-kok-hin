@@ -564,6 +564,18 @@
   <p><l>बुडकुलो<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>कितें<s n="prn"/><s n="m"/><d/></l>
   <r>बुडकुलो<b/>कितलो<s n="n"/><s n="prn"/></r></p>
   </e>
+  <e lm="दारा कडेन" c="दरवाजे के पास">
+  <p><l>दार<s n="n"/><s n="sg"/><s n="oc"/><s n="voc"/><d/>कडेन<s n="post"/><d/></l>
+  <r>दारा<b/>कडेन<s n="n"/><s n="post"/></r></p>
+  </e>
+  <e lm="घरा आसा" c="घर पर है">
+  <p><l>घर<s n="n"/><s n="sg"/><s n="oc"/><s n="voc"/><d/>आसा<s n="cnjsub"/><d/></l>
+  <r>घरा<b/>आसा<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="पाय, मांय" c="पिता, माँ">
+  <p><l>पाय<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>,<s n="cm"/><d/>मांय<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
+  <r>पाय<b/>,<b/>मांय<s n="n"/><s n="cm"/><s n="sg"/><s n="dc"/><s n="nom"/></r></p>
+  </e>
 
   <!--Pronouns-->
   <e lm="हे खातीर" c="इसलिए">
@@ -1404,6 +1416,38 @@
   <p><l>पाठ<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>कर<s n="vblex"/><d/></l>
   <r>पाठ<b/>करीत<s n="n"/><s n="vblex"/></r></p>
   </e>
+  <e lm="घट धर" c="कसके पकड़">
+  <p><l>घट<s n="adj"/><d/>धर<s n="vblex"/><d/></l>
+  <r>घट<b/>धर<s n="adj"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="तो पळयता" c="वह देख रहा है">
+  <p><l>तो<s n="prn"/><d/>पळय<s n="vblex"/><s n="sg"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><s n="imperf"/><s n="idct"/><d/></l>
+  <r>तो<b/>पळयता<s n="prn"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="बावली सांगताली" c="बोल रही थी">
+  <p><l>बावल<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/><d/>सांग<s n="vblex"/><s n="sg"/><s n="f"/><s n="p2"/><s n="p3"/><s n="past"/><s n="imperf"/><s n="idct"/><d/></l>
+  <r>बावली<b/>सांगताली<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="तूप घालता" c="घी डालें">
+  <p><l>तूप<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>घाल<s n="vblex"/><s n="sg"/><s n="m"/><s n="nt"/><s n="p2"/><s n="p3"/><s n="pres"/><d/></l>
+  <r>तूप<b/>घालता<s n="n"/><s n="vblex"/><s n="sg"/></r></p>
+  </e>
+  <e lm="खोशी जालो" c="खुश हो गया">
+  <p><l>खोशी<s n="adj"/><d/>ज<s n="n"/><s n="sg"/><s n="oc"/><s n="gen1"/><s n="m"/><d/></l>
+  <r>खोशी<b/>जालो<s n="adj"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="भाजी नाका" c="तरकारी नहीं चाहिए">
+  <p><l>भाजी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>नाका<s n="adv"/><d/></l>
+  <r>भाजी<b/>नाका<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="आवाज येतकच" c="आवाज आने पर">
+  <p><l>आवाज<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>ये<s n="vblex"/><s n="subjprop"/><d/></l>
+  <r>आवाज<b/>येतकच<s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="खोस मनोवया" c="जश्न मनायेंगे">
+  <p><l>खोस<s n="adj"/><d/>मनोव<s n="vblex"/><d/></l>
+  <r>खोस<b/>मनोवया<s n="adj"/><s n="vblex"/></r></p>
+  </e>
 
   <!--Adverbs-->
   <e lm="खंय आसा" c="कहाँ है">
@@ -1575,6 +1619,10 @@
   <e lm="एकूच घर आसा" c="एकमात्र घर है">
   <p><l>एकूच<s n="adj"/><d/>घर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>आसा<s n="cnjsub"/><d/></l>
   <r>एकूच<b/>घर<b/>आसा<s n="adj"/><s n="n"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="कामाक हुशार" c="काम में माहिर">
+  <p><l>काम<s n="n"/><s n="sg"/><s n="oc"/><s n="acc"/><d/>हुशार<s n="adj"/><d/></l>
+  <r>कामाक<b/>हुशार<s n="n"/><s n="adj"/></r></p>
   </e>
 
   <!--Postposition-->
