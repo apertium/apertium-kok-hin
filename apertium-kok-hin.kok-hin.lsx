@@ -1144,10 +1144,6 @@
   <p><l>कितें<s n="prn"/><d/>जालें<s n="vblex"/><d/></l>
   <r>कितें<b/>जालें<s n="prn"/><s n="vblex"/></r></p>
   </e>
-  <e lm="वाखोर घेवन" c="ले जाते वक़्त">
-  <p><l>वाखोर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>घे<s n="vblex"/><s n="nt"/><s n="pres"/><d/></l>
-  <r>वाखोर<b/>घेवन<s n="n"/><s n="vblex"/></r></p>
-  </e>
   <e lm="फुटना फुडें" c="फूटते ही">
   <p><l>फूट<s n="vblex"/><s n="nt"/><s n="sg"/><d/>फुडें<s n="ninf"/><d/></l>
   <r>फुटना<b/>फुडें<s n="vblex"/><s n="ninf"/></r></p>
@@ -1363,10 +1359,6 @@
   <e lm="हाडल्यो रे" c="लाया">
   <p><l>हाड<s n="vblex"/><s n="pl"/><s n="f"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><d/>रे<s n="ij"/><s n="voc"/><d/></l>
   <r>हाडल्यो<b/>रे<s n="vblex"/><s n="ij"/></r></p>
-  </e>
-  <e lm="म्हणपाक लागलो" c="बोला">
-  <p><l>म्हण<s n="vblex"/><s n="pl"/><s n="f"/><s n="nt"/><s n="p3"/><d/>लाग<s n="vblex"/><s n="sg"/><s n="m"/><s n="p1"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><d/></l>
-  <r>म्हणपाक<b/>लागलो<s n="vblex"/><s n="p3"/></r></p>
   </e>
   <e lm="घे पळय" c="ले देख">
   <p><l>घे<s n="vblex"/><d/>पळय<s n="vblex"/><d/></l>

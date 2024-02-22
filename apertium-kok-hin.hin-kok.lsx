@@ -209,9 +209,9 @@
   <p><l>ढोल<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>पर<s n="post"/><d/></l>
   <r>ढोल<b/>पर<s n="n"/><s n="post"/></r></p>
   </e>
-  <e lm="पहाड पर" c="दोंगरार">
-  <p><l>पहाड<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>पर<s n="post"/><d/></l>
-  <r>पहाड<b/>पर<s n="n"/><s n="post"/></r></p>
+  <e lm="पहाड़ पर" c="दोंगरार">
+  <p><l>पहाड़<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>पर<s n="post"/><d/></l>
+  <r>पहाड़<b/>पर<s n="n"/><s n="post"/></r></p>
   </e>
   <e lm="किनारे पर" c="तडीक">
   <p><l>किनारा<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/><d/>पर<s n="post"/><d/></l>
@@ -2318,7 +2318,7 @@
   <r>औरतों<b/>का<s n="n"/><s n="post"/></r></p>
   </e>
   <e lm="मित्रा के" c="मित्राबायच्या">
-  <p><l>मित्रा<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><d/>का<s n="post"/><s n="gen"/><s n="m"/><s n="pl"/><d/></l>
+  <p><l>मित्रा<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/><d/>का<s n="post"/><s n="gen"/><s n="m"/><s n="pl"/><d/></l>
   <r>मित्रा<b/>के<s n="np"/><s n="post"/></r></p>
   </e>
   <e lm="के दिन उन्होंने" c="दिसा ताणे">
@@ -2972,7 +2972,7 @@
   <r>उसे<b/>ही<s n="prn"/><s n="adj"/><s n="sg"/></r></p>
   </e>
   <e lm="मुझ पर" c="म्हजेर">
-  <p><l>मुझ<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="obl"/><d/>पर<s n="post"/><d/></l>
+  <p><l>मुझ<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="obl"/><d/>पर<s n="post"/><d/></l>
   <r>मुझ<b/>पर<s n="prn"/><s n="post"/></r></p>
   </e>
   <e lm="हम पर" c="आमचेर">
@@ -4409,10 +4409,6 @@
   <p><l>योजना<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><d/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><d/></l>
   <r>प्रार्थना<b/>करना<s n="n"/><s n="vblex"/></r></p>
   </e>
-  <e lm="झगड़ा करना" c="झगड">
-  <p><l>झगड़ा<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>करना<s n="vblex"/><s n="tv"/><s n="stem"/><d/></l>
-  <r>झगड़ा<b/>करना<s n="n"/><s n="vblex"/></r></p>
-  </e>
   <e lm="ऊपर उठाना" c="उबय">
   <p><l>ऊपर<s n="adv"/><d/>उठा<s n="vblex"/><s n="tv"/><s n="inf"/><s n="nom"/><s n="m"/><d/></l>
   <r>ऊपर<b/>उठाना<s n="adv"/><s n="vblex"/></r></p>
@@ -5156,10 +5152,6 @@
   <e lm="क्या हुआ" c="कितें जालें">
   <p><l>क्या<s n="det"/><s n="obl"/><s n="itg"/><s n="sp"/><d/>होना<s n="vblex"/><s n="iv"/><s n="perf"/><s n="m"/><s n="sg"/><d/></l>
   <r>क्या<b/>हुआ<s n="prn"/><s n="vblex"/></r></p>
-  </e>
-  <e lm="ले जाते वक़्त" c="वाखोर घेवन">
-  <p><l>ले जा<s n="vblex"/><s n="tv"/><s n="impf"/><s n="m"/><s n="pl"/><d/>वक्त<s n="n"/><s n="nt"/><s n="sg"/><d/></l>
-  <r>ले जाते<b/>वक़्त<s n="vblex"/><s n="n"/></r></p>
   </e>
   <e lm="फूटते ही" c="फुटना फुडें">
   <p><l>फूट<s n="vblex"/><s n="iv"/><s n="impf"/><s n="m"/><s n="pl"/><d/>ही<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><d/></l>
