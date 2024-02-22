@@ -783,6 +783,7 @@
       <e><p><l>सांबाळ</l><r>पालन</r></p><par n="1__n"/></e>
       <e><p><l>भार</l><r>भार</r></p><par n="1__n"/></e>
       <e><p><l>चंद्रीम</l><r>चंद्रमा</r></p><par n="1__n"/></e>
+      <e><p><l>वावर</l><r>काम</r></p><par n="1__n"/></e>
       
       <e><p><l>आशा</l><r>आशा</r></p><par n="2__n"/></e>
       <e><p><l>वर्ग</l><r>कक्षा</r></p><par n="2__n"/></e>
@@ -1536,6 +1537,7 @@
       <e><p><l>विचार<s n="vblex"/></l><r>विचार<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
       <e><p><l>विचार<s n="vblex"/></l><r>विचार<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>झाड<s n="vblex"/></l><r>वृक्ष<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>कोन<s n="n"/><s n="sg"/><s n="oc"/><s n="acc"/></l><r>कोने<b/>में<s n="n"/><s n="post"/></r></p></e>
       <e><p><l>कोन<s n="n"/><s n="sg"/><s n="oc"/><s n="dat"/></l><r>कोने<b/>में<s n="n"/><s n="post"/></r></p></e>
       <e><p><l>पवन<s n="n"/><s n="m"/><s n="sg"/><s n="pres"/><s n="gen1"/></l><r>पवन<b/>की<s n="n"/><s n="post"/><s n="sg"/></r></p></e>
       <e><p><l>शेत<s n="n"/><s n="sg"/><s n="oc"/><s n="dat"/></l><r>खेत<b/>को<s n="n"/><s n="post"/></r></p></e>
@@ -2040,6 +2042,10 @@
       <e><p><l>शेण<s n="vblex"/></l><r>गोबर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>परेशा<b/>मेरेन<s n="n"/><s n="post"/></l><r>परेश<b/>के पास<s n="np"/><s n="post"/></r></p></e>
       <e><p><l>वावर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>काम<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>वावर<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>काम<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>वावर<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>काम<s n="vblex"/><s n="tv"/><s n="stem"/></r></p></e>
+      <e><p><l>वावर<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>काम<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>वावर<s n="n"/><s n="pl"/><s n="dc"/><s n="nom"/></l><r>काम<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
       <e><p><l>कैलास<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>कैलाश<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>विक्रम<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>विक्रम<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>परेश<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/></l><r>परेश<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -2110,6 +2116,7 @@
       <e><p><l>झर<b/>पळय<s n="n"/><s n="vblex"/></l><r>जल<b/>स्त्रोत<b/>देख<s n="vblex"/><s n="n"/></r></p></e>
       <e><p><l>सुरा<s n="n"/><s n="sg"/><s n="oc"/><s n="loc"/></l><r>सुर<b/>में<s n="n"/><s n="post"/></r></p></e>
       <e><p><l>चौक<s n="n"/><s n="sg"/><s n="oc"/><s n="loc"/></l><r>चौक<b/>पर<s n="n"/><s n="post"/></r></p></e>
+      <e><p><l>चौक<s n="n"/><s n="pl"/><s n="oc"/><s n="loc"/><s n="cl"/></l><r>चौक<b/>पर<s n="n"/><s n="post"/></r></p></e>
       <e><p><l>व्हाळ<s n="n"/><s n="sg"/><s n="oc"/><s n="loc"/></l><r>झरने<b/>पर<s n="n"/><s n="post"/></r></p></e>
       <e><p><l>व्हाळ<s n="n"/><s n="pl"/><s n="oc"/><s n="loc"/><s n="cl"/></l><r>झरने<b/>पर<s n="n"/><s n="post"/></r></p></e>
       <e><p><l>किराची<s n="n"/><s n="m"/></l><r>तोते<b/>की<s n="n"/><s n="post"/><s n="sg"/></r></p></e>
@@ -3799,8 +3806,8 @@
       <e><p><l>हें<s n="cnjquot"/></l><r>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ते<b/>कितले<s n="prn"/><s n="adj"/></l><r>वह<b/>कितने<s n="prn"/><s n="adj"/></r></p></e>
       <e><p><l>कोणाक<s n="prn"/></l><r>किसी को<s n="prn"/><s n="ind"/></r></p></e>
-      <e><p><l>कोण<s n="n"/><s n="sg"/><s n="oc"/><s n="dat"/></l><r>किसी को<s n="prn"/><s n="ind"/></r></p></e>
-      <e><p><l>कोण<s n="n"/><s n="pl"/><s n="oc"/><s n="dat"/><s n="cl"/></l><r>किसी को<s n="prn"/><s n="ind"/></r></p></e>
+      <e><p><l>कोण<s n="n"/><s n="sg"/><s n="oc"/><s n="acc"/></l><r>किसी को<s n="prn"/><s n="ind"/></r></p></e>
+      <e><p><l>कोण<s n="n"/><s n="pl"/><s n="oc"/><s n="acc"/><s n="cl"/></l><r>किसी को<s n="prn"/><s n="ind"/></r></p></e>
       <e><p><l>कोण<b/>ना<b/>सो<s n="prn"/><s n="adv"/><s n="vblex"/></l><r>कौन<b/>नहीं है<s n="prn"/><s n="adv"/></r></p></e>
       <e><p><l>कोणाचे<s n="prn"/></l><r>क्या<s n="prn"/><s n="itg"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p><l>कोण<s n="n"/><s n="pl"/><s n="oc"/><s n="gen1"/><s n="m"/><s n="cl"/></l><r>क्या<s n="prn"/><s n="itg"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
