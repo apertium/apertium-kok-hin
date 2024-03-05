@@ -1342,6 +1342,10 @@
   <p><l>केला<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/><d/>का<s n="post"/><s n="gen"/><s n="f"/><s n="sg"/><d/>थाली<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><d/></l>
   <r>केले<b/>की<b/>थाली<s n="n"/><s n="post"/><s n="sg"/></r></p>
   </e>
+  <e lm="ईश्वर की" c="देवाचो">
+  <p><l>ईश्वर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>का<s n="post"/><s n="gen"/><s n="f"/><s n="sg"/><d/></l>
+  <r>ईश्वर<b/>की<s n="n"/><s n="post"/><s n="sg"/></r></p>
+  </e>
   <e lm="ईश्वर की सहमती" c="देवाचो कौल">
   <p><l>ईश्वर<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><d/>का<s n="post"/><s n="gen"/><s n="f"/><s n="sg"/><d/>सहम<s n="vblex"/><s n="iv"/><s n="impf"/><s n="f"/><s n="sg"/><d/></l>
   <r>ईश्वर<b/>की<b/>सहमती<s n="n"/><s n="post"/><s n="vblex"/><s n="sg"/></r></p>
@@ -5933,6 +5937,10 @@
   <e lm="झंडे की डोरी ओढ़ी" c="झेंड्याची दोरी ओडली">
   <p><l>झंडा<s n="n"/><s n="m"/><s n="sg"/><s n="obl"/><d/>का<s n="post"/><s n="gen"/><s n="f"/><s n="sg"/><d/>डोरी<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><d/>ओढ़<s n="vblex"/><s n="tv"/><s n="perf"/><s n="f"/><s n="sg"/><d/></l>
   <r>झंडे<b/>की<b/>डोरी<b/>ओढ़ी<s n="n"/><s n="post"/><s n="vblex"/><s n="sg"/></r></p>
+  </e>
+  <e lm="पढ़ते है" c="वाचप करता">
+  <p><l>पढ़<s n="vblex"/><s n="tv"/><s n="impf"/><s n="m"/><s n="pl"/><d/>हो<s n="vbser"/><s n="pres"/><s n="p2"/><s n="mf"/><s n="sg"/><d/></l>
+  <r>पढ़ते<b/>है<s n="vblex"/><s n="vbser"/></r></p>
   </e>
 
   <!--Adverbs-->

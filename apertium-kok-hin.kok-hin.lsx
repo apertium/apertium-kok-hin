@@ -1732,6 +1732,10 @@
   <p><l>झेंड<s n="n"/><s n="sg"/><s n="oc"/><s n="gen1"/><s n="f"/><d/>दोरी<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>ओड<s n="vblex"/><s n="sg"/><s n="f"/><s n="p2"/><s n="p3"/><s n="past"/><s n="pret"/><s n="idct"/><d/></l>
   <r>झेंड्याची<b/>दोरी<b/>ओडली<s n="n"/><s n="vblex"/><s n="sg"/></r></p>
   </e>
+  <e lm="वाचप करता" c="पढ़ते है">
+  <p><l>वाचप<s n="vblex"/><d/>करता<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/></l>
+  <r>वाचप<b/>करता<s n="vblex"/><s n="n"/></r></p>
+  </e>
 
   <!--Adverbs-->
   <e lm="खंय आसा" c="कहाँ है">
