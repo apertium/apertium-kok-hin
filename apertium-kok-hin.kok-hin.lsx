@@ -80,9 +80,13 @@
   <section id="main" type="standard">
 
   <!--Nouns-->
-  <e lm="देव बरें करूं" c="धन्यवाद / भगवान आपका भला करे">
+  <e lm="देव बरें करूं" c="भगवान आपका भला करे">
   <p><l>देव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>बरें<s n="adv"/><d/>कर<s n="vblex"/><s n="pl"/><s n="f"/><s n="m"/><s n="nt"/><s n="p1"/><s n="fut"/><s n="ind"/><s n="subjai"/><s n="impimp"/><d/></l>
   <r>देव<b/>बरें<b/>करूं<s n="n"/><s n="adv"/><s n="vblex"/></r></p>
+  </e>
+  <e lm="देव बरें करुं" c="धन्यवाद">
+  <p><l>देव<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>बरें<s n="adv"/><d/>कर<s n="vblex"/><s n="subjop"/><d/></l>
+  <r>देव<b/>बरें<b/>करुं<s n="n"/><s n="adv"/><s n="vblex"/></r></p>
   </e>
   <e lm="तकली फोडप" c="सिरदर्द">
   <p><l>तकली<s n="n"/><s n="sg"/><s n="dc"/><s n="nom"/><d/>फोडप<s n="vblex"/><d/></l>
